@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Moderner Staat, moderner Irrtum: die neue Religion](./chapter_1.md)
+- [Konkurrierende Weltanschauungen: Auf der Suche nach der Wahrheit](./chapter_2.md)

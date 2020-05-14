@@ -1,6 +1,8 @@
 [book]
 authors = ["Ruben Moor"]
-language = "en"
+language = "de"
 multilingual = false
 src = "src"
-title = "etatismus"
+title = "Etatismus"
+[output.html]
+theme = "src/theme"
