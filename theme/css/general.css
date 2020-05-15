@@ -86,7 +86,9 @@ h4 a.header:target {
 }
 .content p { line-height: 1.45em; }
 .content ol { line-height: 1.45em; }
+.content ol li { padding: 0.5em 0; }
 .content ul { line-height: 1.45em; }
+.content ul li { padding: 0.5em 0; }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
 .content img { max-width: 100%; }
@@ -97,6 +99,186 @@ h4 a.header:target {
 .content .header:link,
 .content .header:visited:hover {
     text-decoration: none;
+}
+
+div#footer {
+  font-size: 8pt;
+}
+
+button#comments-hide {
+  float: right;
+  color: var(--links);
+  border: none;
+  background-color: inherit;
+  display: none;
+}
+button#comments-hide:hover {
+  text-decoration: underline;
+}
+
+button#comments-show {
+  float: right;
+  color: var(--links);
+  border: none;
+  background-color: inherit;
+}
+button#comments-show:hover {
+  text-decoration: underline;
+}
+
+div.comments {
+  display: none;
+  font-size:12pt;
+}
+
+div.comments ul {
+  clear: both;
+  list-style-type: none;
+}
+
+div.schnack-comment-inner {
+  background-color: var(--table-alternate-bg);
+  padding: 10px 10px 0px 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+div.comments div.schnack-settings {
+    font-size: 8pt;
+    text-align: right;
+}
+
+div.schnack-form br {
+  display: none;
+}
+
+button.schnack-action {
+  border: none;
+  background-color: inherit;
+  display: inline-block;
+}
+
+button.schnack-action:hover {
+  text-decoration: underline;
+}
+
+button.schnack-send-comment {
+  padding: 8px;
+  border: 1px solid var(--table-header-bg);
+  border-radius: 8px;
+}
+button.schnack-send-comment:hover {
+  background-color: var(--table-header-bg);
+}
+
+button.schnack-preview {
+  border: none;
+  background-color: inherit;
+  color: var(--links);
+}
+
+button.schnack-preview:hover {
+  text-decoration: underline;
+}
+
+button.schnack-cancel-reply {
+  border: none;
+  background-color: inherit;
+  color: var(--links);
+}
+
+button.schnack-cancel-reply:hover {
+  text-decoration: underline;
+}
+
+button.schnack-write {
+  border: none;
+  background-color: inherit;
+  color: var(--links);
+}
+
+button.schnack-write:hover {
+  text-decoration: underline;
+}
+
+button.schnack-reply {
+  border: none;
+  background-color: var(--bg);
+  float: right;
+  color: var(--links);
+}
+button.schnack-reply:hover {
+  text-decoration: underline;
+}
+
+div.schnack-dateline {
+  font-weight: bold;
+  padding: 4px;
+  text-align: right;
+}
+
+span.schnack-date a {
+  font-size: 8pt;
+  text-decoration: none;
+  color: inherit;
+}
+span.schnack-date a:hover {
+  text-decoration: underline;
+}
+
+blockquote.schnack-body {
+  background-color: inherit;
+  padding: 5px;
+  border-style: none;
+  margin: -10px 0px 0px 0px;
+}
+
+textarea.schnack-body {
+  margin: 12px 0px;
+  padding: 8px;
+  width: 95%;
+  border: 1px solid var(--table-border-color);
+  border-radius: 8px;
+}
+
+button.schnack-signin-twitter {
+  padding: 8px;
+  border: 1px solid var(--table-header-bg);
+  border-radius: 8px;
+}
+
+button.schnack-signin-twitter:hover {
+  background-color: var(--table-header-bg);
+}
+
+button.schnack-signin-github {
+  padding: 8px;
+  border: 1px solid var(--table-header-bg);
+  border-radius: 8px;
+}
+
+button.schnack-signin-github:hover {
+  background-color: var(--table-header-bg);
+}
+
+button.schnack-signin-google {
+  padding: 8px;
+  border: 1px solid var(--table-header-bg);
+  border-radius: 8px;
+}
+
+button.schnack-signin-google:hover {
+  background-color: var(--table-header-bg);
+}
+
+button.schnack-signin-facebook {
+  padding: 8px;
+  border: 1px solid var(--table-header-bg);
+  border-radius: 8px;
+}
+
+button.schnack-signin-facebook:hover {
+  background-color: var(--table-header-bg);
 }
 
 table {

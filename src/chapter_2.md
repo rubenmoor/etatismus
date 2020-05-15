@@ -73,9 +73,9 @@ Ups. Was in Wirklichkeit geschah: Große Studios und Labels nutzen ihren Lobby-E
 
 Der Staat setzt routiniert Partikularinteressen durch und verkauft diese als kollektive Interessen, als das größere Gut, das Gemeinwohl. Es ist auch alles andere als einfach, kollektive Interessen korrekt zu identifizieren. Genau genommen handelt es sich dabei um eine unternehmerische Aufgabe. Die Vorhersage einer Nachfrage, bei der man auch falsch liegen kann. Nein: was der Staat in seinen Gesetzen erreichen kann, beschränkt sich auf drei Dinge:
 
-1 Populäre Maßnahmen ergreifen
-2 Seine Macht schützen und ausweiten
-3 Lobby-Interessen nachgehen
+1. Populäre Maßnahmen ergreifen
+2. Seine Macht schützen und ausweiten
+3. Lobby-Interessen nachgehen
 
 Der einzige Bereich, in dem sich der Politiker überhaupt mit realen Interessen von Bürgern auseinandersetzen muss, ist im Punkt 3. Lobbyismus garantiert eine gewisse, minimale Effizienz in der Gesetzgebung und verhindert immer wieder das komplette Abwürgen der Wirtschaft. Die populären Maßnahmen werden komplett von dem durchtränkt, was ich als vierten Pfeiler der Demokratie Sozialismus genannt habe: Wohlstand für alle. Streng genommen ist das sogar ein valides kollektives Interesse, nur bietet der Staat hier eine verführerische Abkürzung. Das kollektive Interesse für Wohlstand äußert sich bereits in der Existenz der Märkte, an denen es jedem frei steht, gegen Lohn seine Arbeitskraft anzubieten oder selber unternehmerisch aktiv zu werden. Die populären Maßnahmen des Staates tragen dank der sozialistischen Idee das falsche Vorzeichen. Wohlstand soll verteilt werden, dafür sollen die Produktiven belastet werden. Das betrifft die komplette “soziale” Gesetzgebung: Mietpreisbremse, Reichensteuer, Mehrwertsteuererhöhung, Öko-Steuer, Mindestlohn, …
 
