@@ -369,7 +369,7 @@ Zu Schröders Macht als Kanzler gehörte auch die Macht, sich einen Aufsichtsrat
 Insoweit Vorstandsmitglieder und Aufsichtsräte *ganz normale Leute* sind, sind Spitzenpolitiker es auch.
 Ihre ganz reale Macht lässt sich in ihrem Vermögen und ihrem Netzwerk bemessen.
 
-## Ein ideologischer Komplex
+## Die Menschheit: Eine formbare Masse
 
 Dass ein Politiker in seiner Macht begrenzt ist, heißt nicht, dass der Staat es ist.
 Adolf Hitler war außerordentlich erfolgreich – ein Ausnahmepolitiker – weil seine ausufernde Macht die Macht *seines Staates* ausufern lassen hat.
@@ -396,13 +396,20 @@ Man könnte auch von der «demokratischen Idee» sprechen, aber es ist sinnvoll 
 Dass Ideen mächtig sein können, kauft mir jeder ab.
 Wie mächtig Ideen wirklich sind, malt Susan Blackmore in [The Meme Machine](https://en.wikipedia.org/wiki/The_Meme_Machine) aus.
 Eine Zusammenfassung der wichtigsten Inhalte des Buchs findet sich in ihrem Artikel: [Evolution and Memes: The human brain as a selective imitation device](https://www.susanblackmore.uk/articles/evolution-and-memes-the-human-brain-as-a-selective-imitation-device/).
-Kurz geht es darum, dass selbst die *biologische Evolution* am Ende ausgehebelt wird durch die Existenz eines zweiten Replikators, des Mems, das vereinfacht als «ansteckende Ideen» erklärt wird.
+Kurz geht es darum, dass die *biologische Evolution* überflügelt wird durch die Existenz eines zweiten Replikators, des Mems, das vereinfacht als «ansteckende Idee» erklärt wird.
 Eigentlich handelt es sich bei Memen aber um Handlungen, die einem Zweck dienen.
 Beispielsweise ist die korrekte Verwendung von Feuersteinen mehr als nur eine Idee.
 Es geht vielmehr um eine Handlungsanweisung, ein Rezept, dass dem Zweck dient Feuer zu machen.
 Und dieses Rezept + sein Zweck ist das Mem.
 In der Welt des *homo erectus* ist die Fähigkeit Meme zu kopieren ein biologischer Selektionsvorteil.
-Laut Blackmore ließe sich damit erklären, wie das Gehirn des *homo* in so wenigen Generationen – in den Maßstäben der Evolution – auf die Größe des Gehirns des *homo sapiens* anwuchs.
+Richard Dawkins, der Erfinder des Begriffs, nennt als Beispiel für ein Mem den Kettenbrief.
+Wenn ich einen Kettenbrief erhalte, finde ich darin nicht nur die plumpe Anweisung, den Brief an möglichst viele Leute weiterzuleiten – auch Androhungen von Pech und Unglück, wenn ich das nicht tu, kommen häufig dazu.
+Und Religionen mit Missionsbefehl folgen ebenfalls einer plumpen memetischen Logik.
+Die Idee eines allmächtigen, persönlichen Gottes, der von mir außerdem verlangt, dass ich weitere Anhänger rekrutiere, verbreitet sich schlicht effektiver.
+Evolutionär betrachtet ist ebendies hinreichender Grund für die Existenz des Missionsbefehls.
+
+Laut Blackmore ließe sich durch Meme erklären, wie das Gehirn des *homo* in so wenigen Generationen – in den Maßstäben der Evolution – auf die Größe des Gehirns des *homo sapiens* anwuchs.
+Dieses große Gehirn macht uns heute zu zweckdienlichen Prozessoren der Meme – zu *meme machines* eben.
 Es ist Richard Dawkins populärer Verdienst, in seinem Buch *The Selfish Gene* einen zentralen Mechanismus der Evolution dem Laien zugänglich gemacht zu haben:
 In einer evolvierenden Spezies dominieren langfristig immer die Gene, die es verstehen sich zu kopieren.
 Evolution bedeutet sogar, dass die komplette biologische Vielfalt, die wir beobachten können, allein ein Resultat daraus ist, dass Gene unterschiedliche – gleichsam erfolgreiche – Reproduktionsstrategien gefunden haben.
@@ -414,19 +421,46 @@ Nun ist wichtig, nicht zu romantisieren.
 Die Natur in all ihrer Vielfalt lässt zu, dass eine Hyäne dem geschwächten Zebra bei lebendigem Leibe das Gesicht abnagt.
 Das wünsche ich meinen ärgsten Feinden nicht.
 Auch das Aussterben ganzer Spezies inklusive eines effektiven Rückgangs der Artenvielfalt ist Teil des normalen Verlaufs der Evolution.
-Für die menschliche Kultur heißt das:
+Übertragen auf die menschliche Kultur heißt das:
 Wir sehen eine Vielfalt von Ideen, aber logischerweise finden wir 99% davon furchtbar.
-Die Existenz von Musik in der menschlichen Kultur könnte man phänomenal nennen – oder eine gewaltige Ressourcenverschwendung.
-Die Funktion von Musik ist nicht wirklich klar.
+Die Existenz von Reggaeton-Musik könnte man phänomenal nennen – oder eine gewaltige Ressourcenverschwendung.
+Objektiv gilt das für die komplette Musik an sich.
+Ihre Daseinszweck ist nicht wirklich klar.
 Klar ist, dass Musik erfolgreiche Meme macht.
 Lieder sind der Inbegriff des Ich-will-kopiert-werden.
 Musik dürfte etwas über unser Gehirn aussagen, denn dieses wird durch eingängige Melodien manipuliert:
 Eine akkustische Wahrnehmung ohne den Informationsgehalt von Sprache, die subtile und weniger subtile Emotionen hervorruft, ist völlig ausreichend für ein gutes Mem.
 Wir rationalisieren den Prozess mit den Worten: «Musik ist doch was tolles!»
 
-Das Beten zu Gott ist auch so ein Mem wie ~~religiöse Rituale~~ Rituale allgemein.
-Das Töten nach ethnischen Kriterien ist ein Mem, das besonders im 20. Jahrhundert zu Popularität gelangt ist – und natürlich knüpft es an unsere primitive Biologie an.
-Ein definierendes Mem der Neuzeit ist *jede Technologie*.
+Kettenbriefe und Religionen mit Missionsbefehl mögen Beispiele dafür sein, wie plump sich letztlich erfolgreiche Ideen verbreiten können.
+Spannend in dem Zusammenhang ist auch die Existenz von Verschwörungstheorien.
+Wer annimmt, die Erde sei eine Hohlkugel, in dessen Inneren intelligente Wesen leben, die hinter den Kulissen die Geschicke der menschlichen Gesellschaft bestimmen, empfindet möglicherweise ein aufgeregtes Kribbeln.
+Dass ich von Freunden und Familie daraufhin für verrückt erklärt werde, bestätigt mich in meiner Sicht noch:
+Selbstverständlich sind die – wie die meisten Menschen – von eben diesen Wesen im Inneren der Erde verblendet worden.
+Mein Verschwörungstheorie-Mem kommt im Paket:
+Antworten auf diverse Zweifel und Anfechtungen werden direkt mitgeliefert.
+Meine jetzt folgendes Gefühl von Einsamkeit ist der Preis für mein geheimes Wissen.
+Finde ich eines Tages einen Gleichgesinnten, bilden wir direkt eine verschworene Gruppe.
+Gemeinsam stärken wir uns in unsrem Glauben und sprechen uns intellektuelle Überlegenheit zu.
+Je geringer die soziale Akzeptanz für meine Verschwörungstheorie, desto größer ist mein emotionales Investment.
+Plausible Theorien, die eventuell ihren Weg in die Öffentlichkeit finden, sind als erfolgreiche Verschwörungstheorie in diesem Sinne ungeeignet.
+Julian Assange leidet darunter, denn er trägt zur Enthüllung realer verschwörerischer Missstände bei.
+Die Informationen, die durch [Cablegate](https://de.wikipedia.org/wiki/Inhalte_der_Ver%C3%B6ffentlichung_von_Depeschen_US-amerikanischer_Botschaften_durch_Wikileaks) zutage gefördert werden, sind in der Szene lange nicht so heißt diskutiert wie letztlich substanzlose Spekulationen über den wahren Verlauf der Ereignisse des 11. Septembers 2001.
+Wikileaks Enthüllung wahrer Verschwörungen sind nicht per se erfolgreiche Meme.
+Dramatischer ausgedrückt: *Die Wahrheit* ist nicht per se erfolgreiches Mem.
+Dass *Ehrlichkeit* als Tugend ein verbreitetes Mem ist, vermag nicht daran grundsätzlich etwas zu ändern, denn zu dieser gesellt sich nur zu oft das Mem des *flexiblen Umgangs mit Moral*.
+
+Bei der Betrachtung von Religion aus Sicht der Meme fällt auf, wie diverse Ideenkomplexe zusammen eine vollständige Struktur bilden.
+Das Beten zum allmächtigen Gott ist ein Mem, so wie die Verinnerlichung von «Jesus liebt dich» und das Ächten von Onanie.
+Das islamische Verbot Schweinefleisch zu essen, ist sehr gut als Mem zu verstehen, weil es ohne tiefsinnige Bedeutung emotionale Investition und Identifikation impliziert.
+Der Respekt vor religiösen Autoritäten ist ein wichtiges strukturelles Mem und ermöglicht bedeutungsvolle Ämter zu schaffen, die losgelöst von Personen die Generationen überdauern.
+In der Biologie resultiert die Evolution in die Existenz makroskopischer Organismen – darunter Tiere und Pflanzen.
+Jedes Gen erfüllt im Zusammenspiel mit den umgebenden Genen eine Funktion und legt in einem Menschen die Augenfarbe, die Blutgruppe aber auch grob die Intelligenz und diverse Verhaltensweisen fest.
+Auch Meme bilden im Zusammenspiel Organismen – Blackmore spricht vom Memplex.
+Dawkins verglich Religionen mal mit Viren – zutreffend ist dagegen die Identifikation als *memetischer Organismus*, als Memplex.
+Die Menschen sind für die Meme auch keine Wirte, sondern eher die formbare Masse – so wie Kohlenstoffverbindungen die Masse bilden, aus der sich die DNA formt.
+
+Ein definierendes Mem der Neuzeit, das die Menschenmasse vor unseren Augen formt, ist *jede Technologie*.
 Schrift war schon immer ein wichtiges Medium für Meme, um den Sprung von einem Gehirn ins nächste zu erleichtern.
 Die Erfindung des Buchdrucks hat diesen Mechanismus dem kleinen Mann zugänglich gemacht.
 (Der kleine Mann wurde unter dem Namen «Martin Luther» weltberühmt. Er versetzte der katholischen Kirche in turbulenten Zeiten den Todesstoß.)
@@ -437,22 +471,36 @@ Darin konnte jeder lesen – sofern er denn lesen konnte, der Papst sei der Anti
 Sakrileg!
 Die katholische Kirche war ganz überwiegend machtlos angesichts dieser Entwicklung – der memetischen Evolution.
 Die Druckerpresse findet heute ihre Fortsetzung im Internet.
-Einmal mehr wird das Kopieren jedweder Art erleichtert und was sich Ende der 90er Jahre noch «Blogger» nannte, ist jetzt der durchschnittliche Facebook-Nutzer.
+Einmal mehr wird das Kopieren jedweder Art erleichtert und was sich Ende der 90er Jahre noch «Blogger» nannte, ist jetzt jeder zweite Facebook-Nutzer.
 Dass da inhaltlich viel Unfug verbreitet wird, tut dieser Entwicklung keinen Abbruch.
 Mich persönlich wurmt am meisten, dass Menschen täglich so viel Zeit auf Spiegel Online verbringen, dass sie in derselben Zeit jeden Monat effektiv mehrere Bücher hätten lesen können.
-Sogenannte Nachrichten bespielen unsere Synapsen effektiver als langatmige Texte ohne bunte Bilder – und ohne vorgeblichen Bezug zum Tagesgeschehen.
+Sogenannte *Nachrichten* bespielen unsere Synapsen effektiver – sind süchtigmachender – als langatmige Texte ohne bunte Bilder – und ohne vorgeblichen Bezug zum Tagesgeschehen.
 In einer Art *memetischen Ironie* gab ein Arbeitskollege mir gegenüber freiheraus zu: «Ich lese Spiegel Online nur, damit ich beim Mittagessen mitreden kann.»
+
+## Der Mensch, der sich über seine Natur erhebt? Bitte machen wir uns nichts vor
 
 Dass da eine Dynamik vor unseren Augen stattfindet, die wir sogar wahrnehmen können und die uns gefangen nimmt, kann beängstigend sein.
 Die Gegenreaktion lässt nicht lang auf sich warten.
 Sich den Memen zu entziehen ist aus meiner Sicht jedoch ein hoffnungsloses Unterfangen, so populär diese Idee – dieses Mem! – auch sein mag.
-Tatsächlich sind die Anweisungen Siddharta Gautamas an seine Schüler, die *Buddhisten*, sehr gut vor dem Hintergrund ewig drückender und drängelnder Meme zu verstehen.
+Bei vollständiger Betrachtung der Meme finden wir auch viel *Funktionales*.
+Oliver Heulers Meme rund um seine Interpretation von gewaltsamer Kommunikation erreichen mich als Einsichten zur Verbesserung meines Wohlbefindens – ich schreibe ihnen explizit einen Wert zu, bedanke mich sogar fürs Anstecken mit seinen selbstsüchtigen Ideen.
+Dass es aber solche guten, nützlichen Meme geben sollte und wir uns nur vor den «schlechten Memen» in Acht zu nehmen hätten, wäre eine ganz tückische Variante des naturalistischen Fehlschlusses.
+Nein: Jede Bewertung ist selber ein Mem und evolviert wertfrei vor sich hin.
+Den Fehlschluss vermeide ich ganz einfach, indem ich schlicht meiner subjektiven Einschätzung folgend *gut* und *schlecht* nenne, was ich eben *gut* oder *schlecht* finde.
+Der Mensch – nicht die Natur – ist Schöpfer von «gut» und «schlecht».
+Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb zielloser, nutzloser Meme verbirgt, die abwechselnd mein Gehirn besitzen, muss mich nicht weiter beschäftigen.
+Ebensowenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
+Bin das wirklich ich oder bin ich bloßer Sklave meiner Natur?
+Beim Essen – und beim Sex – mache ich mir solche Gedanken eher selten.
+Dass sich wiederum jemand mit seinen Genen identifizieren könnte, möchte ich niemandem verübeln, kann ich aber auch nicht weiter ernst nehmen.
+
+Die Anweisungen Siddharta Gautamas an seine Schüler, die *Buddhisten*, sind sehr gut vor dem Hintergrund ewig drückender und drängelnder Meme zu verstehen.
 Und es ist kein Zufall, dass auch Blackmore diese Parallele zieht und in ihrem Buch im letzten Kapitel dem Leser die Meditation nahelegt.
 In den ersten Schritten beim Meditieren tauchen fortwährend unerwünscht wilde Gedanken auf, die erneutes Fokussieren nötig machen.
 Man spürt geradezu den memetischen Druck und – wer dabei bleibt – die zeitweilige Befreiung davon.
 Ein anderer Aspekt der Freiheit von den Memen ist die Ablehnung von Fortschritt.
 Die *Amish People* sind ein Beispiel für einen systematischen Rückzug in eine vergangene Welt und somit eine erfolgreiche Abwehr moderner Meme.
-Damit ist bewiesen: Es ist möglich, nicht nur Individuen, sondern auch größere Gruppen können sich also den Memen entziehen – sofern sie wollen.
+Man mag das als Beweis dafür interpretieren, dass es doch möglich ist: Nicht nur Individuen, sondern auch größere Gruppen können sich den Memen entziehen – sofern sie wollen.
 Damit sollte die Angst vor den Memen als solche eigentlich erledigt sein.
 Die *Amish People* machen allerdings deutlich, welchen Preis ich für den Rückzug zahlen muss.
 Auch entlegende Bauernhöfe werden zunehmend durch Mobilfunknetze erreicht und dort drängen die Meme an der Tür nur so darum, hereingelassen zu werden.
@@ -460,9 +508,37 @@ Tatsächlich sind die Amish eine erfolgreiche Ausnahme unter vielen gescheiterte
 Man könnte es auch so formulieren:
 Den Amish ist es gelungen, religiöse Meme, genauer: ihr *amish meme* an die Stelle der modernen Welt zu setzen.
 
+# Ein ideologischer Komplex
 
+Der moderne Staat ist gewissermaßen der erfolgreiche Memplex der Neuzeit.
+Deshalb wird leicht fündig, wer Analogien zwischen Kirche und Staat sucht.
+Der «Vater Staat» ist – dem christlichen Gottesbild nicht unähnlich – streng aber gerecht.
+Der Sozialismus – populärer unter dem Namen «soziale Gerechtigkeit» – hat ein explizites Heilsversprchen, den Himmel auf Erden in Form von Wohlstand für alle.
+Dabei sieht die genaue Wohlstandsdefinition nicht vor, dass dieses Heilsversprechen jemals realisiert werden kann: Ein deutscher Harz-IV-Empfänger mag komfortabler leben als ein mittelalterlicher Fürst – oder als ein Bürgermeister eines kleinen indischen Dorfes meinetwegen – und gilt hierzulande trotzdem als arm.
+Die Nation ist Identifikationsmerkmal und ermöglicht Solidarität und Ausgrenzung.
+Als Norddeutscher hab ich mit Schwaben und Bayern äußerst wenig gemein, könnte mich mit so manchem Dänen und Schweden gut verstehen, soll aber trotzdem eben Deutscher sein.
+Protestanten und Katholiken pflegen ähnliche Marotten.
 
+Die Herrschaft ist der eigentlich bestimmende Memplex – so weit verbreitet, dass die politische Weltkarte jeden bewohnten Flecken der Erde eindeutig mit einer Farbe füllt.
+Wo sind die organisierten Atheisten, die sich als herrschaftsfreie Anarchisten nennen dürften?
+Als ich den Staat als Drachen einführte, erwähnte ich:
+Nur sofern jemand im Dienste des Staates handelt, sehe ich in ihm den Drachen.
+In unserer Freizeit sind selbst die pflichtbewussten Deutschen ganz ausgezeichnete Anarchisten.
+Man mag das manchmal übersehen, denn eben wie die Atheisten haben sie weder Papst noch Kirchen.
+Wer sich die Staaten-Memplexe weiter ausmalen will, darf sich das Dritte Reich als Tyrannosaurus Rex vorstellen.
+Der T-Rex hat gewissermaßen eine Erbkrankheit – eine Mutation! – die das Tier direkt nach der Geburt in einen Tötungswahn versetzte.
+Erschöpft wurde es dann von nicht weniger furchtbaren Raubtieren, deren Tötungswahn im Vergleich milder ausfiel, außer Gefecht gesetzt und aufgefressen.
+Die bolschewistische Mutation des «Mütterchen Russlands» resultierte in ein völlig neues Tier, dass eines Tages überraschend an inneren Blutungen krepierte.
+Die Schweiz stelle ich mir vor, als einen listen Fuchs.
+Füchse sind Raubtiere, aber irgendwie niedlich, mit Puschelschwanz und elegantem Fell.
+Wäre eine Schweiz mit Tollwut denkbar?
 
+Das Konzept der Meme im Hinterkopf
+* gesicht von staaten wird bestimmt durch moderne kommunikationswege
+* schnelllebigkeit
+* "Demokratie": jeder redet mit
+* fake news
+* tägliches Einstimmen auf populäre Meinungen
 
 und mein Engagement ganz in den Dienst der kollektiven Entscheidungs zu stellen – der hin und wieder
 
