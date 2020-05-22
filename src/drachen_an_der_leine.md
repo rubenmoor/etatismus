@@ -14,7 +14,7 @@ Den Libertären Stammtisch der Pusters, der schon längst vorher existierte und 
 
 Es war zu Hochzeiten des Anarcho-Kapitalismus-Stammtisch, dass Sören uns alle zu sich nach Hause einlud und wir zu elft – zweistellig! – seinen Esstisch in Beschlag nahmen.
 Die Treffen waren offen und auf *meetup.com* einsehbar.
-So war ein besonderes Feature unseres Stammtisches, dass sich immer auch wieder Gestalten einfanden, die nicht wirklich wussten worum es überhaupt geht.
+So war ein besonderes Feature unseres Stammtisches, dass sich immer auch wieder Gestalten einfanden, die nicht wirklich wussten, worum es überhaupt geht.
 Das Wort «Anarcho» in der Beschreibung war für so jemanden hinreichend, um davon auszugehen: Da kann ich mal hingehen und richtig diskutieren!
 «Richtig diskutieren» stimmt dann aber leider auch wieder nicht.
 Denn das können die Wenigsten.
@@ -22,13 +22,13 @@ Vielmehr gibt es das Bedürfnis, schlicht angehört zu werden.
 Als ich noch mit meinem Mitbewohner allein war, war das eher anstrengend: Für mich ein zwei gegen eins.
 Jetzt war das anders.
 Durch seine langen Haare sah unser Gast aus wie eine jugendliche Variante von Richard David Precht, nennen wir ihn also Richard.
-Richards Wortbeiträgen wurde konsequent widersprochen.
-Das wirklich jemand die Ursache diskussionswürdiger sozialer Herausforderung schlicht in der Existenz des Staates sieht, war Richard neu.
+Richards Wortbeiträgen wurde zu seiner Verwunderung konsequent widersprochen.
+Das wirklich jemand die Ursache diskussionswürdiger sozialer Herausforderung schlicht in der Existenz des Staates sieht, war für Richard etwas völlig neues.
 Und auf neue Information reagiert das menschliche Gehirn in den seltensten Fällen mit Interesse.
-Die normale Reaktion ist: Ablehnung, Irritation, Defensive.
+Die normale Reaktion ist: Irritation, Ablehnung, Defensive.
 Überhaupt: Eigentlich war Richard ein lieber Kerl, der nur ein bisschen quatschen wollte.
 Vielleicht hat der Freunde gesucht – zumindest aber Zustimmung.
-So oder so war es aussichtslos und nach einer Dreiviertelstunde gab Richard auf mit den Worten:
+So oder so war es aussichtslos und nach einer Dreiviertelstunde holte Richard zum letzten Mal zum Schlag aus mit den Worten:
 
 *«Ich höre hier immer nur Staat, Staat, Staat. Wir müssen mal über das **Kapital** reden!»*
 
@@ -36,7 +36,8 @@ Es gab Gepolter, eine kurze Klarstellung der Begrifflichkeiten, darunter auch di
 Den Staat an sich zu problematisieren, ist unüblich und in aller Regel eine Provokation.
 Es wäre einfach, wenn es um den deutschen Staat ginge oder, besser noch, die USA.
 Aber es geht um Etatismus, Herrschaft, unterbewusste Staatsgläubigkeit, die **demokratische Prämisse**, die die Phrase *Wir leben ja schließlich in einer Demokratie* in den Stand eines Arguments erheben soll.
-Auch unter Libertären ist Etatismus kein dauerhaft ergiebiges Diskussionthema für alle.
+Die Fundamentaloppsition gegen den Staat an sich definiert den Libertarismus.
+Doch auch unter Libertären ist Etatismus allein kein dauerhaft ergiebiges Diskussionthema für alle.
 Da mischt sich dann alles mögliche mit rein: *Darum AfD!*, offene Grenzen, geschlossene Grenzen, Feminisierung, *Trump!*, *um keinen Preis AfD!*, die Medien, Klima, Grönemeyer, Corona, hin und wieder gar *der Jude* und die Rothschilds.
 
 ## Dabei hat der Libertarismus viel zu bieten
@@ -49,7 +50,7 @@ Zum Glück ist dieses Bild so nicht vollständig und Anleitungen zu einem, sagen
 * **Christoph Heuermann**: Wander aus und gebrauche Staaten fortan zu deinem Zwecke! – und
 * **Oliver Heuler**, für den Libertarismus Teil einer persönlichen Entwicklung ist, mit dem Ziel, sich vom Sollte-Denken zu befreien.
 
-Ich gehöre zu den Menschen, die Bücher gelesen haben und bin der Meinung, libertäre Philosphie wird unterschätzt – was mich nicht davon abgehalten, hat **auch** auszuwandern und mich – inspiriert durch Oliver – in Gelassenheit zu üben.
+Ich gehöre zu den Menschen, die Bücher gelesen haben, und bin der Meinung, libertäre Philosphie wird unterschätzt – was mich nicht davon abgehalten hat, **auch** auszuwandern und mich – inspiriert durch Oliver – in Gelassenheit zu üben.
 Mit dem Etatismus ist das wie mit dem Sollte-Denken: Ganz zu Anfang habe ich meinen Staatsglauben als solchen identifziert.
 Jetzt kann ich alle meine heimlichen Überzeugungen explizit machen und hinterfragen.
 Die Fragen, die dabei auftauchen, gehen weit über *Wer baut dann die Straßen?* hinaus, wobei das nicht einmal ein schlechter Start ist.
@@ -57,7 +58,7 @@ Eine dieser Fragen, die internetgerecht unter *Muh' roads* zusammengefasst werde
 Ohne Staat, würden dann nicht brutale Kriegsherren die Macht übernehmen?
 Die kompetente Beantwortung dieser Frage mit den Mitteln der Praxeologie findet sich in Robert Murphys Essay: [Wouldn't warlords take over](https://mises.org/library/wouldnt-warlords-take-over).
 Da geht es um die Effektivität privatwirtschaftlich organisierter Verteidigung und natürlich die ökonomische Effizienz von Verteidigung gegenüber offensiver Kriegsführung.
-Letzte verschlingt am Beispiel der USA den Löwenanteil des Rüstungsbudgets und fällt für eine friedliche *Privatrechtsgesellschaft* komplett weg.
+Letztere verschlingt am Beispiel der USA den Löwenanteil des Rüstungsbudgets und fällt für eine friedliche *Privatrechtsgesellschaft* komplett weg.
 In der Praxis stellen die wenigsten Libertarismus-Kritiker allzu viele Fragen, die über *Muh' roads* hinausgehen, und kommen nie in den Genuss von Robert Murphys Einsichten. Mein persönlicher Favorit ist sein [Vortrag auf YouTube: Würde es in der freien Gesellschaft Gefängnisse geben?](https://www.youtube.com/watch?v=SzYJYSm-MfI)
 
 Mich überzeugt Robert Murphy grundsätzlich und ich habe seine Texte und Vorträge verschlungen.
@@ -72,7 +73,7 @@ Zurück zu der Machtübernahme durch brutale Kriegsherren.
 Vielleicht liefert Robert Murphy mit der praxeologischen Analyse nur eine Hälfte der Antwort.
 In dem realen Verlauf der Geschichte kommen Staaten nun einmal vor.
 Die *normative Kraft des Faktischen* haben sie schon mal auf ihrer Seite.
-Spaß beiseite: Es gelingt mir nicht, gedanklich eine klare Trennlinie zu ziehen zwischen der Herrschaft, die Zwang und Täuschung ausnutzt und den Beherrschten.
+Spaß beiseite: Es gelingt mir nicht, gedanklich eine klare Trennlinie zu ziehen zwischen der Herrschaft, die Zwang und Täuschung ausnutzt, und den Beherrschten.
 Diese Beherrschten offenbaren in ihrem Handeln individuelle Absichten, Wünsche, Pläne – auch ihre biologischen Triebe.
 Meinem Verständnis nach gibt es über diese *individuellen Präferenzen* hinaus nichts normatives, nichts was objektiv vorgibt richtig oder falsch zu sein.
 Auch altbewährte Regeln müssen sich eben daran messen lassen, ob ich heute mit meinen Mitmenschen zu dem Schluss komme, dass ich diese Regeln *will*.
@@ -82,7 +83,9 @@ Und nicht nur, dass ich keine Kirchen einreiße: Wo ich hinschaue werden neue Ki
 Das Bedürfnis nach Gott scheint universell zu sein – und dieses Bedürfnis scheint über alle damit verbundenen Widersprüche erhaben zu sein.
 Ich weiß, dass ein Bedürfnis *beherrscht zu werden* inhärent inkonsistent ist.
 *Na, und?* denkt sich der Demokrat und setzt unbeirrt seinen Weg ~~zur Pilgerstätte~~ zum Wahllokal fort.
-Dass eine freie Gesellschaft rational, auch: ökonomisch, dem Staat überlegen sei, führt uns nicht automatisch dort hin, was genau eine Chrakteristik der Gesellschaft mit Staat ist.
+Dass eine freie Gesellschaft rational, auch: ökonomisch, dem Staat überlegen sei, führt uns nicht automatisch dort hin.
+Das wiederum – die fortgesetzte Ineffizienz inklusive größerer und kleinerer gewaltsamer Exzesse – charakterisiert genau den Staat.
+Ein Teufelskreis.
 
 Ein Gedankenexperiment:
 Ich stelle mir vor, die Kleinstädte Schleswig-Holsteins hätten sich in eine freie Gesellschaft verwandelt.
@@ -97,15 +100,15 @@ Dass ich umziehen könnte, empfinde ich in diesem Gedankenexperiment als Zumutun
 Dass das, was ich will, am Ende widersprüchlich ist: geschenkt! – es geht ja noch weiter:
 Ich will das Ordnungsamt zurück.
 Ich will lieber zwei Stunden in der Behörde auf einen Termin warten, als die App zu benutzen.
-Am liebsten will ich Teil eines großen Deutschlands sein, das die Vorherrschaft Europas beansprucht, friedlich meinetwegen, wirtschaftlich oder so – man ist ja liberal heutzutage.
-Mein heimlicher Traum: mein Sohn dient dem Vaterland an der Waffe.
+Am liebsten will ich mich als Staatsbürger eines großen, erhabenen Deutschlands sehen, das die Vorherrschaft Europas beansprucht, friedlich meinetwegen, wirtschaftlich oder so – man ist ja liberal heutzutage.
+Mein heimlicher Traum: Mein Sohn dient dem Vaterland an der Waffe.
 
 Ist das so absurd?
 Es ist nicht so lange her und entsprechende Wertvorstellungen waren weit verbreitet.
-Der Kapitalismus als Motor wird von den Menschen selten gewollt.
-Menschen wollen Essen, Jeans, schnelles Internet usw.
-Zusammen mit dem Bedürfnis nach nationaler Identität wird da schnell wieder ein Deutschland draus, eine *soziale Marktwirtschaft*.
-An dieser Stelle vielleicht hilfreich: Ein libertäres Zugestädnis:
+Der Kapitalismus als Motor des Fortschritts wird von den Menschen selten direkt gewollt.
+Menschen wollen genug zu essen, Jeans, schnelles Internet usw.
+Zusammen mit dem Bedürfnis nach nationaler Identität wird da schnell wieder das aktuelle Deutschland draus, eine *soziale Marktwirtschaft*.
+An dieser Stelle ist vielleicht ein libertäres Zugeständnis meinerseits hilfreich:
 Eine reale Nachfrage nach Deutschland als Produkt ist zur Zeit schwer zu argumentieren.
 Der Staat gibt vor, kollektive Interessen zu realisieren – das Gemeinwohl! – ist dabei aber gelinde gesagt ineffektiv.
 Es ist nicht das Wesen des Staates eine Nachfrage zu bedienen.
@@ -117,11 +120,11 @@ Der Film «The Matrix» bringt es auf den Punkt:
 
 Der Systemtrottel mag irgendwo einer gewaltigen Täuschung unterliegen – OK.
 Solange ich diese Täuschung aber nicht auflösen kann, ist das aus Sicht selbigen Systemtrottels eine bloße Unterstellung.
-Seine Präferenzen werden nicht ungültig, nur weil ich meine libertäre Theorie benutze, um sie lächerlich zu machen.
+Sein Wunsch nach mehr Staat wird nicht ungültig, nur weil ich meine libertäre Theorie benutze, um diesen lächerlich zu machen.
 Historisch war der Wunsch nach einem großen deutschen Staate auch eine Reaktion auf Napoleons Eroberungen im Namen des französischen Nationalismus.
 Fehlgeleitet, vielleicht, aber gegeben dessen was ein Deutscher im 19. Jahrhundert weiß und versteht auch nicht schwer nachzuvollziehen, dass deutscher Nationalismus für mich einzelnen Deutschen attraktiv ist.
 Natürlich hat sich die Welt verändert.
-Napoleons ist längst vergessen.
+Napoleon ist längst vergessen.
 Was damals plausibel schien, ist heute sicher keine Lösung mehr.
 In Zeiten relativen Friedens müsste doch der Staat schrumpfen, Freiraum für libertäre Experimente zulassen, Ressourcen freigeben.
 Regionale Alternativen zu demokratischer Herrschaft müssten so lange florieren, bis ein neuer europäischer Eroberer den Antritt zum Appell zur Verteidigung des Landes und der guten Werte erzwingt.
@@ -169,13 +172,13 @@ Umgekehrt halte ich jedem Passanten die Tür auf, wenn mir danach ist, auch wenn
 Es riecht auch nicht nach Schwefel, wenn Angela Merkel einkaufen geht.
 *Fairerweise: wenn der Einkauf für das Foto in der Bild-Zeitung gestellt war, stinkt die Sache natürlich schon.*
 Wenn ich dem Drachen zu nahe komme, beißt er mir schlicht den Kopf ab.
-Ich werde verzehrt wie schon so viele Menschen vor mir.
+Ich werde verzehrt wie schon sehr viele Menschen vor mir.
 Manchmal sucht der Drachen auch Dörfer heim, wo die Menschen schlafen und ihrem Alltag nachgehen.
 Nicht jeder, der gefressen wird, hat sich überhaupt mit dem Drachen angelegt.
 
 Was ich jetzt beobachte: Wenn der Drachen zuschlägt, tun die meisten Menschen so, als wäre der gar nicht da.
 Selbst wenn ein unschuldiges Kind gefressen wird, heißt es mit Schulterzucken: *selbst Schuld* und: *mir tut er nichts*.
-Wenn ich aufschreie, um vor dem Drachen zu warnen, bekomme ich mitleidige Blicke.
+Wenn ich aufschreie, um vor dem Drachen zu warnen, bekomme ich mitleidige Blicke, als wäre ich der Dorftrottel.
 
 Was bleibt mir also?
 Mir scheint, als hätte sich irgendwo eine kleine Gruppe von Libertären gefunden, die sich regelmäßig in einem dunklen Winkel der Dorfkneipe treffen, um einmal die Woche gemeinsam über den Drachen zu schimpfen.
@@ -239,7 +242,7 @@ Wer einen ähnlichen Weg einschlagen will, wird alle meine Hilfe erfahren.
 Die Gemeinschaft der Staatenlosen wächst.
 Christoph Heuermann hat das Wort positiv umgemünzt; mit der Abgabe der Staatsbürgerschaft hat «staatenlos sein» nichts zu tun.
 Uns steht eine Weiterentwicklung bevor, das nächste Level.
-Das Stichwort ist mobiles Unternehmertum.
+Das Stichwort ist *mobiles Unternehmertum*.
 Die Organisation von Wertschöpfung losgelöst von staatlichen Zwängen beinhaltet neue Möglichkeiten und Herausforderungen. Dazu an anderer Stelle mehr.
 
 Ich behaupte, der Drachen ist damit besiegt.
@@ -248,6 +251,7 @@ Möglicherweise ist das unbeschwerte legale Auswandern nur jetzt gerade, in eine
 Praktisch ist aber absehbar, dass das Auswandern – wenngleich unter erschwerten Bedingungen – auch in Zukunft die Strategie Nr. 1 für Freiheit vom Staat sein wird.
 Wer die Welt einmal aus der Sicht eines mobilen Unternehmers gesehen hat, sieht in jedem weiteren Staat neue Möglichkeiten, neue Optionen und nicht mehr die Zwänge.
 Selbst innerhalb der EU ist es möglich, Staaten gegeneinander auszuspielen.
+
 Allzuoft sehen wir in dem Drachen noch eine Art menschliche Intelligenz und versuchen, ihm zuzureden oder wir glauben größenwahnsinnig, er hätte es auf uns persönlich abgesehen.
 Die Realität: Die Art und Weise wie im Staat Regeln und Gesetze gemacht werden, resultiert systematisch in Strukturen, die von Einzelnen unterwandert werden können.
 Deshalb gehört gar nicht so viel dazu, den Verfolgern einen Schritt voraus zu sein.
@@ -266,7 +270,7 @@ Die Beispiele Julian Assange und Edward Snowden zeigen zudem, dass die Flucht in
 Der mobile Unternehmer weiß um all diese Risiken.
 Typischerweise ist er mit seinen Geschäften allenfalls einmal in einem rechtlichen Graubereich unterwegs und gerät nicht im Ansatz in das Visir der Justiz.
 *Vor allem der US-amerikanischen Justiz gilt es, systematisch und weiträumig aus dem Weg zu gehen. Kein anderes Land hat vergleichbaren internationalen Durchgriff.*
-Man sei daran erinnert, wie glimpflich selbst das Dritte Reich für diejenigen Juden verlaufen ist, die rechtzeitig in die USA ausgewandert sind, die für sie zuallerst der sichere Hafen waren, sich aber insgesamt als lebenswerter Ort herausgestellt haben dürften.
+Man sei daran erinnert, wie glimpflich selbst das Dritte Reich für diejenigen Juden verlaufen ist, die rechtzeitig ausgewandert sind.
 Dem mobilen Unternehmer – mit international diversifiziertem Wohnsitz – machen die Drohgebärden mächtiger Staaten auch in absehbarer Zukunft keine Angst.
 
 ## Wer kontrolliert den Staat?
@@ -285,19 +289,21 @@ Mir soll das recht sein, aber streng genommen teile ich noch nicht einmal Peters
 Richard übersieht den Staat, weil er das Kapital als eigentliche Ursache von Leid und Elend erkannt hat.
 Aus seiner Sicht sind bestechliche Politiker ein Problem.
 Lobbyismus untergräbt Demokratie und hölt die Herrschaft des Volkes aus usw. usf.
-Wenn ich Richard davon überzeugen könnte, dass der Drachen mit SEK und Steuerfahndung ein gefährlicher Drache ist, würde er kontern:
+Wenn ich Richard davon überzeugen könnte, dass der Staat mit SEK und Steuerfahndung ein gefährlicher Drache ist, würde er kontern:
 Das Kapital führt den Drachen an einer Leine hinter sich her und missbraucht die Staatsmacht für seine selbstsüchtigen Zwecke.
 Aus einer komplett anderen Richtung landet der ein oder andere Libertäre bei einer analogen Sichtweise.
-Vielleicht liegt das daran, dass er sich ohnmächtig fühlt, an der Staatsmachinerie etwas zu ändern.
+Vielleicht liegt das daran, dass er sich ohnmächtig fühlt, an der Staatsmaschinerie etwas zu ändern.
 Das schlichte Davonlaufen ins Ausland würde weitere Fragen aufwerfen:
 Was nun? Wovon leben? Worüber sich beschweren?
-Einfacher ist es – wie Richard – danach zu suchen, wer den Staat steuert, wer den Drachen an der Leine führt.
+Einfacher ist es, sich selber – wie Richard – einzumauern in seinen Überzeugungen darüber, wie  die Welt *eigentlich funktionieren sollte*.
+Nicht eine Lösung meiner Probleme ist gesucht, sondern Theorien darüber wie die Welt an sich das Problem ist, sodass ich meiner hoffnungslosen Untätigkeit einen rationalen Überbau verpassen kann.
+Darin sind nicht wenige Libertäre den *Stazis*, wie sie liebevoll genannt werden, oft genug erschreckend ähnlich.
 
 Zuerst werden die Politiker aufs Korn genommen.
 Deren schräger Anspruch Staat und Gesellschaft zu repräsentieren, wird auf einmal ernst genommen.
 Als Repräsentanten der Macht – eigentlich sind sie überwiegend einfache Nutznießer wie der Sozialhilfeempfänger – hätten sie es nicht besser verdient.
 Dass ihre Intelligenz nicht übermenschlich ist, sollte dabei gar nicht überraschen.
-Dass sie oft genug amateurhaft abliefern und unprofessionell auftreteten könnte Anlass zu Beruhigung geben.
+Dass sie oft genug amateurhaft abliefern und unprofessionell auftreten, könnte Anlass zu Beruhigung geben.
 **Macht** hat ein Politiker nur in einem beschränkten, konkreten Sinn.
 So gibt es keinen Politiker, der Deutschland führt.
 Ein Minister, der disziplinarisch ein ganzes Ministerium führt, ist praktisch gezwungen, die Arbeit seines Vorgängers zu übernehmen.
@@ -320,7 +326,7 @@ Kanzler und Präsidenten kontrollieren den Staat nicht, sondern sind zu großen 
 Ihnen über Gebühr Macht zuzuschreiben, hieße, demokratische Propaganda für bare Münze zu nehmen und sich auf das politische Spiel einzulassen.
 Die Strukturen, *in denen die Politiker regieren*, regieren auch sie.
 Das wiederum ist nicht mit Gewaltenteilung zu verwechseln – die Begriffe demokratischer Propaganda wollen wir getrennt abhandeln.
-Unterschiedliche Monarchen in der Weltgeschichte hatten in unterschiedlichem Ausmaße Macht im Sinne von «Gestaltungsspielraum».
+Unter den Despoten der Weltgeschichte gab es auch immer wieder welche mit beeindruckender Macht.
 Schöpfer und Vernichter von Staaten waren vor allem Eroberer.
 Das gibt Hinweis darauf, dass auch heute noch explizite Gewaltausübung als notwendige Zutat für Macht zu verstehen ist.
 Sonst bleibt es bei der wesentlich schüchteneren Einflussnahme.
@@ -336,7 +342,7 @@ Diesen Gedanken im Hinterkopf lässt sich verstehen, wie die Grenzöffnung 2015 
 Aus meiner Sicht sind beides Beispiele für kurzsichtige desktruktive Aktionen.
 Objektiver lässt sich zumindest festhalten, wie beide Aktionen einen Bruch in den politischen Positionen der CDU waren und dem politischen Beobachter erschweren, die CDU als konservativ oder gar konservativ-vernünftig einzuordnen.
 
-Fairerweise ist selbstverständlich auch die Möglichkeit, destruktive Dinge zu verrichten, *Macht* und folgreichtig vereint die Kanzlerin relativ viel Macht in einer Person.
+Fairerweise ist selbstverständlich auch die Möglichkeit, destruktive Dinge zu verrichten, *Macht* und folgerichtig vereint die Kanzlerin relativ viel Macht in einer Person.
 Dass aber Merkel Pläne schmiedend die Staatsgewalt im großen Stil nutzt, um staatsfremde Ziele zu verwirklichen, zeichnet sich hier nicht ab.
 Ich möchte nicht mit ihr tauschen.
 Sollte auch der Spitzenpolitiker mehr Funktionär als Gestalter sein, bleibt die Frage, wer denn in der Demokratie die Macht hat, weiterhin offen.
@@ -346,6 +352,7 @@ Ich behaupte, es sind zwei Dinge.
 
 Erstens sind die Politiker, wie sich mir heute präsentieren, überzeugte Demokraten.
 Das gilt durch die Bank für Politiker aller Parteien, von Linkspartei zu AfD.
+Als solche sind sie möglicherweise selber Opfer von romantischen Vorstellungen bezüglich der Arbeit, die sie erwartet.
 Ein Kind, das Lastwagenfahrer werden will, muss sich die Position hinterm Lenkrad unglaublich erhaben vorstellen, denn von Verkehrsregeln und eingeschlafenen Arschbacken weiß das Kind nichts.
 Und tatsächlich: ein Lkw-Fahrer dürfte viele Aspekte seiner Arbeit genießen.
 Dazu gehört für mich nachvollziehbar ein Stolz über die Größe und Kraft seines Gefährts.
@@ -353,21 +360,62 @@ Genauso nachvollziehbar ist das Amt eines Ministerpräsidenten mit weniger Glamo
 Egal ob 7,5-Tonner oder Gigaliner: Das Kind auf dem Schoß des Lkw-Fahrers dürfte enttäuscht sein, festzustellen, dass ihm nichts erlaubt ist.
 Weder wildes Lenken, noch scharfes Bremsen, nicht einmal schnelles Beschleunigen ist ihm vergönnt.
 Wer wirklich dauerhaft und mit Freude Lkw-Fahrer ist, dürfte eine Befriedigung in der Wahrnehmung seiner Verantwortung finden.
-Ein Politiker, der gleiches empfindet, macht sich schlicht nicht bewusst, dass er auf einer alten wackeligen Kutsche sitzt, die rechts und links von Sportwagen überholt wird und sich zusätzlich durch ständige Reparaturstopps aufhält.
-Dass die Pferde auch gemütlich weitertraben, wenn der Kutscher die Zügel fallen lässt, zeigen [589 Tage ohne Regierung in Belgien](https://en.wikipedia.org/wiki/2010%E2%80%9311_Belgian_government_formation) recht deutlich.
-Das Innehaben eines hohen Postens ist für jemanden, der dran glaubt, mit vielen positiven Emotionen verbunden, die am Ende nicht unbedingt begründbar sind.
+Verantwortung heißt: Belastbar sein und tun, was erforderlich ist, und Sinn dabei empfinden.
 
-Zweitens kommt jemand, der nicht dran glaubt, in den Genuss sehr materieller Vorteile.
-Die rund 700 Bundestagsabgeordneten verdienen jeder rund 115.000 EUR brutto, effektiv das doppelte wenn man steuerfreie Zuwendungen berücksichtigt.
+Ein Politiker, der gleiches empfindet, macht sich schlicht nicht bewusst, dass er auf einer alten wackeligen Kutsche sitzt, die rechts und links von Sportwagen überholt wird.
+Nach Zurücklegen einer Radlänge kommt ein vorschriftsmäßiger Reparaturstopp.
+Dass die Pferde auch gemütlich weitertraben, wenn der Kutscher die Zügel fallen lässt, zeigen [589 Tage ohne Regierung in Belgien](https://en.wikipedia.org/wiki/2010%E2%80%9311_Belgian_government_formation) recht deutlich.
+Das Innehaben eines hohen Postens ist aber trotzdem mit vielen positiven Emotionen verbunden, weil der Politiker *eben dran glaubt*.
+Das muss nicht unbedingt objektiv und für Außenstehende nachvollziehbar begründbar sein.
+
+Zweitens kommt selbst jemand, der nicht dran glaubt, in den Genuss sehr materieller Vorteile.
+Die rund 700 Bundestagsabgeordneten verdienen jeder 115.000 EUR Jahresbrutto, effektiv das doppelte wenn man steuerfreie Zuwendungen berücksichtigt.
 Merkel gehört zu den Politikern, die ihr Einkommen praktisch ausschließlich aus politischer Arbeit bestreiten, und landet bei 350.000 EUR Jahresbruttogehalt.
 Hätte sie es nicht zur Kanzerlin geschafft, erginge es ihr möglicherweise wie Andrea Nahles, die zwei Jahre die SPD angeführt hat, 2019 dann aber hinschmiss.
 Nun gibt es Hinweise auf Arbeit für Nahles in der Bundesanstalt für Post und Telekommunikation, für rund 120.000 EUR Jahresbrutto.
-Verpasst man, wie Nahles, den ganz großen Erfolg, muss man sehen, wo man bleibt.
+*Was macht eigentlich die Bundesanstalt für Post und Telekommunikation?
+Ob das so ähnlich ist wie mit der Deutschen Bundesbank?*
+Verpasst man wie Nahles den ganz großen Erfolg, muss man sehen, wo man bleibt.
 Im Gegensatz zu Nahles und Merkel baute Schröder sein Vermögen maßgeblich vor seiner Kanzlerschaft auf in seiner Tätigkeit als Rechtsanwalt.
 Mit dem Ende seiner politischen Karriere setzte er seine privatwirtschaftliche Karriere fort und wie selbstverständlich wurde letztere durch neue gute Kontakte beflügelt.
 Zu Schröders Macht als Kanzler gehörte auch die Macht, sich einen Aufsichtsratposten bei Gazprom zu sichern.
 Insoweit Vorstandsmitglieder und Aufsichtsräte *ganz normale Leute* sind, sind Spitzenpolitiker es auch.
 Ihre ganz reale Macht lässt sich in ihrem Vermögen und ihrem Netzwerk bemessen.
+
+Das ist so manchem Libertären und Hobby-Journalisten nicht genug.
+Wer es bis ganz dort oben geschafft hat, *kann als einziges Ziel* ja eigentlich nur noch irgendeine Form von Weltherrschaft im Sinn haben.
+In einer Variante desselben Arguments unterstellt man, dass eine Merkel etwa – oder ein Schröder – Marionetten derjenigen Superreichen seien, die die Neugestaltung der Welt im Sinn haben.
+Ich weiß nicht, was im Kopf von George Soros, Bill Gates und Warren Buffet vor sich geht.
+Dass aber in deren Kreisen *die wahre Macht* zu finden sei, zweifle ich stark an.
+Dabei tut man sowohl Spitzenpolitikern als auch den CEOs und Unternehmern an der Spitze Unrecht, indem man sie gleichzeitig über- und unterschätzt.
+
+**Das Überschätzen** bezieht sich auf die Unterstellung, dass irgendwo dort oben die Bündelung der Macht in exklusivem Kreise zu finden sei.
+Dass keiner der möglichen Kandidaten ein Auftreten wie Hitler, Stalin oder Mao hat und seinen Weltherrschaftsanspruch gewaltsam real werden lässt, wird als Einwand nicht gelten gelassen.
+Es heißt dann, dass die wahre Macht viel effizienter im Stillen – verschworen eben – ausgeübt werden will.
+Diese Behauptung ist schwer zu widerlegen, dabei aber überhaupt nicht plausibel.
+Ich steuere die Geschicke der Welt und bleibe im Hintergrund?
+Es ist ganz im Gegenteil zu beobachten, wie praktisch alle mehr oder weniger größenwahnsinnigen Mächtigen der Weltgeschichte sehr hart daran arbeiten, sich öffentlichkeitswirksam ein persönliches Denkmal zu setzen.
+Dabei gelingt es nur wenigen, ihre Person selbst in den Stand des Heiligen zu erheben, der eine eigene Statue verdient, und so muss der normale Anwärter auf Unsterblichkeit irgendein populäres Anliegen vorschieben, um es nicht nur in den Klub der Billionäre sondern in die Geschichtsbücher zu schaffen.
+
+**Das Unterschätzen** ist schlichte Unkenntnis der Herausforderungen eines Spitzenpolitikers oder Unternehmers.
+Wer die Ehre hat, einen erfolgreichen Unternehmer kennenzulernen, gelangt womöglich zu der Feststellung, dass dieser anders tickt als die Hausfrauen und Angestellten um einen herum.
+Wer es in Politik oder Wirtschaft an die Spitze schafft, hat in aller Regel Intelligenz, Ehrgeiz und Gestaltungsdrang weit über dem Durchschnitt bewiesen.
+Diese Eigenschaften bleiben bestehen, auch nachdem Schröder nicht mehr Kanzler ist oder wenn Gates die Führung von Microsoft abgibt und sich seinen philantropischen Zielen widmet.
+Gestaltungsdrang wird zusammen mit Geld und Netzwerk zu *Gestaltungsspielraum*, was im Gegensatz zu Macht vielleicht einfach nur das neutrale Wort ist.
+Meiner begrifflichen Intuition folgend verbinde ich mit Macht, den Willen anderer Menschen zu beugen.
+Gestaltungsdrang, sofern dieser unternehmerisch ist und auf Wechelseitigen Gewinn baut, passt da nicht zu.
+Auch eine rein politische Karriere innerhalb einer Partei verdient diesbezüglich ein differenziertes Hinschauen.
+Wenn am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
+Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zarm zu fügen.
+
+Was motiviert also den Politiker oder CEO, wenn er es an die Weltspitze geschafft hat?
+Ich meine: Er hat den Schreibtisch nach wie vor voller Arbeit und packt in aller Regel weiter an.
+Das *Geschafft Haben* nimmt er gar nicht wahr – wenn es ihm darum ginge, hätte er schon viel früher aufgehört, bei der ersten Million zum Beispiel.
+Elon Musk ist dafür ein gutes Beispiel.
+Dieser hat es meines Wissens durch sein Auftreten als Technik-Nerd, das auf bizarre Weise authentisch ist, noch nicht zu einer Hauptrolle in einer Verschwörungstheorie geschaft.
+Das ~~reptiloide~~ roboterhafte Auftreten von Hillary Clinton, ganz ähhnlich: Mark Zuckerberg, ist dagegen perfekt für Spekulationen über die dunklen Machenschaften der heimlichen Übermächtigen.
+Dass ich paranoid bin, heißt natürlich aber nicht, dass ich nicht verfolgt werde, und weiter unten werden wir sehen, dass genug dran ist, an einer weltumfassenden Verschwörung auf Kosten des Individuums.
+Nur spielen da einzelne Personen nicht die entscheidende Rolle.
 
 ## Die Menschheit: Eine formbare Masse
 
@@ -379,8 +427,9 @@ Ich habe versucht herauszustellen, wie die Macht des einzelnen Politikers in ega
 Aber wer hat denn dann im Staate die Macht?
 Rein logisch können wir den Kreis der Verdächtigen doch einschränken auf die Mitglieder der Regierung und in zweiter Reihe den Bundestag, der ja immerhin jedes neue Gesetz mehrheitlich gutheißen muss.
 Wenn zehn Leute die Macht haben, müsste doch im Schnitt jeder einen Zehntel der Macht haben – hat einer weniger, hat ein anderer zwingend mehr!
-Ich bin anderer Meinung.
-Schon bei einer Gruppe von zehn Leuten spielt für die Machtausübung ganz entscheidend eine Rolle, wer zuverlässig in der Lage ist, die Gruppe hinter einem Anliegen zu vermeiden.
+Ich möchte eine andere Erklärung anbieten.
+
+Schon bei einer Gruppe von zehn Leuten spielt für die Machtausübung ganz entscheidend eine Rolle, wer zuverlässig in der Lage ist, die Gruppe hinter einem Anliegen zu vereinen.
 Damit meine ich aber nicht eine Art *Demokratie im Kleinen*, sondern verweise auf ganz profane Gruppendynamik.
 Wir haben als Schulklasse unsere Philosophie-Lehrerin davon überzeugen können, dass der Unterricht ausfällt.
 Vielleicht ist das kein faires Beispiel, denn diese ist so schnell mit dem Auto auf und davon, dass sich rückblickend eine Art Interessenskongruenz konstatieren ließe.
@@ -425,14 +474,14 @@ Auch das Aussterben ganzer Spezies inklusive eines effektiven Rückgangs der Art
 Wir sehen eine Vielfalt von Ideen, aber logischerweise finden wir 99% davon furchtbar.
 Die Existenz von Reggaeton-Musik könnte man phänomenal nennen – oder eine gewaltige Ressourcenverschwendung.
 Objektiv gilt das für die komplette Musik an sich.
-Ihre Daseinszweck ist nicht wirklich klar.
+Ihr Daseinszweck ist nicht wirklich klar.
 Klar ist, dass Musik erfolgreiche Meme macht.
-Lieder sind der Inbegriff des Ich-will-kopiert-werden.
+Lieder sind der Inbegriff des Ich-will-kopiert-werdens.
 Musik dürfte etwas über unser Gehirn aussagen, denn dieses wird durch eingängige Melodien manipuliert:
 Eine akkustische Wahrnehmung ohne den Informationsgehalt von Sprache, die subtile und weniger subtile Emotionen hervorruft, ist völlig ausreichend für ein gutes Mem.
-Wir rationalisieren den Prozess mit den Worten: «Musik ist doch was tolles!»
+Wir sagen dann «Das Lied ist richtig geil!» und rationalisieren den ganzen Prozess mit den Worten: «Musik ist doch etwas großartiges!»
 
-Kettenbriefe und Religionen mit Missionsbefehl mögen Beispiele dafür sein, wie plump sich letztlich erfolgreiche Ideen verbreiten können.
+Kettenbriefe und Religionen mit Missionsbefehl mögen Beispiele dafür sein, wie plump sich Ideen letztlich erfolgreich verbreiten können.
 Spannend in dem Zusammenhang ist auch die Existenz von Verschwörungstheorien.
 Wer annimmt, die Erde sei eine Hohlkugel, in dessen Inneren intelligente Wesen leben, die hinter den Kulissen die Geschicke der menschlichen Gesellschaft bestimmen, empfindet möglicherweise ein aufgeregtes Kribbeln.
 Dass ich von Freunden und Familie daraufhin für verrückt erklärt werde, bestätigt mich in meiner Sicht noch:
@@ -441,14 +490,15 @@ Mein Verschwörungstheorie-Mem kommt im Paket:
 Antworten auf diverse Zweifel und Anfechtungen werden direkt mitgeliefert.
 Meine jetzt folgendes Gefühl von Einsamkeit ist der Preis für mein geheimes Wissen.
 Finde ich eines Tages einen Gleichgesinnten, bilden wir direkt eine verschworene Gruppe.
-Gemeinsam stärken wir uns in unsrem Glauben und sprechen uns intellektuelle Überlegenheit zu.
+Gemeinsam stärken wir uns in unserem Glauben und sprechen uns intellektuelle Überlegenheit zu.
 Je geringer die soziale Akzeptanz für meine Verschwörungstheorie, desto größer ist mein emotionales Investment.
 Plausible Theorien, die eventuell ihren Weg in die Öffentlichkeit finden, sind als erfolgreiche Verschwörungstheorie in diesem Sinne ungeeignet.
 Julian Assange leidet darunter, denn er trägt zur Enthüllung realer verschwörerischer Missstände bei.
 Die Informationen, die durch [Cablegate](https://de.wikipedia.org/wiki/Inhalte_der_Ver%C3%B6ffentlichung_von_Depeschen_US-amerikanischer_Botschaften_durch_Wikileaks) zutage gefördert werden, sind in der Szene lange nicht so heißt diskutiert wie letztlich substanzlose Spekulationen über den wahren Verlauf der Ereignisse des 11. Septembers 2001.
 Wikileaks Enthüllung wahrer Verschwörungen sind nicht per se erfolgreiche Meme.
 Dramatischer ausgedrückt: *Die Wahrheit* ist nicht per se erfolgreiches Mem.
-Dass *Ehrlichkeit* als Tugend ein verbreitetes Mem ist, vermag nicht daran grundsätzlich etwas zu ändern, denn zu dieser gesellt sich nur zu oft das Mem des *flexiblen Umgangs mit Moral*.
+Dass *Ehrlichkeit* als Tugend ein verbreitetes Mem ist, vermag nicht grundsätzlich etwas daran zu ändern, denn zu *Ehrlichkeit als Tugend* gesellt sich das Heuchler-Mem:
+Unser komplett unterbewusster, routinierter asymmetrischer Umgang mit Moral, die nur in Ausnahmen als Anleitung dafür verstanden wird, sein *eigenes Leben* zu verbessern.
 
 Bei der Betrachtung von Religion aus Sicht der Meme fällt auf, wie diverse Ideenkomplexe zusammen eine vollständige Struktur bilden.
 Das Beten zum allmächtigen Gott ist ein Mem, so wie die Verinnerlichung von «Jesus liebt dich» und das Ächten von Onanie.
@@ -463,14 +513,16 @@ Die Menschen sind für die Meme auch keine Wirte, sondern eher die formbare Mass
 Ein definierendes Mem der Neuzeit, das die Menschenmasse vor unseren Augen formt, ist *jede Technologie*.
 Schrift war schon immer ein wichtiges Medium für Meme, um den Sprung von einem Gehirn ins nächste zu erleichtern.
 Die Erfindung des Buchdrucks hat diesen Mechanismus dem kleinen Mann zugänglich gemacht.
-(Der kleine Mann wurde unter dem Namen «Martin Luther» weltberühmt. Er versetzte der katholischen Kirche in turbulenten Zeiten den Todesstoß.)
-Man darf davon ausgehen, dass sich der Buchdruck – einmal erfunden – letztlich unaufhaltsam verbreitet hat, dabei gab es sogar Widerstand.
+(Der kleine Mann wurde unter dem Namen «Martin Luther» weltberühmt.)
+Gegen den neuzeitlichen Buchdruck gab es Widerstand.
 Man bedenke, dass Mönche viele Arbeitsstunden in das kunstvolle Kopieren der Bibel investierten, um dieses gehaltvolle, heilige Buch in der christlichen Welt zu verbreiten.
 Es gab nicht viele Dokumente, denen diese Aufmerksamkeit zuteil wurde – bis eines Tages Martin Luthers Pamphlete buchstäblich herumflogen.
 Darin konnte jeder lesen – sofern er denn lesen konnte, der Papst sei der Antichrist.
 Sakrileg!
-Die katholische Kirche war ganz überwiegend machtlos angesichts dieser Entwicklung – der memetischen Evolution.
-Die Druckerpresse findet heute ihre Fortsetzung im Internet.
+Die katholische Kirche war ganz überwiegend machtlos angesichts dieser Entwicklung.
+Das Aussterben gewisser Dinosaurier geschieht ganz ohne Meteoriteneinschlag.
+
+Was die Druckerpresse lange Zeit symbolisiert hat, findet heute seine Fortsetzung im Internet.
 Einmal mehr wird das Kopieren jedweder Art erleichtert und was sich Ende der 90er Jahre noch «Blogger» nannte, ist jetzt jeder zweite Facebook-Nutzer.
 Dass da inhaltlich viel Unfug verbreitet wird, tut dieser Entwicklung keinen Abbruch.
 Mich persönlich wurmt am meisten, dass Menschen täglich so viel Zeit auf Spiegel Online verbringen, dass sie in derselben Zeit jeden Monat effektiv mehrere Bücher hätten lesen können.
@@ -479,16 +531,41 @@ In einer Art *memetischen Ironie* gab ein Arbeitskollege mir gegenüber freihera
 
 ## Der Mensch, der sich über seine Natur erhebt? Bitte machen wir uns nichts vor
 
-Dass da eine Dynamik vor unseren Augen stattfindet, die wir sogar wahrnehmen können und die uns gefangen nimmt, kann beängstigend sein.
+Dass sich da eine Dynamik vor unseren Augen abspielt, deren Schatten wir wahrnehmen können und die uns gefangen nimmt, kann beängstigend sein.
 Die Gegenreaktion lässt nicht lang auf sich warten.
 Sich den Memen zu entziehen ist aus meiner Sicht jedoch ein hoffnungsloses Unterfangen, so populär diese Idee – dieses Mem! – auch sein mag.
 Bei vollständiger Betrachtung der Meme finden wir auch viel *Funktionales*.
-Oliver Heulers Meme rund um seine Interpretation von gewaltsamer Kommunikation erreichen mich als Einsichten zur Verbesserung meines Wohlbefindens – ich schreibe ihnen explizit einen Wert zu, bedanke mich sogar fürs Anstecken mit seinen selbstsüchtigen Ideen.
+Oliver Heulers Meme rund um seine Interpretation von gewaltsamer Kommunikation erreichen mich als Einsichten zur Verbesserung meines Wohlbefindens – ich schreibe ihnen explizit einen Wert zu, bedanke mich bei ihm sogar fürs Anstecken mit seinen selbstsüchtigen Ideen.
 Dass es aber solche guten, nützlichen Meme geben sollte und wir uns nur vor den «schlechten Memen» in Acht zu nehmen hätten, wäre eine ganz tückische Variante des naturalistischen Fehlschlusses.
+Der Erfolg eines Mems ist *kein* normatives Kriterium.
 Nein: Jede Bewertung ist selber ein Mem und evolviert wertfrei vor sich hin.
-Den Fehlschluss vermeide ich ganz einfach, indem ich schlicht meiner subjektiven Einschätzung folgend *gut* und *schlecht* nenne, was ich eben *gut* oder *schlecht* finde.
+
+Man nehme zur Veranschaulichung den Ausdruck des «guten Christen».
+Interessanterweise verbindet man damit weder einen christlichen Fundamentalisten noch den einfältigen Dorfpfarrer.
+Der Atheist identifiziert in dem Ausdruck die unausgesprochene Prämisse, dass *Christ Sein* charakterliche Integrität oder vergleichbares impliziert.
+Es sind nicht die Moslems, Juden oder Atheisten, die zu dem Schluss gekommen sind, dass Christen gute Menschen sind – den Titel verleihen sich Christen ausschließlich intern.
+Damit ist das implizite, positive Werturteil eigentlich seiner Aussagekraft beraubt.
+Dass sich ein Christ durch integres Handeln auch unter Nicht-Christen einen guten Ruf erarbeiten kann, ist eine andere Geschichte.
+Dass *objektiv* am guten Christen etwas dran sei, wegen der Zehn Gebote, die die Grundpfeiler unser Zivilisation seien usw., hält einer kritischen Betrachtung nicht stand.
+Einmal damit angefangen, dass es je nach Zählweise eigentlich elf oder zwölf Gebote sind – leider spricht die Bibel selbst von «zehn Worten» – vier Gebote handeln schlicht von der unbedingten Verehrung eines eifersüchtigen Gottes.
+Die «Heiligung des Sabbaths» ist harmlos – wenngleich lästig – und kann ähnlich wie der Respekt vor den Eltern und die Verbote, falsch Zeugnis zu geben und die Ehe zu brechen, zumindest positiv interpretiert werden.
+Der Mehrwert dieser vier im Wortlaut der Bibel erschließt sich mir jedoch nicht.
+Guter Christ entsprechend der zehn Gebote ist jemand, der Frau und Kinder schlägt – solange er seiner Frau treu bleibt und Sonntags ja nicht arbeitet, sondern brav seine Mutter anruft.
+«Du sollst nicht töten» ist eigentlich glassklar – da war dann aber anstelle der feierlichen Verlesung der zehn Gebote diese Geschichte mit dem goldenen Kalb und Mose sprach:
+«Ein jeder gürte sein Schwert um die Lenden und gehe durch das Lager hin und her von einem Tor zum andern und erschlage seinen Bruder, Freund und Nächsten.»
+Die Geschichte lehrt uns: Die moralische Flexibilität zeichnet den wahren «guten Christen» aus!
+Die beiden «Du sollst nicht begehren»-Gebote ordnen Frauen dann auch entsprechend neben Sklaven und Rindern als Besitz ein, was schlicht den Werten der Zeit entsprach.
+Zusammen mit dem kurz und bündigem «Du sollst nicht stehlen» lässt sich ein solides Konzept von Privateigentum ablesen, das auch heute grob so existiert.
+Zusammenfassend sind die *Zehn Gebote* ein gutes Beispiel für die Schwierigkeiten im Zusammenhang mit der fehlschlüssigen Suche nach den «guten Memen».
+Was hier und jetzt alles leichthin eine «gute Sache» genannt wird, ist in aller Regel völlig unreflektierte Identifikation mit erfolgreichen Memen.
+
+Will ich das vermeiden, hilft eine gesunde Skepsis gegen alles Populäre – auch und vor allem wenn es sich in ein moralisches Gewand kleidet.
+Den naturalistischen Fehlschluss vermeide ich, indem ich meiner Einschätzung folgend *gut* und *schlecht* nenne, was ich eben als *gut* oder *schlecht* befinde, ohne auf einen etwaigen natürlichen Ursprung – die erfolgreiche Reproduktionsstrategie – zu verweisen.
+Den Begriff «Mem» meide ich dabei.
+Die Natur ist Schöpfer des Menschen und der Meme.
 Der Mensch – nicht die Natur – ist Schöpfer von «gut» und «schlecht».
-Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb zielloser, nutzloser Meme verbirgt, die abwechselnd mein Gehirn besitzen, muss mich nicht weiter beschäftigen.
+
+Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, die abwechselnd mein Gehirn besitzen, muss mich nicht weiter beschäftigen.
 Ebensowenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
 Bin das wirklich ich oder bin ich bloßer Sklave meiner Natur?
 Beim Essen – und beim Sex – mache ich mir solche Gedanken eher selten.
@@ -497,14 +574,14 @@ Dass sich wiederum jemand mit seinen Genen identifizieren könnte, möchte ich n
 Die Anweisungen Siddharta Gautamas an seine Schüler, die *Buddhisten*, sind sehr gut vor dem Hintergrund ewig drückender und drängelnder Meme zu verstehen.
 Und es ist kein Zufall, dass auch Blackmore diese Parallele zieht und in ihrem Buch im letzten Kapitel dem Leser die Meditation nahelegt.
 In den ersten Schritten beim Meditieren tauchen fortwährend unerwünscht wilde Gedanken auf, die erneutes Fokussieren nötig machen.
-Man spürt geradezu den memetischen Druck und – wer dabei bleibt – die zeitweilige Befreiung davon.
+Man spürt geradezu den memetischen Druck und – wer dran bleibt – die zeitweilige Befreiung davon.
 Ein anderer Aspekt der Freiheit von den Memen ist die Ablehnung von Fortschritt.
 Die *Amish People* sind ein Beispiel für einen systematischen Rückzug in eine vergangene Welt und somit eine erfolgreiche Abwehr moderner Meme.
 Man mag das als Beweis dafür interpretieren, dass es doch möglich ist: Nicht nur Individuen, sondern auch größere Gruppen können sich den Memen entziehen – sofern sie wollen.
 Damit sollte die Angst vor den Memen als solche eigentlich erledigt sein.
 Die *Amish People* machen allerdings deutlich, welchen Preis ich für den Rückzug zahlen muss.
-Auch entlegende Bauernhöfe werden zunehmend durch Mobilfunknetze erreicht und dort drängen die Meme an der Tür nur so darum, hereingelassen zu werden.
-Tatsächlich sind die Amish eine erfolgreiche Ausnahme unter vielen gescheiterten Projekten des Rückzugs.
+Auch entlegende Bauernhöfe werden zunehmend durch Mobilfunknetze erreicht und dort – im Internet – drängen die Meme an der Tür nur so darum, hereingelassen zu werden.
+Tatsächlich sind die Amish eine erfolgreiche Ausnahme unter vielen gescheiterten Projekten des kollektiven Rückzugs.
 Man könnte es auch so formulieren:
 Den Amish ist es gelungen, religiöse Meme, genauer: ihr *amish meme* an die Stelle der modernen Welt zu setzen.
 
@@ -512,26 +589,44 @@ Den Amish ist es gelungen, religiöse Meme, genauer: ihr *amish meme* an die Ste
 
 Der moderne Staat ist gewissermaßen der erfolgreiche Memplex der Neuzeit.
 Deshalb wird leicht fündig, wer Analogien zwischen Kirche und Staat sucht.
-Der «Vater Staat» ist – dem christlichen Gottesbild nicht unähnlich – streng aber gerecht.
-Der Sozialismus – populärer unter dem Namen «soziale Gerechtigkeit» – hat ein explizites Heilsversprchen, den Himmel auf Erden in Form von Wohlstand für alle.
+Der «Vater Staat» ist – dem christlichen Gott nicht unähnlich: streng aber gerecht.
+Der Sozialismus – populärer unter dem Namen «soziale Gerechtigkeit» – hat ein explizites Heilsversprechen: den Himmel auf Erden in Form von Wohlstand für alle.
 Dabei sieht die genaue Wohlstandsdefinition nicht vor, dass dieses Heilsversprechen jemals realisiert werden kann: Ein deutscher Harz-IV-Empfänger mag komfortabler leben als ein mittelalterlicher Fürst – oder als ein Bürgermeister eines kleinen indischen Dorfes meinetwegen – und gilt hierzulande trotzdem als arm.
-Die Nation ist Identifikationsmerkmal und ermöglicht Solidarität und Ausgrenzung.
+Die Nation ist Identifikationsmerkmal und ermöglicht Solidarität nach innen und Ausgrenzung nach außen.
 Als Norddeutscher hab ich mit Schwaben und Bayern äußerst wenig gemein, könnte mich mit so manchem Dänen und Schweden gut verstehen, soll aber trotzdem eben Deutscher sein.
 Protestanten und Katholiken pflegen ähnliche Marotten.
+Bewusst oder unbewusst entsprechen wir in unserem Handeln exakt den Memen, die von uns dauerhaft oder im Wechsel Besitz ergreifen.
 
-Die Herrschaft ist der eigentlich bestimmende Memplex – so weit verbreitet, dass die politische Weltkarte jeden bewohnten Flecken der Erde eindeutig mit einer Farbe füllt.
-Wo sind die organisierten Atheisten, die sich als herrschaftsfreie Anarchisten nennen dürften?
+- [ ] Nachfolgender Absatz ist noch nicht flüssig
+
+Die Herrschaft ist der eigentlich bestimmende Memplex – so weit verbreitet, dass die politische Weltkarte jeden bewohnten Flecken der Erde mehr oder weniger eindeutig mit einer Farbe füllt.
+Die Verallgemeinerung des «Ich bin Deutscher»-Mem hat die Menschheit flächendeckend erfasst.
+Wo sind die organisierten Atheisten, die sich als Herrschaftsfreie *Anarchisten* nennen dürften?
 Als ich den Staat als Drachen einführte, erwähnte ich:
 Nur sofern jemand im Dienste des Staates handelt, sehe ich in ihm den Drachen.
 In unserer Freizeit sind selbst die pflichtbewussten Deutschen ganz ausgezeichnete Anarchisten.
-Man mag das manchmal übersehen, denn eben wie die Atheisten haben sie weder Papst noch Kirchen.
+Auch sind Meme fast unendlich liberal – ich spüre in mir keinen Widerstand, wenn ich meine Zugehörigkeit zu Deutschland verneine.
+Erst wenn ich die staatsfreie Zone innerhalb Deutschlands verkünde, wird mir schlagartig klar, dass der Memplex *Deutschland* auch das Mem beinhaltet, gegen Spalter Gewalt anzuwenden.
 Wer sich die Staaten-Memplexe weiter ausmalen will, darf sich das Dritte Reich als Tyrannosaurus Rex vorstellen.
 Der T-Rex hat gewissermaßen eine Erbkrankheit – eine Mutation! – die das Tier direkt nach der Geburt in einen Tötungswahn versetzte.
 Erschöpft wurde es dann von nicht weniger furchtbaren Raubtieren, deren Tötungswahn im Vergleich milder ausfiel, außer Gefecht gesetzt und aufgefressen.
 Die bolschewistische Mutation des «Mütterchen Russlands» resultierte in ein völlig neues Tier, dass eines Tages überraschend an inneren Blutungen krepierte.
-Die Schweiz stelle ich mir vor, als einen listen Fuchs.
+Die Schweiz stelle ich mir vor als einen listen Fuchs.
 Füchse sind Raubtiere, aber irgendwie niedlich, mit Puschelschwanz und elegantem Fell.
 Wäre eine Schweiz mit Tollwut denkbar?
+
+* Meme im Vergleich zu Ideen
+* Druckerpresse --> Internet
+  * Verbreitung von Ideen ist dynamischer geworden
+* Mem ist: Handlung + Zweck
+  * Herrschaft: funktioniert prima als Mem
+  * Dazu kommt "Theologie": Propaganda/ideologischer Überbau
+* Der liberale "Ideenwettbewerb" ist nicht maßgeblich für Herrschaft
+  * In Stammtischen wird sich fleißig ereifert
+  * Die AfD sorgt für Aufruhr
+  * Alternative Medien bekommen Bedeutung
+  * Verschwörungen auf Seite der Regierungen haben ein großes Publikum
+* Stirner in "
 
 Das Konzept der Meme im Hinterkopf
 * gesicht von staaten wird bestimmt durch moderne kommunikationswege
@@ -539,17 +634,21 @@ Das Konzept der Meme im Hinterkopf
 * "Demokratie": jeder redet mit
 * fake news
 * tägliches Einstimmen auf populäre Meinungen
-
-und mein Engagement ganz in den Dienst der kollektiven Entscheidungs zu stellen – der hin und wieder
-
-
-
-* Staat Macht einzelner begrenzt heißt nicht: Staatsmacht begrenzt
+* Im Staat ist Macht einzelner begrenzt heißt nicht: Staatsmacht begrenzt
 * der ideologische Komplex transzendiert alles
   * evolution der ideologie wild und unvorhersehbar
   * rückblickend: demokratie
     * nationalismus
     * sozialismus
     * environmentalismus
-
 * Merkel verhindern => den Drachen an die Leine nehmen
+* memetische Determinierung
+* Genetische Programmierung
+* Mem = selbstsüchtige Idee
+* Herrschaft der Inbegriff selbstsüchtiger Dynamik
+* orientierung in Hierarchien
+  * bückeln/treten
+* JP: Meme sind ihm soweit fremd, memetische Determinierung kommt ihm nicht in den Sinn
+* Erziehung und Meme
+  * Kopie durch Trauma
+  * gutheißen der Schläge
