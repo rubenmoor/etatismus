@@ -7,9 +7,10 @@
 Der Hamburger Anarcho-Kapitalismus-Stammtisch war ein voller Erfolg.
 Der Start war nicht ganz einfach.
 Auf der Suche nach Austausch habe ich eine Gruppe auf *meetup.com* gegründet, was mein Mitbewohner zum Anlass genommen hat, mich zu unterstützen, denn *meetup.com*, das kennt der.
-Darüber hinaus war er aber Franzose und selbstständiger Fotografenassistent, heißt: überwiegend arbeitslos.
+Nun gilt aber bei der Haltung zum Staat und zu seinen Institutionen einmal mehr: das *Sein bestimmt das Bewusstsein*.
+Mein Mitbewohner war Franzose und selbständiger Fotografenassistent, heißt: überwiegend arbeitslos.
 Da war dann bei noch so viel Interesse argumentativ nicht viel zu machen.
-Aber mein Dank gilt ihm ganz aufrichtig – immerhin waren wir zu Beginn also zu zweit.
+Mein Dank gilt ihm davon abgesehen ganz aufrichtig – immerhin waren wir zu Beginn also zu zweit.
 Den Libertären Stammtisch der Pusters, der schon längst vorher existierte und mein Meetup nun auch überdauert, hab ich später erst kennengelernt.
 
 Es war zu Hochzeiten des Anarcho-Kapitalismus-Stammtisch, dass Sören uns alle zu sich nach Hause einlud und wir zu elft – zweistellig! – seinen Esstisch in Beschlag nahmen.
@@ -83,8 +84,11 @@ Und nicht nur, dass ich keine Kirchen einreiße: Wo ich hinschaue werden neue Ki
 Das Bedürfnis nach Gott scheint universell zu sein – und dieses Bedürfnis scheint über alle damit verbundenen Widersprüche erhaben zu sein.
 Ich weiß, dass ein Bedürfnis *beherrscht zu werden* inhärent inkonsistent ist.
 *Na, und?* denkt sich der Demokrat und setzt unbeirrt seinen Weg ~~zur Pilgerstätte~~ zum Wahllokal fort.
-Dass eine freie Gesellschaft rational, auch: ökonomisch, dem Staat überlegen sei, führt uns nicht automatisch dort hin.
-Das wiederum – die fortgesetzte Ineffizienz inklusive größerer und kleinerer gewaltsamer Exzesse – charakterisiert genau den Staat.
+Die *freie Gesellschaft*: rationaler als der Staat und ökonomisch überlegen.
+Trotzdem können wir nicht beobachten, wie die freie Gesellschaft staatliche Gewalt verdrängt.
+Es zeichnet sich nicht einmal eine entsprechende Tendenz ab.
+Im Staat wird gegen Fortschritt, der den Staat eventuell überflüssig macht, aktiv angegangen.
+Das wiederum – diese fortgesetzte Ineffizienz inklusive größerer und kleinerer gewaltsamer Exzesse – charakterisiert genau den Staat.
 Ein Teufelskreis.
 
 Ein Gedankenexperiment:
@@ -116,7 +120,7 @@ Es ist Zwang, Gewalt, Täuschung, Herrschaft, die den Staat täglich möglich ma
 Aber damit ist das Gedankenexperiment noch nicht abgehakt.
 Der Film «The Matrix» bringt es auf den Punkt:
 
-*The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inert, so hopelessly dependent on the system that they will fight to protect it.*
+*The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.*
 
 Der Systemtrottel mag irgendwo einer gewaltigen Täuschung unterliegen – OK.
 Solange ich diese Täuschung aber nicht auflösen kann, ist das aus Sicht selbigen Systemtrottels eine bloße Unterstellung.
@@ -421,16 +425,55 @@ Nur spielen da einzelne Personen nicht die entscheidende Rolle.
 
 Dass ein Politiker in seiner Macht begrenzt ist, heißt nicht, dass der Staat es ist.
 Adolf Hitler war außerordentlich erfolgreich – ein Ausnahmepolitiker – weil seine ausufernde Macht die Macht *seines Staates* ausufern lassen hat.
-Wir dürften dem modernen Staat zurecht dafür dankbar sein, einen Hitler für immer zu verhindern, wenn diese prominent formulierte Absicht irgendwie wirksam realisiert werden könnte, was ich bezweifle.
-Mein Thema soll ein anderes sein.
-Ich habe versucht herauszustellen, wie die Macht des einzelnen Politikers in egal welcher Position letztlich nicht entscheidend ist für das Schicksal des Staates und seine Untertanen.
-Aber wer hat denn dann im Staate die Macht?
-Rein logisch können wir den Kreis der Verdächtigen doch einschränken auf die Mitglieder der Regierung und in zweiter Reihe den Bundestag, der ja immerhin jedes neue Gesetz mehrheitlich gutheißen muss.
-Wenn zehn Leute die Macht haben, müsste doch im Schnitt jeder einen Zehntel der Macht haben – hat einer weniger, hat ein anderer zwingend mehr!
-Ich möchte eine andere Erklärung anbieten.
+Der gewöhnliche Politiker ist weit entfernt von derartigen Leistungen und auch Hitler ist in einer Welle aus Gewalt und gekränktem Nationalstolz mitgeschwommen.
+Die brutale Entfaltung seiner Macht war eine historische Gelegenheit – ganz vergleichbar war dies für die Bolschewisten der Fall.
+Wir dürften dem modernen Staat nun zurecht dafür dankbar sein, einen Hitler für immer zu verhindern.
+Zumindest wenn diese prominent formulierte Absicht irgendwie wirksam realisiert werden könnte – ausgerechnet durch staatliche Institutionen!
+Die nächste Gelegenheit für einen staatlichen Gewaltexzess folgt sogleich und die Opportunisten stehen schon in den Startlöchern.
+Bis es soweit ist, sind die Politiker aber als Gegner untauglich.
+Sie sind vielmehr leichte Feindbilder.
+Fokussieren wir uns doch lieber auf das, was den *Aufstieg der Nazis erst möglich gemacht hat* und das war noch lange vor Antisemitismus und Nationalismus der Staat selbst.
+Seine Institutionen mussten «gleichgeschaltet» werden und – so komplex dieses Vorhaben auf gewesen sein mag – man darf darüber staunen, mit welcher Selbstverständlichkeit die *demokratischen Institutionen* ihre neue Rolle als gänzlich undemokratische, diktatorische Institutionen ausfüllten.
+Der Staat bietet seinen Missbrauch an und streckt seinen Hintern in die Höhe, wenn der Nazi-Vergewaltiger naht.
 
-Schon bei einer Gruppe von zehn Leuten spielt für die Machtausübung ganz entscheidend eine Rolle, wer zuverlässig in der Lage ist, die Gruppe hinter einem Anliegen zu vereinen.
-Damit meine ich aber nicht eine Art *Demokratie im Kleinen*, sondern verweise auf ganz profane Gruppendynamik.
+Aber wer hat denn nun hier und heute im demokratischen Staate die Macht?
+Wer ist Herrscher, Strippenzieher, Machthaber, meinetwegen: Bösewicht in einem System von Parteien, Parlamenten, Gerichten?
+Welche Rolle spielt Geld und die Welt der Konzerne?
+Wer hat das Sagen und wessen Interessen werden am Ende verwirklicht?
+Das Regieren von Menschenmassen geschieht durch Regeln – teils schriftlich und formal, teils implizit und informell.
+Dazu kommen die direkten Staatsdiener, die in Behörden einmal mehr Regeln, Richtlinien, Gesetze und Anordnungen umsetzen.
+Viele implizite Regeln ergeben sich aus einem Wechselspiel aus Konvention und Gesetz.
+Die Autorität eines Polizisten ist beispielsweise kein Gesetz.
+Sie mag sich wohl eher aus dem Auftreten so manch eines Polizisten ergeben, bei dem selbst die Uniform eine Rolle spielt.
+Dazu kommt ganz zentral, dass der Widerspruch gegen forsches – gar gewaltsames – Vorgehen der Polizei praktisch erschwert ist.
+Den Nachbarn kann ich mit «Ich ruf die Polizeit» unter Umständen zur Vernunft bringen, den Polizisten nicht.
+Und zuletzt gibt es zahlreiche explizite Gesetze, die wiederum vom Polizisten eine forsche Vorgehensweise verlangen.
+Eine sogenannte Hausdurchsuchung beispielsweise impliziert gewaltsames Eindringen in eine Privatwohnung, sonst wäre die Hausdurchsuchung freiwillig.
+*Rechtsstaatlichkeit* bedeutet dabei, dass mir ein unterschriebener Wisch gezeigt wird, bevor meine Wohnung auf links gedreht wird.
+So hat letztlich alles seine Ordnung.
+Auf der Suche nach dem Bösewicht sind Polizisten aber langweilig, weil zu weit unten in der ausführenden Hierarchie.
+Es sei hier lediglich vermerkt, dass die Macht, die ein Polizist, Staatsanwalt oder Richter über Menschen ausübt, an sich schon beachtlich ist.
+Folgen wir der Hierarchie aufwärts, landen wir schließlich bei den Führern der Staatsgeschicke in Form von Berufspolitikern.
+Berufspolitiker nehmen wiederum ganz unterschiedliche Funktionen war:
+Sie verantworten Budgets und besetzen wichtige Posten in hohen Ämtern – und sie führen die Ministerien und Behörden.
+Die wichtigste Funktion eines jeden Politikers in egal welcher genauen Funktion dürfte allerdings der Einfluss auf den Gesetzgebungsprozess sein.
+Die Gesetzgebung ist die Macht über die expliziten Regeln und damit die Definition dessen, was legal ist gegenüber dem, was gewaltsam sanktioniert wird.
+Und Gesetze haben es an sich, praktisch nie zurückgenommen zu werden – auch wenn eine neue Regierung mit vorgeblich gegensätzlichen Zielen an die Macht kommt.
+Der direkte Einfluss auf neue Gesetze liegt bei der Regierung, heißt: bei der Bundeskanzlerin und ihren Ministern.
+Der Bundestag kommt in zweiter Reihe hinzu, gegeben dass dieser immerhin jedes neue Gesetz mehrheitlich gutheißen muss.
+Die Macht aller etwaigen weiteren Machthaber, Lobbyisten und grauen Eminenzen muss sich darüber hinaus in indirektem Einfluss auf die Gesetzgebung äußern.
+Deshalb ist es alles andere als naiv, bei der Frage nach der Macht im Staat bei der Regierung anzusetzen, die auch ganz offiziell den Hut auf hat.
+Klingt langweilig, es ist sogar noch schlimmer:
+Auf [bundesregierung.de](https://www.bundesregierrung.de/breg-de/aktuelles/gesetzesvorhaben-und-neuregelungen) ist die Verschwörung der Politik-Elite gegen die Allgemeinheit komplett öffentlich nachzulesen.
+Das soll kein Witz sein:
+Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht.
+
+Der bunte Mix an Repressalien wird bei genauerem Hinweisen schnell repetitiv.
+Was eint die beteiligten Personen täglich, um in hoher Taktzahl neue Gesetze hervorzubringen?
+Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemma in Verbindung mit Herrschaft vergegenwärtigen.
+Tatsächlich sollte ein Politiker ein Gespür dafür entwickeln, welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
+Dieser Abstimmungsprozess ist allerdings nicht zu verwechseln mit einer Art *Demokratie im Kleinen*.
+Stattdessen dürfte Gruppendynamik die treffendere Umschreibung sein.
 Wir haben als Schulklasse unsere Philosophie-Lehrerin davon überzeugen können, dass der Unterricht ausfällt.
 Vielleicht ist das kein faires Beispiel, denn diese ist so schnell mit dem Auto auf und davon, dass sich rückblickend eine Art Interessenskongruenz konstatieren ließe.
 An anderer Stelle war ich in der Lage, in der firmeninternen «Elefantenrunde» alle meine dort anwesenden Chefs zu überzeugen und auf eine Linie zu bringen.
@@ -513,7 +556,7 @@ Die Menschen sind für die Meme auch keine Wirte, sondern eher die formbare Mass
 Ein definierendes Mem der Neuzeit, das die Menschenmasse vor unseren Augen formt, ist *jede Technologie*.
 Schrift war schon immer ein wichtiges Medium für Meme, um den Sprung von einem Gehirn ins nächste zu erleichtern.
 Die Erfindung des Buchdrucks hat diesen Mechanismus dem kleinen Mann zugänglich gemacht.
-(Der kleine Mann wurde unter dem Namen «Martin Luther» weltberühmt.)
+Dieser «kleine Mann» versetzte unter Anderem der Katholischen Kirche in chaotischen Zeiten den Todesstoß und wurde unter dem Namen «Martin Luther» weltberühmt.
 Gegen den neuzeitlichen Buchdruck gab es Widerstand.
 Man bedenke, dass Mönche viele Arbeitsstunden in das kunstvolle Kopieren der Bibel investierten, um dieses gehaltvolle, heilige Buch in der christlichen Welt zu verbreiten.
 Es gab nicht viele Dokumente, denen diese Aufmerksamkeit zuteil wurde – bis eines Tages Martin Luthers Pamphlete buchstäblich herumflogen.
@@ -553,13 +596,16 @@ Der Mehrwert dieser vier im Wortlaut der Bibel erschließt sich mir jedoch nicht
 Guter Christ entsprechend der zehn Gebote ist jemand, der Frau und Kinder schlägt – solange er seiner Frau treu bleibt und Sonntags ja nicht arbeitet, sondern brav seine Mutter anruft.
 «Du sollst nicht töten» ist eigentlich glassklar – da war dann aber anstelle der feierlichen Verlesung der zehn Gebote diese Geschichte mit dem goldenen Kalb und Mose sprach:
 «Ein jeder gürte sein Schwert um die Lenden und gehe durch das Lager hin und her von einem Tor zum andern und erschlage seinen Bruder, Freund und Nächsten.»
-Die Geschichte lehrt uns: Die moralische Flexibilität zeichnet den wahren «guten Christen» aus!
-Die beiden «Du sollst nicht begehren»-Gebote ordnen Frauen dann auch entsprechend neben Sklaven und Rindern als Besitz ein, was schlicht den Werten der Zeit entsprach.
+Die Geschichte lehrt uns: Die moralische Flexibilität zeichnet vor allem Anderen den «guten Christen» aus!
+Die beiden «Du sollst nicht begehren»-Gebote ordnen Frauen neben Sklaven und Rindern als Besitz ein, was schlicht den Werten der Zeit entsprach.
 Zusammen mit dem kurz und bündigem «Du sollst nicht stehlen» lässt sich ein solides Konzept von Privateigentum ablesen, das auch heute grob so existiert.
 Zusammenfassend sind die *Zehn Gebote* ein gutes Beispiel für die Schwierigkeiten im Zusammenhang mit der fehlschlüssigen Suche nach den «guten Memen».
 Was hier und jetzt alles leichthin eine «gute Sache» genannt wird, ist in aller Regel völlig unreflektierte Identifikation mit erfolgreichen Memen.
+Stirner wusste 1844 schon, wohin diese Reise führen wird:
+«Das Bürgertum ist nichts anderes als der Gedanke, daß der Staat alles in allem, der wahre Mensch sei, und daß des Einzelnen Menschenwert darin bestehe, ein Staatsbürger zu sein.
+Ein guter Bürger zu sein, darin sucht er seine höchste Ehre, darüber hinaus kennt er nichts Höheres als höchstens das antiquierte – ein guter Christ.»
 
-Will ich das vermeiden, hilft eine gesunde Skepsis gegen alles Populäre – auch und vor allem wenn es sich in ein moralisches Gewand kleidet.
+Will ich diese unreflektierte Identifikation vermeiden, hilft eine gesunde Skepsis gegen alles Populäre – auch und vor allem wenn es sich in ein moralisches Gewand kleidet.
 Den naturalistischen Fehlschluss vermeide ich, indem ich meiner Einschätzung folgend *gut* und *schlecht* nenne, was ich eben als *gut* oder *schlecht* befinde, ohne auf einen etwaigen natürlichen Ursprung – die erfolgreiche Reproduktionsstrategie – zu verweisen.
 Den Begriff «Mem» meide ich dabei.
 Die Natur ist Schöpfer des Menschen und der Meme.
@@ -621,6 +667,15 @@ Wäre eine Schweiz mit Tollwut denkbar?
 * Mem ist: Handlung + Zweck
   * Herrschaft: funktioniert prima als Mem
   * Dazu kommt "Theologie": Propaganda/ideologischer Überbau
+  * Informationsflut: Meme im weiteren Sinne (inkl. Katzenfotos)
+* die Informationstsunami
+  * logische Entwicklung vor dem Hintergrund der Meme: die wollen kopiert werden
+  * Schrift, Druckerpresse, Internet --> alles drängt auf massenweise Verbreitung von Ideen
+  * die korrekte neutrale Sicht darauf ist eine Art Synchronisierung --> die ganze Welt redet über die gleichen Themen
+    * obwohl dazu Polarisierung kommt
+    * Polarisierung ist **keine** Ideenvielfalt
+    * Polarisierung ist ein Aspekt evolvierender Meme
+  * die eigentlichen Meme wachsen auf dem Nährboeden der synchronisierten Gehirne
 * Der liberale "Ideenwettbewerb" ist nicht maßgeblich für Herrschaft
   * In Stammtischen wird sich fleißig ereifert
   * Die AfD sorgt für Aufruhr
@@ -652,3 +707,12 @@ Das Konzept der Meme im Hinterkopf
 * Erziehung und Meme
   * Kopie durch Trauma
   * gutheißen der Schläge
+
+* epischer Konflikt zwischen
+  * Optimum individueller Präferenzen/methodischer Individualismus
+  * «Kollektivismus»
+* politische Freiheit im Sinne Stirners: "Politik ist Herzenssache"
+  * der Demonstrant ist der wahre Demokrat
+  * politische Freiheit in China: der Chinesische Staat unterdrückt den Drang seiner Bürger, vollendete moderne Bürger zu werden
+  * der «mündige Bürger» im Sinne des Staates ist Vertreter der Sache des Staates
+  * der Chinese ist dagegen noch ein unterdrückter des Alten Systems – was man wiederum nicht allzu wörtlich nehmen sollte
