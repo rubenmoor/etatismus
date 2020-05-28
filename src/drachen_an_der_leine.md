@@ -10,6 +10,7 @@ Auf der Suche nach Austausch habe ich eine Gruppe auf *meetup.com* gegründet, w
 Nun gilt aber bei der Haltung zum Staat und zu seinen Institutionen einmal mehr: das *Sein bestimmt das Bewusstsein*.
 Mein Mitbewohner war Franzose und selbständiger Fotografenassistent, heißt: überwiegend arbeitslos.
 Da war dann bei noch so viel Interesse argumentativ nicht viel zu machen.
+Überhaupt ist gut möglich, dass er mich einfach als wirtschaftsliberal eingeordnet hat – als eine Art politikverdrossener FDP-Wähler vielleicht.
 Mein Dank gilt ihm davon abgesehen ganz aufrichtig – immerhin waren wir zu Beginn also zu zweit.
 Den Libertären Stammtisch der Pusters, der schon längst vorher existierte und mein Meetup nun auch überdauert, hab ich später erst kennengelernt.
 
@@ -141,7 +142,7 @@ Er weist dann den Kunden auf den *scope creep* hin, was ein pünktliches Fertig 
 Staaten sind ein Fall von systematischem *scope creep*.
 Der Staat selbst ist ein einziger *scope creep*.
 Die NATO war ein Bündnis gegen die Sowjetunion und wurde dann ganz explizit umfunktioniert in ein Bündnis gegen internationalen Terrorismus.
-Dass die NATO-Partner also mit stehendem Heer und Düsenjäger gegen Bombenleger im Einkaufszentrum vorgehen wollen, erschien hinreichend plausibel.
+Dass die NATO-Partner also mit stehendem Heer und Düsenjägern gegen Bombenleger im Einkaufszentrum vorgehen wollen, erschien hinreichend plausibel.
 Ob man von internationalem Terrorismus spricht, weil die Bombenleger heutzutage Migrationshintergrund haben?
 Ähnlich lächerlich ist das Fortbestehen der deutschen Bundesbank nach Einführung des Euros.
 Die Funktion der Bundesbank kann nun jedenfalls nicht mehr die einer Zentralbank sein – dazu gibt es nun die EZB.
@@ -407,7 +408,7 @@ Wer es in Politik oder Wirtschaft an die Spitze schafft, hat in aller Regel Inte
 Diese Eigenschaften bleiben bestehen, auch nachdem Schröder nicht mehr Kanzler ist oder wenn Gates die Führung von Microsoft abgibt und sich seinen philantropischen Zielen widmet.
 Gestaltungsdrang wird zusammen mit Geld und Netzwerk zu *Gestaltungsspielraum*, was im Gegensatz zu Macht vielleicht einfach nur das neutrale Wort ist.
 Meiner begrifflichen Intuition folgend verbinde ich mit Macht, den Willen anderer Menschen zu beugen.
-Gestaltungsdrang, sofern dieser unternehmerisch ist und auf Wechelseitigen Gewinn baut, passt da nicht zu.
+Gestaltungsdrang, sofern dieser unternehmerisch ist und auf wechselseitigen Gewinn baut, passt da nicht zu.
 Auch eine rein politische Karriere innerhalb einer Partei verdient diesbezüglich ein differenziertes Hinschauen.
 Wenn am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
 Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zarm zu fügen.
@@ -440,13 +441,14 @@ Aber wer hat denn nun hier und heute im demokratischen Staate die Macht?
 Wer ist Herrscher, Strippenzieher, Machthaber, meinetwegen: Bösewicht in einem System von Parteien, Parlamenten, Gerichten?
 Welche Rolle spielt Geld und die Welt der Konzerne?
 Wer hat das Sagen und wessen Interessen werden am Ende verwirklicht?
+
 Das Regieren von Menschenmassen geschieht durch Regeln – teils schriftlich und formal, teils implizit und informell.
 Dazu kommen die direkten Staatsdiener, die in Behörden einmal mehr Regeln, Richtlinien, Gesetze und Anordnungen umsetzen.
 Viele implizite Regeln ergeben sich aus einem Wechselspiel aus Konvention und Gesetz.
 Die Autorität eines Polizisten ist beispielsweise kein Gesetz.
-Sie mag sich wohl eher aus dem Auftreten so manch eines Polizisten ergeben, bei dem selbst die Uniform eine Rolle spielt.
+Sie dürfte sich wohl eher aus dem Auftreten des Polizisten ergeben, bei dem auch die Uniform eine Rolle spielt.
 Dazu kommt ganz zentral, dass der Widerspruch gegen forsches – gar gewaltsames – Vorgehen der Polizei praktisch erschwert ist.
-Den Nachbarn kann ich mit «Ich ruf die Polizeit» unter Umständen zur Vernunft bringen, den Polizisten nicht.
+Den Nachbarn kann ich mit «Ich ruf die Polizei!» unter Umständen zur Vernunft bringen, den Polizisten nicht.
 Und zuletzt gibt es zahlreiche explizite Gesetze, die wiederum vom Polizisten eine forsche Vorgehensweise verlangen.
 Eine sogenannte Hausdurchsuchung beispielsweise impliziert gewaltsames Eindringen in eine Privatwohnung, sonst wäre die Hausdurchsuchung freiwillig.
 *Rechtsstaatlichkeit* bedeutet dabei, dass mir ein unterschriebener Wisch gezeigt wird, bevor meine Wohnung auf links gedreht wird.
@@ -463,15 +465,15 @@ Der direkte Einfluss auf neue Gesetze liegt bei der Regierung, heißt: bei der B
 Der Bundestag kommt in zweiter Reihe hinzu, gegeben dass dieser immerhin jedes neue Gesetz mehrheitlich gutheißen muss.
 Die Macht aller etwaigen weiteren Machthaber, Lobbyisten und grauen Eminenzen muss sich darüber hinaus in indirektem Einfluss auf die Gesetzgebung äußern.
 Deshalb ist es alles andere als naiv, bei der Frage nach der Macht im Staat bei der Regierung anzusetzen, die auch ganz offiziell den Hut auf hat.
-Klingt langweilig, es ist sogar noch schlimmer:
+Mag langweilig klingen, es ist aber sogar noch schlimmer:
 Auf [bundesregierung.de](https://www.bundesregierrung.de/breg-de/aktuelles/gesetzesvorhaben-und-neuregelungen) ist die Verschwörung der Politik-Elite gegen die Allgemeinheit komplett öffentlich nachzulesen.
 Das soll kein Witz sein:
-Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht.
+Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich alle paar Wochen neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht.
 
 Der bunte Mix an Repressalien wird bei genauerem Hinweisen schnell repetitiv.
 Was eint die beteiligten Personen täglich, um in hoher Taktzahl neue Gesetze hervorzubringen?
 Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemma in Verbindung mit Herrschaft vergegenwärtigen.
-Tatsächlich sollte ein Politiker ein Gespür dafür entwickeln, welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
+Tatsächlich sollte ein Politiker ein Gespür dafür entwickelt haben, welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
 Dieser Abstimmungsprozess ist allerdings nicht zu verwechseln mit einer Art *Demokratie im Kleinen*.
 Stattdessen dürfte Gruppendynamik die treffendere Umschreibung sein.
 Wir haben als Schulklasse unsere Philosophie-Lehrerin davon überzeugen können, dass der Unterricht ausfällt.
@@ -540,7 +542,7 @@ Julian Assange leidet darunter, denn er trägt zur Enthüllung realer verschwör
 Die Informationen, die durch [Cablegate](https://de.wikipedia.org/wiki/Inhalte_der_Ver%C3%B6ffentlichung_von_Depeschen_US-amerikanischer_Botschaften_durch_Wikileaks) zutage gefördert werden, sind in der Szene lange nicht so heißt diskutiert wie letztlich substanzlose Spekulationen über den wahren Verlauf der Ereignisse des 11. Septembers 2001.
 Wikileaks Enthüllung wahrer Verschwörungen sind nicht per se erfolgreiche Meme.
 Dramatischer ausgedrückt: *Die Wahrheit* ist nicht per se erfolgreiches Mem.
-Dass *Ehrlichkeit* als Tugend ein verbreitetes Mem ist, vermag nicht grundsätzlich etwas daran zu ändern, denn zu *Ehrlichkeit als Tugend* gesellt sich das Heuchler-Mem:
+Dass *Ehrlichkeit* als Tugend ein verbreitetes Mem ist, vermag nicht grundsätzlich etwas daran zu ändern, denn zu *Ehrlichkeit als Tugend* gesellt sich die menschliche Fähigkeit des Heuchelns:
 Unser komplett unterbewusster, routinierter asymmetrischer Umgang mit Moral, die nur in Ausnahmen als Anleitung dafür verstanden wird, sein *eigenes Leben* zu verbessern.
 
 Bei der Betrachtung von Religion aus Sicht der Meme fällt auf, wie diverse Ideenkomplexe zusammen eine vollständige Struktur bilden.
@@ -611,7 +613,7 @@ Den Begriff «Mem» meide ich dabei.
 Die Natur ist Schöpfer des Menschen und der Meme.
 Der Mensch – nicht die Natur – ist Schöpfer von «gut» und «schlecht».
 
-Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, die abwechselnd mein Gehirn besitzen, muss mich nicht weiter beschäftigen.
+Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, die abwechselnd mein Gehirn in Besitz nehmen, muss mich nicht weiter beschäftigen.
 Ebensowenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
 Bin das wirklich ich oder bin ich bloßer Sklave meiner Natur?
 Beim Essen – und beim Sex – mache ich mir solche Gedanken eher selten.
@@ -632,6 +634,33 @@ Man könnte es auch so formulieren:
 Den Amish ist es gelungen, religiöse Meme, genauer: ihr *amish meme* an die Stelle der modernen Welt zu setzen.
 
 # Ein ideologischer Komplex
+
+Es ist auffällig, dass Weltkarten typischerweise politische Karten sind, in denen jedes Land mit einer Farbe ausgemalt ist.
+Auch verbirgt sich hinter Frage «Where are you from?» im Hostel in Thailand die Frage nach dem Herkunftsland.
+Fairerweise interessiert gar nicht zwingend immer die Nationalität.
+Diese vermischt sich mit kultureller Identität und Sprache.
+Dass ich aber wirklich keinem Land angehören sollte, gäbe Anlass zu Verwirrung.
+Am Ende muss ich auch von mindestens einem Land den Reisepass bei mir haben, um ungestört reisen zu können.
+Damit hat sich das «Ich bin Deutscher»-Mem in all seinen landesspezifischen Varianten in den letzten Winkel der Welt verbreitet.
+Der Memplex des modernen Staates beherrscht die Welt.
+Ein skandinavischer Lappe oder ein Yanomami aus dem Amazonas dürfen sich zurecht davon ausnehmen – diese Varianten regionaler, völkischer Identität haben dafür aber das Stigma der Rückständigkeit.
+Meine Identität als Staatsbürger beinhaltet zudem mehr.
+Da kann Wehrdienst zugehören, inklusive des Szenarios im Ernstfall für den *Dienst an der Waffe* bereitzustehen und zum Töten bereit zu sein.
+Dann gibt es von Land zu Land unterschiedliche Bildungs-, Gesundheits- und Rechtssysteme.
+Letztlich ist eben die Herrschaft landesspezifisch ausgeprägt.
+Nicht selten blickt ein Land konkret auf Ereignisse in der Geschichte zurück, durch die der Herrschaftsanspruch innerhalb der Landesgrenzen etabliert und verteidigt wurde.
+Die Krönung ist dann ein entsprechender Nationalfeiertag, der die Untertanen lehrt, sich selber dabei als die glücklichen Gewinner zu sehen.
+Dass auch der private materielle Wohlstand entlang von Landesgrenzen strukturiert ist, kann – muss aber nicht – kosequenz staatlicher Grenzen sein.
+Oft genug gibt es eben doch auch die realen Unterschiede zwischen Menschen, Gesellschaften und Kulturen – mit zusätzlich unterschiedlichen natürlichen Rahmenbedingungen.
+Wer allerdings mal längere Zeit im Ausland verbringt, merkt schnell, wie neben dem biologischen und kulturellem Erbe auch sehr kurzlebige Aspekte von Nationalität existieren.
+So ein Auslandsaufenthalt erweitert schnell die Perspektive – umgekehrt ist die Perspektive des daheimgebliebenden fast zwingend eingeschränkt.
+So teilen meine deutschen Freunde unter sich die Überzeugung, das deutsche Bildungs- und Gesundheitssystem sei unverzichtbar.
+Wie ich dass denn mache mit der Krankenversicherung?
+*Antwort: Ich habe nichts gegen Versicherungen, bezahle aber zur Zeit einfach den Arzt, wenn ich seine Dienste in Anspruch nehme.*
+Und: Wo die Kinder denn mal zur Schule gehen sollen? *Antwort: Nirgends und nie. Übrigens ein guter Grund, Deutschland zu verlassen: die Schulfplicht.*
+
+Hoppe beschreibt Staaten als territoriale Gewaltmonopolisten.
+
 
 Der moderne Staat ist gewissermaßen der erfolgreiche Memplex der Neuzeit.
 Deshalb wird leicht fündig, wer Analogien zwischen Kirche und Staat sucht.
