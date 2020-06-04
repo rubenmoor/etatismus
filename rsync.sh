@@ -5,5 +5,6 @@ rsync -avz \
         --exclude '.git*' \
         --exclude '.github' \
         --exclude '*.swp' \
+        --exclude 'book/' \
         . \
-        yggdrasil:/root/setup/dockerfiles/etatismus/mdbook-image/etatismus-book/
+        yggdrasil:/root/data/etatismus/markdown-source/
