@@ -87,7 +87,10 @@ h4 a.header:target {
 .content p { line-height: 1.45em; }
 .content ol { line-height: 1.45em; }
 .content ol li { padding: 0.5em 0; }
-.content ul { line-height: 1.45em; }
+.content ul {
+  line-height: 1.45em;
+  list-style-type: disc;
+}
 .content ul li { padding: 0.5em 0; }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
@@ -103,26 +106,29 @@ h4 a.header:target {
 
 div#footer {
   font-size: 8pt;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
-button#comments-hide {
+button.comments-hide {
   float: right;
   color: var(--links);
   border: none;
   background-color: inherit;
   display: none;
 }
-button#comments-hide:hover {
+button.comments-hide:hover {
   text-decoration: underline;
 }
 
-button#comments-show {
+button.comments-show {
   float: right;
   color: var(--links);
   border: none;
   background-color: inherit;
 }
-button#comments-show:hover {
+button.comments-show:hover {
   text-decoration: underline;
 }
 
@@ -131,7 +137,7 @@ div.comments {
   font-size:12pt;
 }
 
-div.comments ul {
+ul.schnack-comments {
   clear: both;
   list-style-type: none;
 }
@@ -241,44 +247,14 @@ textarea.schnack-body {
   border-radius: 8px;
 }
 
-button.schnack-signin-twitter {
-  padding: 8px;
-  border: 1px solid var(--table-header-bg);
-  border-radius: 8px;
+button.schnack-signin {
+  background-color: inherit;
+  border-style: none;
+  padding: 2px;
 }
 
-button.schnack-signin-twitter:hover {
-  background-color: var(--table-header-bg);
-}
-
-button.schnack-signin-github {
-  padding: 8px;
-  border: 1px solid var(--table-header-bg);
-  border-radius: 8px;
-}
-
-button.schnack-signin-github:hover {
-  background-color: var(--table-header-bg);
-}
-
-button.schnack-signin-google {
-  padding: 8px;
-  border: 1px solid var(--table-header-bg);
-  border-radius: 8px;
-}
-
-button.schnack-signin-google:hover {
-  background-color: var(--table-header-bg);
-}
-
-button.schnack-signin-facebook {
-  padding: 8px;
-  border: 1px solid var(--table-header-bg);
-  border-radius: 8px;
-}
-
-button.schnack-signin-facebook:hover {
-  background-color: var(--table-header-bg);
+button.schnack-signin:hover {
+  color: var(--links)
 }
 
 table {
@@ -347,4 +323,17 @@ blockquote {
 }
 .tooltipped .tooltiptext {
     visibility: visible;
+}
+
+@keyframes highlight {
+  0% {
+    background-color: var(--links);
+  }
+  100% {
+    background-color: var(--quote-bg);
+  }
+}
+
+li.schnack-highlight > div {
+  animation: highlight 3s;
 }

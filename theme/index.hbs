@@ -123,9 +123,6 @@
                             <i class="fa fa-search"></i>
                         </button>
                         {{/if}}
-                        <a id="contribute" class="icon-button" title="Als Autor beitragen" href="https://github.com/rubenmoor/etatismus">
-                            <i class="fa fa-edit"></i>
-                        </a>
                     </div>
 
                     <h1 class="menu-title">{{ book_title }}</h1>
@@ -135,8 +132,8 @@
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
                         {{#if git_repository_url}}
-                        <a href="{{git_repository_url}}" title="Git repository" aria-label="Git repository">
-                            <i id="git-repository-button" class="fa {{git_repository_icon}}"></i>
+                        <a href="{{git_repository_url}}" title="Als Autor beitragen" aria-label="Git repository">
+                            <i id="git-repository-button" class="fab {{git_repository_icon}}"></i>
                         </a>
                         {{/if}}
                     </div>
@@ -167,9 +164,6 @@
                 <div id="content" class="content">
                     <main>
                         {{{ content }}}
-                        <button id="comments-show" onclick="comments_show();">Kommentare anzeigen &gt;</button>
-                        <button id="comments-hide" onclick="comments_hide();">&lt; Kommentare verbergen</button>
-                        <div class="comments" id="comments-div"></div>
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
@@ -278,9 +272,10 @@
 
         <!-- Schnack JS -->
         <script type="text/javascript" src="https://schnack.rubenmoor.net/embed.js"
-                data-schnack-slug="{{ chapter_title }}"
+                data-schnack-target-class=".comments"
                 data-schnack-target=".comments"
-                data-schnack-partial-sign-in-via="Anmelden zum Kommentieren via"
+                data-schnack-slug="{{ chapter_title }}"
+                data-schnack-partial-sign-in-via="Zum Kommentieren bitte anmelden: "
                 data-schnack-partial-login-status="Angemeldet als <strong>%USER%</strong> (<a class='schnack-signout' href='#'>abmelden</a>)."
                 data-schnack-partial-or=" "
                 data-schnack-partial-edit="Bearbeiten"
@@ -296,19 +291,21 @@
                 >
         </script>
         <script type="text/javascript">
-          comments_div = document.getElementById('comments-div');
-          btn_hide = document.getElementById('comments-hide');
-          btn_show = document.getElementById('comments-show');
-          function comments_show() {
+          function comments_show(thread_id) {
+              comments_div = document.getElementById('comments-div-' + thread_id);
+              btn_hide = document.getElementById('comments-hide-' + thread_id);
+              btn_show = document.getElementById('comments-show-' + thread_id);
               comments_div.style.display = "block";
               btn_hide.style.display = "block";
               btn_show.style.display = "none";
           }
-          function comments_hide() {
+          function comments_hide(thread_id) {
+              comments_div = document.getElementById('comments-div-' + thread_id);
+              btn_hide = document.getElementById('comments-hide-' + thread_id);
+              btn_show = document.getElementById('comments-show-' + thread_id);
               comments_div.style.display = "none";
               btn_hide.style.display = "none";
               btn_show.style.display = "block";
-
           }
         </script>
 

@@ -14,6 +14,13 @@ Da war dann bei noch so viel Interesse argumentativ nicht viel zu machen.
 Mein Dank gilt ihm davon abgesehen ganz aufrichtig – immerhin waren wir zu Beginn also zu zweit.
 Den Libertären Stammtisch der Pusters, der schon längst vorher existierte und mein Meetup nun auch überdauert, hab ich später erst kennengelernt.
 
+<div>
+<button class="comments-show" id="comments-show-stammtisch" onclick="comments_show('stammtisch');">Kommentare anzeigen &gt;</button>
+<button class="comments-hide" id="comments-hide-stammtisch" onclick="comments_hide('stammtisch');">&lt; Kommentare verbergen</button>
+<div class="comments" id="comments-div-stammtisch"></div>
+</div>
+<br style="clear:all">
+
 Es war zu Hochzeiten des Anarcho-Kapitalismus-Stammtisch, dass Sören uns alle zu sich nach Hause einlud und wir zu elft – zweistellig! – seinen Esstisch in Beschlag nahmen.
 Die Treffen waren offen und auf *meetup.com* einsehbar.
 So war ein besonderes Feature unseres Stammtisches, dass sich immer auch wieder Gestalten einfanden, die nicht wirklich wussten, worum es überhaupt geht.
@@ -40,7 +47,14 @@ Es wäre einfach, wenn es um den deutschen Staat ginge oder, besser noch, die US
 Aber es geht um Etatismus, Herrschaft, unterbewusste Staatsgläubigkeit, die **demokratische Prämisse**, die die Phrase *Wir leben ja schließlich in einer Demokratie* in den Stand eines Arguments erheben soll.
 Die Fundamentaloppsition gegen den Staat an sich definiert den Libertarismus.
 Doch auch unter Libertären ist Etatismus allein kein dauerhaft ergiebiges Diskussionthema für alle.
-Da mischt sich dann alles mögliche mit rein: *Darum AfD!*, offene Grenzen, geschlossene Grenzen, Feminisierung, *Trump!*, *um keinen Preis AfD!*, die Medien, Klima, Grönemeyer, Corona, hin und wieder gar *der Jude* und die Rothschilds.
+Da mischt sich dann alles mögliche mit rein: *Darum AfD!*, offene Grenzen, geschlossene Grenzen, Feminisierung, *Trump!*, *eben nicht AfD*, die Medien, Klima, Grönemeyer, Corona, hin und wieder gar *der Jude* und die Rothschilds.
+
+<div>
+<button class="comments-show" id="comments-show-gepolter" onclick="comments_show('gepolter');">Kommentare anzeigen &gt;</button>
+<button class="comments-hide" id="comments-hide-gepolter" onclick="comments_hide('gepolter');">&lt; Kommentare verbergen</button>
+<div class="comments" id="comments-div-gepolter"></div>
+</div>
+<br style="clear:all">
 
 ## Dabei hat der Libertarismus viel zu bieten
 
@@ -62,6 +76,13 @@ Die kompetente Beantwortung dieser Frage mit den Mitteln der Praxeologie findet 
 Da geht es um die Effektivität privatwirtschaftlich organisierter Verteidigung und natürlich die ökonomische Effizienz von Verteidigung gegenüber offensiver Kriegsführung.
 Letztere verschlingt am Beispiel der USA den Löwenanteil des Rüstungsbudgets und fällt für eine friedliche *Privatrechtsgesellschaft* komplett weg.
 In der Praxis stellen die wenigsten Libertarismus-Kritiker allzu viele Fragen, die über *Muh' roads* hinausgehen, und kommen nie in den Genuss von Robert Murphys Einsichten. Mein persönlicher Favorit ist sein [Vortrag auf YouTube: Würde es in der freien Gesellschaft Gefängnisse geben?](https://www.youtube.com/watch?v=SzYJYSm-MfI)
+
+<div>
+<button class="comments-show" id="comments-show-libertäre-bücher" onclick="comments_show('libertäre-bücher');">Kommentare anzeigen &gt;</button>
+<button class="comments-hide" id="comments-hide-libertäre-bücher" onclick="comments_hide('libertäre-bücher');">&lt; Kommentare verbergen</button>
+<div class="comments" id="comments-div-libertäre-bücher"></div>
+</div>
+<br style="clear:all">
 
 Mich überzeugt Robert Murphy grundsätzlich und ich habe seine Texte und Vorträge verschlungen.
 Allerdings gibt es eine Einschränkung.
@@ -86,7 +107,7 @@ Das Bedürfnis nach Gott scheint universell zu sein – und dieses Bedürfnis sc
 Ich weiß, dass ein Bedürfnis *beherrscht zu werden* inhärent inkonsistent ist.
 *Na, und?* denkt sich der Demokrat und setzt unbeirrt seinen Weg ~~zur Pilgerstätte~~ zum Wahllokal fort.
 Die *freie Gesellschaft*: rationaler als der Staat und ökonomisch überlegen.
-Trotzdem können wir nicht beobachten, wie die freie Gesellschaft staatliche Gewalt verdrängt.
+Trotzdem können wir nicht beobachten, wie die freie Gesellschaft staatliche Gewalt verdrängt hat.
 Es zeichnet sich nicht einmal eine entsprechende Tendenz ab.
 Im Staat wird gegen Fortschritt, der den Staat eventuell überflüssig macht, aktiv angegangen.
 Das wiederum – diese fortgesetzte Ineffizienz inklusive größerer und kleinerer gewaltsamer Exzesse – charakterisiert genau den Staat.
@@ -174,8 +195,7 @@ Der Drachen ist außerdem völlig unberechenbar, darüber hinaus nicht intellige
 Um das Bild komplett zu machen: Jeder Mensch ist insofern Bestandteil des Staates – des Drachens – wie er eben staatsgläubig ist und im Dienste des Staates handelt.
 Wenn ein guter Freund glaubt, mich zur Rechenschaft ziehen zu müssen, für nicht versteuerte Gewinne aus dem Handel mit Bitcoin, dann sehe ich in ihm in dem Moment nur den Drachen.
 Umgekehrt halte ich jedem Passanten die Tür auf, wenn mir danach ist, auch wenn es sich um einen Bundestagsabgeordneten handelt.
-Es riecht auch nicht nach Schwefel, wenn Angela Merkel einkaufen geht.
-*Fairerweise: wenn der Einkauf für das Foto in der Bild-Zeitung gestellt war, stinkt die Sache natürlich schon.*
+Es riecht auch nicht nach Schwefel, wenn Angela Merkel einkaufen geht. *Fairerweise: wenn der Einkauf für das Foto in der Bild-Zeitung gestellt war, stinkt die Sache natürlich schon.*
 Wenn ich dem Drachen zu nahe komme, beißt er mir schlicht den Kopf ab.
 Ich werde verzehrt wie schon sehr viele Menschen vor mir.
 Manchmal sucht der Drachen auch Dörfer heim, wo die Menschen schlafen und ihrem Alltag nachgehen.
@@ -304,6 +324,8 @@ Einfacher ist es, sich selber – wie Richard – einzumauern in seinen Überzeu
 Nicht eine Lösung meiner Probleme ist gesucht, sondern Theorien darüber wie die Welt an sich das Problem ist, sodass ich meiner hoffnungslosen Untätigkeit einen rationalen Überbau verpassen kann.
 Darin sind nicht wenige Libertäre den *Stazis*, wie sie liebevoll genannt werden, oft genug erschreckend ähnlich.
 
+* [ ] feedback Sören
+
 Zuerst werden die Politiker aufs Korn genommen.
 Deren schräger Anspruch Staat und Gesellschaft zu repräsentieren, wird auf einmal ernst genommen.
 Als Repräsentanten der Macht – eigentlich sind sie überwiegend einfache Nutznießer wie der Sozialhilfeempfänger – hätten sie es nicht besser verdient.
@@ -418,7 +440,7 @@ Ich meine: Er hat den Schreibtisch nach wie vor voller Arbeit und packt in aller
 Das *Geschafft Haben* nimmt er gar nicht wahr – wenn es ihm darum ginge, hätte er schon viel früher aufgehört, bei der ersten Million zum Beispiel.
 Elon Musk ist dafür ein gutes Beispiel.
 Dieser hat es meines Wissens durch sein Auftreten als Technik-Nerd, das auf bizarre Weise authentisch ist, noch nicht zu einer Hauptrolle in einer Verschwörungstheorie geschaft.
-Das ~~reptiloide~~ roboterhafte Auftreten von Hillary Clinton, ganz ähhnlich: Mark Zuckerberg, ist dagegen perfekt für Spekulationen über die dunklen Machenschaften der heimlichen Übermächtigen.
+Das ~~reptiloide~~ roboterhafte Auftreten von Hillary Clinton und ganz ähnlich: von Mark Zuckerberg ist dagegen perfekt für Spekulationen über die dunklen Machenschaften der heimlichen Übermächtigen.
 Dass ich paranoid bin, heißt natürlich aber nicht, dass ich nicht verfolgt werde, und weiter unten werden wir sehen, dass genug dran ist, an einer weltumfassenden Verschwörung auf Kosten des Individuums.
 Nur spielen da einzelne Personen nicht die entscheidende Rolle.
 
@@ -435,7 +457,7 @@ Bis es soweit ist, sind die Politiker aber als Gegner untauglich.
 Sie sind vielmehr leichte Feindbilder.
 Fokussieren wir uns doch lieber auf das, was den *Aufstieg der Nazis erst möglich gemacht hat* und das war noch lange vor Antisemitismus und Nationalismus der Staat selbst.
 Seine Institutionen mussten «gleichgeschaltet» werden und – so komplex dieses Vorhaben auf gewesen sein mag – man darf darüber staunen, mit welcher Selbstverständlichkeit die *demokratischen Institutionen* ihre neue Rolle als gänzlich undemokratische, diktatorische Institutionen ausfüllten.
-Der Staat bietet seinen Missbrauch an und streckt seinen Hintern in die Höhe, wenn der Nazi-Vergewaltiger naht.
+Der Staat bietet seinen Missbrauch an und reckt seinen Hintern lüstern in die Höhe, wenn der Nazi-Vergewaltiger naht.
 
 Aber wer hat denn nun hier und heute im demokratischen Staate die Macht?
 Wer ist Herrscher, Strippenzieher, Machthaber, meinetwegen: Bösewicht in einem System von Parteien, Parlamenten, Gerichten?
@@ -443,17 +465,23 @@ Welche Rolle spielt Geld und die Welt der Konzerne?
 Wer hat das Sagen und wessen Interessen werden am Ende verwirklicht?
 
 Das Regieren von Menschenmassen geschieht durch Regeln – teils schriftlich und formal, teils implizit und informell.
-Dazu kommen die direkten Staatsdiener, die in Behörden einmal mehr Regeln, Richtlinien, Gesetze und Anordnungen umsetzen.
+In Behörden sitzen darüber hinaus die direkten Staatsdiener, die einmal mehr Regeln, Richtlinien, Gesetze und Anordnungen umsetzen.
 Viele implizite Regeln ergeben sich aus einem Wechselspiel aus Konvention und Gesetz.
 Die Autorität eines Polizisten ist beispielsweise kein Gesetz.
 Sie dürfte sich wohl eher aus dem Auftreten des Polizisten ergeben, bei dem auch die Uniform eine Rolle spielt.
 Dazu kommt ganz zentral, dass der Widerspruch gegen forsches – gar gewaltsames – Vorgehen der Polizei praktisch erschwert ist.
 Den Nachbarn kann ich mit «Ich ruf die Polizei!» unter Umständen zur Vernunft bringen, den Polizisten nicht.
-Und zuletzt gibt es zahlreiche explizite Gesetze, die wiederum vom Polizisten eine forsche Vorgehensweise verlangen.
+Diese Asymmetrie ist expliziter Bestandteil des sogenannten Rechtsstaats.
+Das *Zivilrecht* regelt den Umgang der Bürger untereinander.
+Das *Öffentliche Recht* regelt mein Verhältnis zum Staat.
+«Gleiches Recht für alle» gibt es nicht.
+Der Staat und seine Vertreter – die «Träger öffentlicher Gewalt» – spielen nicht nach allgemeingültigen Regeln.
+Das öffentliche Recht verlangt vom Polizisten sogar eine forsche – bisweilen rücksichtslose – Vorgehensweise.
 Eine sogenannte Hausdurchsuchung beispielsweise impliziert gewaltsames Eindringen in eine Privatwohnung, sonst wäre die Hausdurchsuchung freiwillig.
 *Rechtsstaatlichkeit* bedeutet dabei, dass mir ein unterschriebener Wisch gezeigt wird, bevor meine Wohnung auf links gedreht wird.
 So hat letztlich alles seine Ordnung.
-Auf der Suche nach dem Bösewicht sind Polizisten aber langweilig, weil zu weit unten in der ausführenden Hierarchie.
+
+Auf der Suche nach dem Bösewicht im Staat sind Polizisten aber langweilig, weil zu weit unten in der ausführenden Hierarchie.
 Es sei hier lediglich vermerkt, dass die Macht, die ein Polizist, Staatsanwalt oder Richter über Menschen ausübt, an sich schon beachtlich ist.
 Folgen wir der Hierarchie aufwärts, landen wir schließlich bei den Führern der Staatsgeschicke in Form von Berufspolitikern.
 Berufspolitiker nehmen wiederum ganz unterschiedliche Funktionen war:
@@ -465,15 +493,19 @@ Der direkte Einfluss auf neue Gesetze liegt bei der Regierung, heißt: bei der B
 Der Bundestag kommt in zweiter Reihe hinzu, gegeben dass dieser immerhin jedes neue Gesetz mehrheitlich gutheißen muss.
 Die Macht aller etwaigen weiteren Machthaber, Lobbyisten und grauen Eminenzen muss sich darüber hinaus in indirektem Einfluss auf die Gesetzgebung äußern.
 Deshalb ist es alles andere als naiv, bei der Frage nach der Macht im Staat bei der Regierung anzusetzen, die auch ganz offiziell den Hut auf hat.
-Mag langweilig klingen, es ist aber sogar noch schlimmer:
+Das mag jetzt langweilig klingen, es ist sogar noch schlimmer:
 Auf [bundesregierung.de](https://www.bundesregierrung.de/breg-de/aktuelles/gesetzesvorhaben-und-neuregelungen) ist die Verschwörung der Politik-Elite gegen die Allgemeinheit komplett öffentlich nachzulesen.
 Das soll kein Witz sein:
-Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich alle paar Wochen neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht.
+Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich alle paar Wochen neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht – mit Dokumentations- und Meldepflichten, Lizenzbestimmungen, Abgaben, Sicherheitsvorschriften usw. usf.
 
 Der bunte Mix an Repressalien wird bei genauerem Hinweisen schnell repetitiv.
 Was eint die beteiligten Personen täglich, um in hoher Taktzahl neue Gesetze hervorzubringen?
 Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemma in Verbindung mit Herrschaft vergegenwärtigen.
-Tatsächlich sollte ein Politiker ein Gespür dafür entwickelt haben, welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
+Die tägliche Arbeit eines Politikers beinhaltet, dass er seine Fühler ausstreckt und vorausahnt, aus welcher Richtung der Wind weht.
+Einflussfaktoren sind dabei: die politische Linie der Partei, die Stimmung an der Basis, die Ansagen der Parteispitze.
+Wer Karriere machen will, unterstützt besser
+Tatsächlich gibt es in der politischen Arbeit die wiederkehrende Herausforderung, aktiv konkurrierende Interessen unter einen Hut zu bringen.
+Ein Politiker sollte ein Gespür dafür entwickelt haben, aus welcher Richtung gerade der Wind weht – was gefragt ist und welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
 Dieser Abstimmungsprozess ist allerdings nicht zu verwechseln mit einer Art *Demokratie im Kleinen*.
 Stattdessen dürfte Gruppendynamik die treffendere Umschreibung sein.
 Wir haben als Schulklasse unsere Philosophie-Lehrerin davon überzeugen können, dass der Unterricht ausfällt.
