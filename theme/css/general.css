@@ -84,11 +84,11 @@ h4 a.header:target {
     margin-right: auto;
     max-width: var(--content-max-width);
 }
-.content p { line-height: 1.45em; }
-.content ol { line-height: 1.45em; }
+.content p { line-height: 1.5em; }
+.content ol { line-height: 1.5em; }
 .content ol li { padding: 0.5em 0; }
 .content ul {
-  line-height: 1.45em;
+  line-height: 1.5em;
   list-style-type: disc;
 }
 .content ul li { padding: 0.5em 0; }

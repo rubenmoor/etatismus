@@ -270,7 +270,7 @@ Uns steht eine Weiterentwicklung bevor, das nächste Level.
 Das Stichwort ist *mobiles Unternehmertum*.
 Die Organisation von Wertschöpfung losgelöst von staatlichen Zwängen beinhaltet neue Möglichkeiten und Herausforderungen. Dazu an anderer Stelle mehr.
 
-Ich behaupte, der Drachen ist damit besiegt.
+Ich behaupte, der Drachen ist damit eigentlich besiegt.
 In den Details gibt es sicherlich noch viel mehr dazu zu sagen.
 Möglicherweise ist das unbeschwerte legale Auswandern nur jetzt gerade, in einem kleinem Zeitfenster möglich.
 Praktisch ist aber absehbar, dass das Auswandern – wenngleich unter erschwerten Bedingungen – auch in Zukunft die Strategie Nr. 1 für Freiheit vom Staat sein wird.
@@ -300,8 +300,9 @@ Dem mobilen Unternehmer – mit international diversifiziertem Wohnsitz – mach
 
 ## Wer kontrolliert den Staat?
 
-Der Tag, an dem der Drache seinen letzten Atemzug tätigen wird, wird noch unspektulärer sein als der Tag, an dem der erste Auswanderer gegangen ist.
-Für die Libertären an den Stammtischen in Deutschland ist aber noch alles offen.
+Der Sieg über den Drachen ist notwendigerweise unspektakulär.
+Er folgt der Logik: «Was ist, wenn Krieg ist, und keiner geht hin?» – und aus der Ferne betrachtet wird der Drachen und seine Weiterentwicklung noch viel Stoff für Diskussion bieten.
+Für die Libertären an den Stammtischen in Deutschland ist sowieso noch alles offen.
 Richard hat auf dem anarcho-kapitalistischen Stammtisch treffend erkannt: «Ich höre immer nur Staat, Staat, Staat.»
 Der Auswanderer hat den Staat hinter sich gebracht, aber kein einziges soziales Problem gelöst.
 Weder habe ich zu einer Verminderung der CO₂-Emissionen beigetragen, noch hab ich den Klimawandel als Lügenkomplott enttarnt.
@@ -324,67 +325,52 @@ Einfacher ist es, sich selber – wie Richard – einzumauern in seinen Überzeu
 Nicht eine Lösung meiner Probleme ist gesucht, sondern Theorien darüber wie die Welt an sich das Problem ist, sodass ich meiner hoffnungslosen Untätigkeit einen rationalen Überbau verpassen kann.
 Darin sind nicht wenige Libertäre den *Stazis*, wie sie liebevoll genannt werden, oft genug erschreckend ähnlich.
 
-* [ ] feedback Sören
-
 Zuerst werden die Politiker aufs Korn genommen.
-Deren schräger Anspruch Staat und Gesellschaft zu repräsentieren, wird auf einmal ernst genommen.
-Als Repräsentanten der Macht – eigentlich sind sie überwiegend einfache Nutznießer wie der Sozialhilfeempfänger – hätten sie es nicht besser verdient.
+Deren schräger Anspruch Staat und Gesellschaft zu repräsentieren, wird stimmungsabhängig mal zurecht absurd genannt und mal hundertprozentig ernst genommen.
+Als Repräsentanten der Macht – eigentlich sind sie überwiegend einfache Nutznießer wie der Sozialhilfeempfänger – hätten die Politiker es ja nicht besser verdient.
 Dass ihre Intelligenz nicht übermenschlich ist, sollte dabei gar nicht überraschen.
-Dass sie oft genug amateurhaft abliefern und unprofessionell auftreten, könnte Anlass zu Beruhigung geben.
-**Macht** hat ein Politiker nur in einem beschränkten, konkreten Sinn.
-So gibt es keinen Politiker, der Deutschland führt.
+Dass sie oft genug amateurhaft abliefern und unprofessionell auftreten, könnte für den Fundamentalkritiker des Staates auch Anlass zu Beruhigung geben.
+Wie viel Macht ein Politiker hat und was das genau bedeutet, verdient einen differenzierten Blick.
+
 Ein Minister, der disziplinarisch ein ganzes Ministerium führt, ist praktisch gezwungen, die Arbeit seines Vorgängers zu übernehmen.
 Mit einem Regierungswechsel können nur die Top-Positionen der Ministerien ausgetauscht werden: Die Hierarche darunter bleibt.
 *Das schafft Kontinuität!* – und verhindert, dass ein Minister jemals umsetzen kann, was er versprochen hat.
 Seine Pläne müssen mit bestehender Bürokratie zum Einen, zum Anderen aber mit bestehenden Ansprüchen vereinbar sein.
 Da steht die alte Belegschaft Schlange, auf deren Kooperation der Minister angewiesen ist, neben einer Reihe von «Freunden», die ihn auf dem Weg zum Amt tatkräftig unterstützt haben und nun zurecht Zahltag erwarten.
+Damit ist ein Minister alles andere als machtlos.
+Oft genug hängt aber die Macht eines Politikers auch in den höchsten Positionen noch davon ab, wie gut er darin ist, eben *Politik zu machen*.
 
-Es liegt nicht in der Macht der Politiker, die nationalen Strukturen aufzulösen oder auch nur neuzugestalten.
-Die sogenannte *europäische Integration* verdient dabei genaues Hinschauen.
-Allein die Zähigkeit des Prozesses sollte aber hinreichend verdeutlichen, dass weder ein Politiker allein, noch eine Politikergeneration die EU konstruiert.
-Stattdessen evolviert da ein neues Wesen – dem Nationalstaate nicht unähnlich – ohne Ziel und ohne Zweck und ohne klare Richtung.
+Man schaue sich auch die sogenannte *europäische Integration* an.
+Die Gestaltung, Neuordnung oder gar Auflösung nationaler Strukturen liegt nicht in der Hand einer konkreten Gruppe von Politikern, sondern ist ein Projekt, dass mehrere Politikergenerationen beschäftigt.
+Mit der EU scheint ein neues Wesen zu evolvieren – dem Nationalstaate nicht unähnlich – ohne Ziel und ohne Zweck und ohne klare Richtung.
 Von allen Seiten wird daran gezogen und gezerrt.
-Die Beteiligten selbst sind die letzten, die wüssten, wohin die Reise geht.
-Der berühmte *kleinste gemeinsame Nenner* ist eben nicht gleichzusetzen mit einem Konsens und befriedigt somit auch oft genug niemandes Interesse.
-
-Die deutsche Wiedervereinigung ist über Helmut Kohl – den «Kanzler der Wende» – hereingebrochen.
-Er hat sie nicht bewirkt, er konnte sie noch nicht einmal planen, weil er sie schlicht nicht erwartet hat.
-Kanzler und Präsidenten kontrollieren den Staat nicht, sondern sind zu großen Anteilen sein Spielball.
-Ihnen über Gebühr Macht zuzuschreiben, hieße, demokratische Propaganda für bare Münze zu nehmen und sich auf das politische Spiel einzulassen.
-Die Strukturen, *in denen die Politiker regieren*, regieren auch sie.
-Das wiederum ist nicht mit Gewaltenteilung zu verwechseln – die Begriffe demokratischer Propaganda wollen wir getrennt abhandeln.
-Unter den Despoten der Weltgeschichte gab es auch immer wieder welche mit beeindruckender Macht.
-Schöpfer und Vernichter von Staaten waren vor allem Eroberer.
-Das gibt Hinweis darauf, dass auch heute noch explizite Gewaltausübung als notwendige Zutat für Macht zu verstehen ist.
-Sonst bleibt es bei der wesentlich schüchteneren Einflussnahme.
+Die Beteiligten EU-Politiker sind dabei nicht schlauer als die reinen Zuschauer.
+Sie wissen auch nicht, wohin die Reise geht.
+Der berühmte *kleinste gemeinsame Nenner* ist alles andere als ein Konsens und befriedigt in der Regel nicht ein konkretes Interesse.
 
 Die genaue Rolle, die beispielsweise ein Kanzler in dem Staat einnimmt, ist für einen Außenstehenden sehr schwer einzusehen.
-Von Helmut Kohl heißt es, er habe die Hälfte seines Arbeitstages damit zugebracht, am Telefon seine politischen Beziehungen zu pflegen.
+Von Helmut Kohl heißt es, er habe die Hälfte jedes Arbeitstages damit zugebracht, am Telefon seine politischen Beziehungen zu pflegen.
 Da wurden reihenweise Regionalvorstände angerufen, um zu gratulieren – nicht nur einmal im Jahr zum Geburtstag.
 Eine lange Liste von Freunden beansprucht Zeit und Aufmerksamkeit – und sichert die Unterstützung in der Parteibasis.
 Vielleicht ist das der Preis für eine 16-jährige Kanzlerschaft.
-Meine Vorstellung von Macht sieht anders aus.
-Von Angela Merkel wiederum heißt es, die trifft keine Entscheidung, bevor nicht die Meinungsumfragen eine klare Tendenz aufzeigen.
+Von Angela Merkel wiederum heißt es, sie treffe keine Entscheidung, bevor nicht die Meinungsumfragen eine klare Tendenz aufzeigen.
 Diesen Gedanken im Hinterkopf lässt sich verstehen, wie die Grenzöffnung 2015 zustande gekommen ist und der drastische Ausstieg Deutschlands aus der Atomkraft im Zuge der Fukushima-Katastrophe 2011.
-Aus meiner Sicht sind beides Beispiele für kurzsichtige desktruktive Aktionen.
-Objektiver lässt sich zumindest festhalten, wie beide Aktionen einen Bruch in den politischen Positionen der CDU waren und dem politischen Beobachter erschweren, die CDU als konservativ oder gar konservativ-vernünftig einzuordnen.
+Damit haben wir auch zwei gute Beispiele dafür, was Macht sehr konkret bedeuten kann.
+Es stand in Merkels Macht, komplett mit der Linie ihrer Partei zu brechen (die einmal für gesetzmäßige Einwanderung und Atomkraft stand).
+Auch die Frage, ob diverse Könige und Despoten der Menschheitsgeschichte mehr oder weniger Macht hatten als die Kanzlerin, ist berechtigt – ich traue mir keine Einschätzung zu.
 
-Fairerweise ist selbstverständlich auch die Möglichkeit, destruktive Dinge zu verrichten, *Macht* und folgerichtig vereint die Kanzlerin relativ viel Macht in einer Person.
-Dass aber Merkel Pläne schmiedend die Staatsgewalt im großen Stil nutzt, um staatsfremde Ziele zu verwirklichen, zeichnet sich hier nicht ab.
-Ich möchte nicht mit ihr tauschen.
-Sollte auch der Spitzenpolitiker mehr Funktionär als Gestalter sein, bleibt die Frage, wer denn in der Demokratie die Macht hat, weiterhin offen.
-Nebenbei kann man sich wundern, was denn einen Politiker überhaupt nach oben drängt.
-Die Politik scheint doch irgendwie einen Machthunger zu befriedigen.
-Ich behaupte, es sind zwei Dinge.
+Eine weitere Möglichkeit, um Spekulationen über Macht zu versachlichen, ist der Blick auf die Motivation eines Politikers.
+Es ist möglich, aber wenig plausibel, dass ein Politiker direkt zu Beginn seiner politischen Karriere schon Machtmaximierung als klares Ziel hat.
+Um gerade auch die vielen Politiker in der zweiten Reihe mitzuberücksichtigen, unterstelle ich eine Motivation basierend auf zwei Dingen.
 
 Erstens sind die Politiker, wie sich mir heute präsentieren, überzeugte Demokraten.
 Das gilt durch die Bank für Politiker aller Parteien, von Linkspartei zu AfD.
 Als solche sind sie möglicherweise selber Opfer von romantischen Vorstellungen bezüglich der Arbeit, die sie erwartet.
-Ein Kind, das Lastwagenfahrer werden will, muss sich die Position hinterm Lenkrad unglaublich erhaben vorstellen, denn von Verkehrsregeln und eingeschlafenen Arschbacken weiß das Kind nichts.
+Ein Kind, das Lastwagenfahrer werden will, muss sich die Position hinterm Lenkrad unglaublich erhaben vorstellen, denn von Verkehrsregeln und eingeschlafenen Arschbacken weiß es nichts.
 Und tatsächlich: ein Lkw-Fahrer dürfte viele Aspekte seiner Arbeit genießen.
 Dazu gehört für mich nachvollziehbar ein Stolz über die Größe und Kraft seines Gefährts.
 Genauso nachvollziehbar ist das Amt eines Ministerpräsidenten mit weniger Glamor verbunden – sieht sich dieser allenfalls als Führer eines Bundeslandes – als das Amt des Kanzlers.
-Egal ob 7,5-Tonner oder Gigaliner: Das Kind auf dem Schoß des Lkw-Fahrers dürfte enttäuscht sein, festzustellen, dass ihm nichts erlaubt ist.
+Egal ob 7,5-Tonner oder Gigaliner: Das Kind auf dem Schoß des Lkw-Fahrers dürfte enttäuscht sein, festzustellen, dass ihm auf der Straße nichts erlaubt ist.
 Weder wildes Lenken, noch scharfes Bremsen, nicht einmal schnelles Beschleunigen ist ihm vergönnt.
 Wer wirklich dauerhaft und mit Freude Lkw-Fahrer ist, dürfte eine Befriedigung in der Wahrnehmung seiner Verantwortung finden.
 Verantwortung heißt: Belastbar sein und tun, was erforderlich ist, und Sinn dabei empfinden.
@@ -396,7 +382,7 @@ Das Innehaben eines hohen Postens ist aber trotzdem mit vielen positiven Emotion
 Das muss nicht unbedingt objektiv und für Außenstehende nachvollziehbar begründbar sein.
 
 Zweitens kommt selbst jemand, der nicht dran glaubt, in den Genuss sehr materieller Vorteile.
-Die rund 700 Bundestagsabgeordneten verdienen jeder 115.000 EUR Jahresbrutto, effektiv das doppelte wenn man steuerfreie Zuwendungen berücksichtigt.
+Die rund 700 Bundestagsabgeordneten verdienen jeder 115.000 EUR Jahresbrutto, effektiv das Doppelte wenn man steuerfreie Zuwendungen berücksichtigt.
 Merkel gehört zu den Politikern, die ihr Einkommen praktisch ausschließlich aus politischer Arbeit bestreiten, und landet bei 350.000 EUR Jahresbruttogehalt.
 Hätte sie es nicht zur Kanzerlin geschafft, erginge es ihr möglicherweise wie Andrea Nahles, die zwei Jahre die SPD angeführt hat, 2019 dann aber hinschmiss.
 Nun gibt es Hinweise auf Arbeit für Nahles in der Bundesanstalt für Post und Telekommunikation, für rund 120.000 EUR Jahresbrutto.
@@ -407,7 +393,7 @@ Im Gegensatz zu Nahles und Merkel baute Schröder sein Vermögen maßgeblich vor
 Mit dem Ende seiner politischen Karriere setzte er seine privatwirtschaftliche Karriere fort und wie selbstverständlich wurde letztere durch neue gute Kontakte beflügelt.
 Zu Schröders Macht als Kanzler gehörte auch die Macht, sich einen Aufsichtsratposten bei Gazprom zu sichern.
 Insoweit Vorstandsmitglieder und Aufsichtsräte *ganz normale Leute* sind, sind Spitzenpolitiker es auch.
-Ihre ganz reale Macht lässt sich in ihrem Vermögen und ihrem Netzwerk bemessen.
+Ihre ganz reale Macht lässt sich in ihrem Einkommen, Vermögen und Netzwerk bemessen.
 
 Das ist so manchem Libertären und Hobby-Journalisten nicht genug.
 Wer es bis ganz dort oben geschafft hat, *kann als einziges Ziel* ja eigentlich nur noch irgendeine Form von Weltherrschaft im Sinn haben.
@@ -416,9 +402,11 @@ Ich weiß nicht, was im Kopf von George Soros, Bill Gates und Warren Buffet vor 
 Dass aber in deren Kreisen *die wahre Macht* zu finden sei, zweifle ich stark an.
 Dabei tut man sowohl Spitzenpolitikern als auch den CEOs und Unternehmern an der Spitze Unrecht, indem man sie gleichzeitig über- und unterschätzt.
 
-**Das Überschätzen** bezieht sich auf die Unterstellung, dass irgendwo dort oben die Bündelung der Macht in exklusivem Kreise zu finden sei.
-Dass keiner der möglichen Kandidaten ein Auftreten wie Hitler, Stalin oder Mao hat und seinen Weltherrschaftsanspruch gewaltsam real werden lässt, wird als Einwand nicht gelten gelassen.
-Es heißt dann, dass die wahre Macht viel effizienter im Stillen – verschworen eben – ausgeübt werden will.
+**Das Überschätzen** bezieht sich auf die Unterstellung, dass irgendwo dort oben die Bündelung der Macht in exklusivem Kreise zu finden sei – und dazu eine vereinfachte Vorstellung dessen, was Macht bedeutet.
+Dieser Machtbegriff hat eher einen psychologischen als einen analytischen Ursprung und handelt von einem übermächtigen, intelligenten Feind, der die Ursache von Leid und widrigen Umständen ist – was auch in Teilen zutreffend sein kann.
+Der Mensch scheint die Tendenz zu haben, die Rolle des Inhabers realer Macht als Erretter oder Zerstörer einseitig überzubetonen.
+Dass keiner der möglichen, real existierenden Kandidaten ein Auftreten wie Hitler, Stalin oder Mao hat und seinen Weltherrschaftsanspruch gewaltsam real werden lässt, wird als Einwand nicht gelten gelassen.
+Um die Vorstellung des mächtigen Bösewichts aufrechtzuerhalten, wird darauf hingewiesen, dass die wahre Macht viel effizienter im Stillen – verschworen eben – ausgeübt werden will.
 Diese Behauptung ist schwer zu widerlegen, dabei aber überhaupt nicht plausibel.
 Ich steuere die Geschicke der Welt und bleibe im Hintergrund?
 Es ist ganz im Gegenteil zu beobachten, wie praktisch alle mehr oder weniger größenwahnsinnigen Mächtigen der Weltgeschichte sehr hart daran arbeiten, sich öffentlichkeitswirksam ein persönliches Denkmal zu setzen.
@@ -428,11 +416,18 @@ Dabei gelingt es nur wenigen, ihre Person selbst in den Stand des Heiligen zu er
 Wer die Ehre hat, einen erfolgreichen Unternehmer kennenzulernen, gelangt womöglich zu der Feststellung, dass dieser anders tickt als die Hausfrauen und Angestellten um einen herum.
 Wer es in Politik oder Wirtschaft an die Spitze schafft, hat in aller Regel Intelligenz, Ehrgeiz und Gestaltungsdrang weit über dem Durchschnitt bewiesen.
 Diese Eigenschaften bleiben bestehen, auch nachdem Schröder nicht mehr Kanzler ist oder wenn Gates die Führung von Microsoft abgibt und sich seinen philantropischen Zielen widmet.
-Gestaltungsdrang wird zusammen mit Geld und Netzwerk zu *Gestaltungsspielraum*, was im Gegensatz zu Macht vielleicht einfach nur das neutrale Wort ist.
-Meiner begrifflichen Intuition folgend verbinde ich mit Macht, den Willen anderer Menschen zu beugen.
-Gestaltungsdrang, sofern dieser unternehmerisch ist und auf wechselseitigen Gewinn baut, passt da nicht zu.
 Auch eine rein politische Karriere innerhalb einer Partei verdient diesbezüglich ein differenziertes Hinschauen.
-Wenn am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
+Ich muss die Leistungen eines Politikers nicht respektieren – ich weise lieber darauf hin, dass der Wettbewerb um politische Ämter systematisch auf dem Rücken einer arbeitenden Gesellschaft ausgetragen wird.
+Politiker sind Parasiten.
+Die Behauptung, so ein Parasit hätte es leicht, würde mir aber nicht einfallen.
+Nur der hartnäckigste Blutsauger hat Aussicht auf Erfolg und Blut saugen will letztlich gelernt sein.
+Kurz: Politiker arbeiten, viele von ihnen arbeiten sogar sehr hart und ihr Leben lang.
+Die politische Karriere von Hillary Clinton macht das deutlich.
+Ihr Dasein als First Lady dürfte maßgeblichen Anteil an ihrem Erfolg haben.
+Ihr Unterliegen gegen Trump in 2016 wurde dann in unterschiedlichen Büchern aufgearbeitet und umfassend kommentiert und macht eben auch deutlich, welchen Preis die Frau für ihre Ambitionen gezahlt hat.
+Dem skandalsüchtigen Libertären ist das zu langweilig.
+Der weiß längst: Clinton ist Teil einer brutalen Polit-Mafia und spielt komplett nach ihren eigenen Regeln.
+Wenn aber am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
 Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zarm zu fügen.
 
 Was motiviert also den Politiker oder CEO, wenn er es an die Weltspitze geschafft hat?
@@ -446,43 +441,42 @@ Nur spielen da einzelne Personen nicht die entscheidende Rolle.
 
 ## Die Menschheit: Eine formbare Masse
 
-Dass ein Politiker in seiner Macht begrenzt ist, heißt nicht, dass der Staat es ist.
-Adolf Hitler war außerordentlich erfolgreich – ein Ausnahmepolitiker – weil seine ausufernde Macht die Macht *seines Staates* ausufern lassen hat.
-Der gewöhnliche Politiker ist weit entfernt von derartigen Leistungen und auch Hitler ist in einer Welle aus Gewalt und gekränktem Nationalstolz mitgeschwommen.
-Die brutale Entfaltung seiner Macht war eine historische Gelegenheit – ganz vergleichbar war dies für die Bolschewisten der Fall.
-Wir dürften dem modernen Staat nun zurecht dafür dankbar sein, einen Hitler für immer zu verhindern.
-Zumindest wenn diese prominent formulierte Absicht irgendwie wirksam realisiert werden könnte – ausgerechnet durch staatliche Institutionen!
-Die nächste Gelegenheit für einen staatlichen Gewaltexzess folgt sogleich und die Opportunisten stehen schon in den Startlöchern.
-Bis es soweit ist, sind die Politiker aber als Gegner untauglich.
-Sie sind vielmehr leichte Feindbilder.
-Fokussieren wir uns doch lieber auf das, was den *Aufstieg der Nazis erst möglich gemacht hat* und das war noch lange vor Antisemitismus und Nationalismus der Staat selbst.
-Seine Institutionen mussten «gleichgeschaltet» werden und – so komplex dieses Vorhaben auf gewesen sein mag – man darf darüber staunen, mit welcher Selbstverständlichkeit die *demokratischen Institutionen* ihre neue Rolle als gänzlich undemokratische, diktatorische Institutionen ausfüllten.
-Der Staat bietet seinen Missbrauch an und reckt seinen Hintern lüstern in die Höhe, wenn der Nazi-Vergewaltiger naht.
+Im Großen und Ganzen will ich sagen, dass Politiker als Feindbilder ganz überwiegend untauglich sind.
+Was ich aber über Politiker festzustellen meine, gilt nicht für den Staat an sich.
+Die Macht des Staates ist notwendigerweise ein Abstractum und transzendiert die einzelnen Personen.
+Wir sollen dem Deutschen Staate und seinen Institutionen dankbar dafür sein, dass ein Hitler für alle Zukunft vereitelt werden wird.
+Nur wie kann diese prominent formulierte Absicht wirksam realisiert werden?
+Einschlägiger ist die Beobachtung, dass der Staat – damals die «Deutsche Republik» – einem Hitler die *Machtübernahme* anbietet.
+Aus den demokratischen Institutionen wurden so gleichgeschaltete Nazi-Insititutionen.
+Pflichtbewusstsein und Rechtsstaat waren Werkzeuge in den Händen der Nazis.
+«Nationalismus» klingt heute böse – wer aber die Sezession Bayerns verlacht, hat deutschen Nationalismus verinnerlicht.
+Eine Spaltung Deutschlands über die Wahl Hitlers – das wäre was gewesen!
+Leider kennt auch die Bundesrepublik Deutschland ein solches Sezessionsrecht nicht.
+Die «wehrhafte Demokratie» ist und war immer ein politisches Instrument, das der nächste Hitler – sofern ein solcher überhaupt notwendig ist für den nächsten Zivilisationsbruch – als Werkzeug zu nutzen verstehen wird.
+Auch die Bundesrepublik kann nicht anders, als beim drohenden Missbrauch lüstern ihren Hintern in die Höhe zu strecken.
 
-Aber wer hat denn nun hier und heute im demokratischen Staate die Macht?
-Wer ist Herrscher, Strippenzieher, Machthaber, meinetwegen: Bösewicht in einem System von Parteien, Parlamenten, Gerichten?
+Aber wer oder was ist diese Bundesrepublik?
+Wer oder was ist die zentrale Herrschaft?
+Wer hat denn nun hier und heute im demokratischen Staate die Macht?
 Welche Rolle spielt Geld und die Welt der Konzerne?
-Wer hat das Sagen und wessen Interessen werden am Ende verwirklicht?
+Wessen Interessen werden am Ende verwirklicht?
 
 Das Regieren von Menschenmassen geschieht durch Regeln – teils schriftlich und formal, teils implizit und informell.
-In Behörden sitzen darüber hinaus die direkten Staatsdiener, die einmal mehr Regeln, Richtlinien, Gesetze und Anordnungen umsetzen.
-Viele implizite Regeln ergeben sich aus einem Wechselspiel aus Konvention und Gesetz.
-Die Autorität eines Polizisten ist beispielsweise kein Gesetz.
-Sie dürfte sich wohl eher aus dem Auftreten des Polizisten ergeben, bei dem auch die Uniform eine Rolle spielt.
-Dazu kommt ganz zentral, dass der Widerspruch gegen forsches – gar gewaltsames – Vorgehen der Polizei praktisch erschwert ist.
-Den Nachbarn kann ich mit «Ich ruf die Polizei!» unter Umständen zur Vernunft bringen, den Polizisten nicht.
-Diese Asymmetrie ist expliziter Bestandteil des sogenannten Rechtsstaats.
+Diese Regeln verletzen dabei ganz zentral einem Universalitätsanspruch, den der Staat und seine Vertreter bekommen stets eine Sonderbehandlung.
+Den Nachbarn kann ich mit «Ich ruf die Polizei!» zur Vernunft bringen, den Polizisten nicht.
+Diese Asymmetrie ist Bestandteil des sogenannten Rechtsstaats.
 Das *Zivilrecht* regelt den Umgang der Bürger untereinander.
 Das *Öffentliche Recht* regelt mein Verhältnis zum Staat.
 «Gleiches Recht für alle» gibt es nicht.
 Der Staat und seine Vertreter – die «Träger öffentlicher Gewalt» – spielen nicht nach allgemeingültigen Regeln.
-Das öffentliche Recht verlangt vom Polizisten sogar eine forsche – bisweilen rücksichtslose – Vorgehensweise.
-Eine sogenannte Hausdurchsuchung beispielsweise impliziert gewaltsames Eindringen in eine Privatwohnung, sonst wäre die Hausdurchsuchung freiwillig.
+Zur Krönung ist der Urheber sowohl des Zivilrechts als auch des Öffentlichen Rechts der Staat selber.
+Natürlich ist die Alternativlosigkeit einer solchen Schieflage gemeinhin anerkannt – und zwar zuerst einmal ganz grundsätzlich: Wer sonst soll die Gesetze machen? – und dann aber auch konkret:
+Natürlich impliziert eine Hausdurchsuchung das gewaltsame Eindringen in eine Privatwohnung.
 *Rechtsstaatlichkeit* bedeutet dabei, dass mir ein unterschriebener Wisch gezeigt wird, bevor meine Wohnung auf links gedreht wird.
-So hat letztlich alles seine Ordnung.
+So hat letztlich alles seine rechtmäßige Ordnung.
 
 Auf der Suche nach dem Bösewicht im Staat sind Polizisten aber langweilig, weil zu weit unten in der ausführenden Hierarchie.
-Es sei hier lediglich vermerkt, dass die Macht, die ein Polizist, Staatsanwalt oder Richter über Menschen ausübt, an sich schon beachtlich ist.
+Es sei hier lediglich angemerkt, dass die Macht, die ein Polizist, Staatsanwalt oder Richter über Menschen ausübt, an sich schon beachtlich ist.
 Folgen wir der Hierarchie aufwärts, landen wir schließlich bei den Führern der Staatsgeschicke in Form von Berufspolitikern.
 Berufspolitiker nehmen wiederum ganz unterschiedliche Funktionen war:
 Sie verantworten Budgets und besetzen wichtige Posten in hohen Ämtern – und sie führen die Ministerien und Behörden.
@@ -500,12 +494,11 @@ Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der
 
 Der bunte Mix an Repressalien wird bei genauerem Hinweisen schnell repetitiv.
 Was eint die beteiligten Personen täglich, um in hoher Taktzahl neue Gesetze hervorzubringen?
-Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemma in Verbindung mit Herrschaft vergegenwärtigen.
+Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemmata in Verbindung mit Herrschaft vergegenwärtigen.
 Die tägliche Arbeit eines Politikers beinhaltet, dass er seine Fühler ausstreckt und vorausahnt, aus welcher Richtung der Wind weht.
 Einflussfaktoren sind dabei: die politische Linie der Partei, die Stimmung an der Basis, die Ansagen der Parteispitze.
-Wer Karriere machen will, unterstützt besser
+Wer Karriere machen will, spricht besser dem aussichtsreichsten Führungsanwärter die Unterstützung aus.
 Tatsächlich gibt es in der politischen Arbeit die wiederkehrende Herausforderung, aktiv konkurrierende Interessen unter einen Hut zu bringen.
-Ein Politiker sollte ein Gespür dafür entwickelt haben, aus welcher Richtung gerade der Wind weht – was gefragt ist und welches Anliegen unter den Beteiligten konsensfähig ist, sonst kommt kein Resultat zustande – das gilt auch für den Regierungschef.
 Dieser Abstimmungsprozess ist allerdings nicht zu verwechseln mit einer Art *Demokratie im Kleinen*.
 Stattdessen dürfte Gruppendynamik die treffendere Umschreibung sein.
 Wir haben als Schulklasse unsere Philosophie-Lehrerin davon überzeugen können, dass der Unterricht ausfällt.
@@ -516,7 +509,7 @@ Mein Engagement diente ganz dem Zweck, in einer Gruppe von mitunter stolzen, erf
 Man bescheinigte mir dabei zuletzt mein kommunikatives Geschick und niemand brauchte sich verarscht vorkommen, denn die Firma war geeint durch das klare Ziel neue Kunden zu akquirieren.
 Gemeinsam einem Anliegen zu dienen, ermöglicht in potenziell noch so großen Gruppen eine Art Konvergenz und grundsätzliche Entscheidungsfähigkeit.
 
-Das soll auch meine Antwort sein.
+Das soll auch meine Antwort auf die Frage nach der Macht im Staate sein.
 Der Aufsatz heißt «Der Drachen an der Leine» und wenn jemand den Staat an sich an einer Leine führt und hin und wieder die Richtung bestimmen kann, dann ist das die **gemeinsame Idee**.
 Man könnte auch von der «demokratischen Idee» sprechen, aber es ist sinnvoll vorerst abstrakt zu bleiben, denn einmal mehr besteht die Gefahr, träge die Begrifflichkeiten staatlicher Propaganda zu übernehmen.
 Dass Ideen mächtig sein können, kauft mir jeder ab.
@@ -524,15 +517,27 @@ Wie mächtig Ideen wirklich sind, malt Susan Blackmore in [The Meme Machine](htt
 Eine Zusammenfassung der wichtigsten Inhalte des Buchs findet sich in ihrem Artikel: [Evolution and Memes: The human brain as a selective imitation device](https://www.susanblackmore.uk/articles/evolution-and-memes-the-human-brain-as-a-selective-imitation-device/).
 Kurz geht es darum, dass die *biologische Evolution* überflügelt wird durch die Existenz eines zweiten Replikators, des Mems, das vereinfacht als «ansteckende Idee» erklärt wird.
 Eigentlich handelt es sich bei Memen aber um Handlungen, die einem Zweck dienen.
-Beispielsweise ist die korrekte Verwendung von Feuersteinen mehr als nur eine Idee.
-Es geht vielmehr um eine Handlungsanweisung, ein Rezept, dass dem Zweck dient Feuer zu machen.
+Beispielsweise ist die korrekte Verwendung von Feuersteinen so ein Mem, genau nämlich die Handlungsanweisung – ein Rezept – das dem Zweck dient Feuer zu machen.
 Und dieses Rezept + sein Zweck ist das Mem.
-In der Welt des *homo erectus* ist die Fähigkeit Meme zu kopieren ein biologischer Selektionsvorteil.
+In der Welt des *homo erectus* ist die Fähigkeit, Meme zu kopieren, ein biologischer Selektionsvorteil.
 Richard Dawkins, der Erfinder des Begriffs, nennt als Beispiel für ein Mem den Kettenbrief.
-Wenn ich einen Kettenbrief erhalte, finde ich darin nicht nur die plumpe Anweisung, den Brief an möglichst viele Leute weiterzuleiten – auch Androhungen von Pech und Unglück, wenn ich das nicht tu, kommen häufig dazu.
+Wenn ich einen Kettenbrief erhalte, finde ich darin nicht nur die plumpe Anweisung, den Brief an möglichst viele Leute weiterzuleiten – auch Androhungen von Pech und Unglück, wenn ich das nicht tue, kommen häufig dazu.
 Und Religionen mit Missionsbefehl folgen ebenfalls einer plumpen memetischen Logik.
 Die Idee eines allmächtigen, persönlichen Gottes, der von mir außerdem verlangt, dass ich weitere Anhänger rekrutiere, verbreitet sich schlicht effektiver.
 Evolutionär betrachtet ist ebendies hinreichender Grund für die Existenz des Missionsbefehls.
+
+Die Wissenschaftlichkeit des Mem-Begriffs wird gerne in Frage gestellt.
+Ich möchte betonen, dass es vielmehr die Ablehnung des Mem-Konzepts ist, die einen Verzicht auf Wissenschaftlichkeit bedeutet.
+Die wissenschaftliche Diszplin der Linguistik beschäftigt sich mit der Evolution von Sprache und bedient sich der gleichen Werkzeuge wie der Evolutionsbiologe.
+Das ist kein Zufall: Wörter sind Meme.
+Ist die Entwicklung von Sprache – die Verwendung von Wörtern und die Veränderungen dabei – kein kreativer Prozess maßgeblich gesteuert durch intelligente Individuen?
+Doch!
+Und in der Fähigkeit Meme zu verbreiten erschöpft sich unsere Intelligenz möglicherweise auch schon.
+    Daniel Dennett beschreibt in [Darwin's dangerous idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea) die physikalischen Grundlagen der biologischen Evolution.
+Der Evolutionsprozess ist nach aktuellem Kenntnisstand notwendig und hinreichend, um die Entstehung von Komplexität auf dem Planeten Erde zu erklären.
+Der *homo sapiesn* ist Bestandteil dieser evolvierenden Komplexität.
+Bezüglich der Mem-Frage stellt er fest:
+Jede Dynamik, die darüber hinaus zu beobachten ist, kann (in Ermangelung von Alternativen: muss) als *evolutionäre Dynamik* verstanden werden.
 
 Laut Blackmore ließe sich durch Meme erklären, wie das Gehirn des *homo* in so wenigen Generationen – in den Maßstäben der Evolution – auf die Größe des Gehirns des *homo sapiens* anwuchs.
 Dieses große Gehirn macht uns heute zu zweckdienlichen Prozessoren der Meme – zu *meme machines* eben.
@@ -644,8 +649,68 @@ Den naturalistischen Fehlschluss vermeide ich, indem ich meiner Einschätzung fo
 Den Begriff «Mem» meide ich dabei.
 Die Natur ist Schöpfer des Menschen und der Meme.
 Der Mensch – nicht die Natur – ist Schöpfer von «gut» und «schlecht».
+In dem erfolgreichen Buch [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) schreibt Yuval Harari von «funktionalen Fiktionen».
+Zu diesen zählt Harari völlig korrekt:
 
-Dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, die abwechselnd mein Gehirn in Besitz nehmen, muss mich nicht weiter beschäftigen.
+* Hammuarbis Gesetzescodex
+* Die Verfassung der USA, inklusive des darin enthaltenen «all men are created equal»
+* Geld (allgemein: den Geldmechanismus, der unter anderem kulturüberschreitenden indirekten Handel erlaubt)
+* Menschenrechte
+* Staat oder Nation
+* Christliche Religion
+
+Man könnte der Liste hinzufügen: Wertegemeinschaften, Moral, Liberalismus.
+Bei Hararis funktionalen Fiktionen handelt es sich um nichts geringeres als um Memplexe und der Verweis darauf, dass diese eine Funktion erfüllen, ist durchaus angemessen.
+Meme sind nicht intelligent – ebensowenig wie Gene.
+Im Ergebnis sind aber Organismen und Memplexe zu beobachten, denen man eine Funktion erstellt.
+Warum hat ein Vogel flügel? «Um fliegen zu können» ist eine einfache und klare Antwort.
+«Weil in einer Folge von Mutationen Flügel entstanden sind» ist gleichermaßen korrekt und nichtssagend.
+Die gedankliche Übung, sich reduktionistisch die natürliche Selektion als Ursprung komplexer Organe vor Augen zu führen, kann aber sinnvoll sein.
+Warum geben sich moderne Staaten eine Verfassung?
+Die Beantwortung anhand der Funktion der Verfassung kann irreführend sein, weil die Funktion sozialer Institutionen regelmäßig von Propaganda überschrieben wird.
+Dass die Idee einer Verfassung irgendwann populär wurde – ein erfolgreiches Mem war – ist dagegen schon reduktionistisch-trivial.
+Stirner bietet einen Erklärungsversuch, indem er den Kontext der Idee im Liberalismus des 19. Jahrhunderts darstellt:
+
+*Der wahre Mensch ist die Nation, der Einzelne aber stets ein Egoist.
+Darum streifet Eure Einzelheit oder Vereinzelung ab, in welcher die egoistische Ungleichheit und der Unfriede hauset, und weihet Euch ganz dem wahren Menschen, der Nation oder dem Staate.
+Dann werdet Ihr als Menschen gelten und alles haben, was des Menschen ist;
+der Staat, der wahre Mensch, wird Euch zu dem Seinigen berechtigen und Euch die «Menschenrechte» geben:
+der Mensch gibt Euch seine Rechte! [...]
+Der Staat soll eine Gemeinschaft von freien und gleichen Menschen sein, und jeder sich dem «Wohle des Ganzen» widmen, in den Staat aufgehen, den Staat zu seinem Zweck und Ideal machen.
+Staat! Staat! so lautete der allgemeine Ruf, und fortan suchte man die «rechte Staatsverfassung», die beste Konstitution, also den Staat in seiner besten Fassung.
+Der Gedanke des Staats zog in alle Herzen ein und weckte Begeisterung; ihm zu dienen, diesem weltlichen Gotte, das ward der neue Gottesdienst und Kultus.
+Die eigentlich politische Epoche war angebrochen.*
+
+Man könnte nüchtern-analytisch feststellen:
+Die Verfassung soll den Staat als Vernunftskonstrukt formal definieren und dokumentiert Erwartungen an das neue Gesamtkonstrukt.
+Verfassungen sind historisch allerdings immer direkt mit einer Romantisierung einher gegangen.
+Ihr Inhalt wird als Garantie für den vernünftigen Staat verstanden.
+Dass Verfassungen zahnlose Tiger sind, fällt nicht weiter auf.
+Dass Staaten die Tendenz haben, individuelle Freiheit zu untergraben, bzw. dass es zwingend zum Konflikt zwischen Individuum und Staat kommen muss, wird im aus dem Grundgesetz der Bundesrepublik Deutschland zumindest indirekt deutlich.
+So wird im Artikel 14, Absatz 1 klargestellt:
+
+*Das Eigentum und das Erbrecht werden gewährleistet.*
+
+Der darauffolgende Satz im selben Absatz beraubt diesen ersten Satz aber bereits komplett seiner Bedeutung:
+
+*Inhalt und Schranken werden durch die Gesetze bestimmt.*
+
+Und dann folgt das potenzielle Todesurteil für verfassungsmäßig geschütztes Privateigentum im Absatz 2:
+
+*Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.*
+
+Wenn nun in einer hypothetischen Welt die Verfassung klarere Worte finden würde, um das Verhältnis zwischen Individuum und Staat zu regeln, so würde als nächstes der Mechanismus fehlen, der sicherstellt, dass die Rechte des Individuums auch wirklich gewahrt bleiben.
+Kann so ein Mechanismus überhaupt in der Verfassung garantiert werden?
+Würde er dort nicht letztlich der Politik preisgegeben werden?
+Das wichtigste Recht, das ich in der Verfassung vermisse, ist mein Sezessionsrecht – und selbiges ist letztlich mein Recht auf einseitige Kündigung, bei genauer Betrachtung überdies weniger ein Recht und mehr eine Frage meines Muts und meiner Mittel.
+Fundamentalkritik an Verfassungen ist nicht regelmäßiger Bestandteil von Politik – quasi-religiöse Bekenntnisse zu dem potenziell sehr mangelhaften Dokument dagegen schon.
+
+Und es ist eine solche Analyse, die Harari nach Einführung der «funktionalen Fiktionen» komplett missen lässt.
+In späteren Kapiteln schichtet Harari stattdessen Fehlschluss auf Fehlschluss, um seine ultra-progressive Weltsicht zu präsentieren.
+Dass er diese in ein wissenschaftliches Gewand gekleidet hat, ist möglicherweise der Verdienst, der dem Buch die Preise beschert hat.
+
+Die Einsicht, dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, erlaubt grundsätzlich die erforderliche Distanz zum Forschungsgegenstand einzuhalten.
+Dass auch konkret meine Überzeugungen gemeint sind, muss mich nicht weiter beschäftigen.
 Ebensowenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
 Bin das wirklich ich oder bin ich bloßer Sklave meiner Natur?
 Beim Essen – und beim Sex – mache ich mir solche Gedanken eher selten.
@@ -692,8 +757,9 @@ Wie ich dass denn mache mit der Krankenversicherung?
 Und: Wo die Kinder denn mal zur Schule gehen sollen? *Antwort: Nirgends und nie. Übrigens ein guter Grund, Deutschland zu verlassen: die Schulfplicht.*
 
 Hoppe beschreibt Staaten als territoriale Gewaltmonopolisten.
-
-
+Damit gelingt es ihm, in wenigen Worten jegliche Idealisierung beiseite zu wischen.
+Als Gewaltmonopolist regelt der Staat seinen eigenen «Zuständigkeitsbereich» – das oben erwähnte öffentlich Recht.
+Dass immer auch eine Gesellschaft denkbar wäre, in der es allen Individuen besser gehen könnte, spielt dabei nicht die entscheidende Rolle.
 Der moderne Staat ist gewissermaßen der erfolgreiche Memplex der Neuzeit.
 Deshalb wird leicht fündig, wer Analogien zwischen Kirche und Staat sucht.
 Der «Vater Staat» ist – dem christlichen Gott nicht unähnlich: streng aber gerecht.
@@ -702,78 +768,42 @@ Dabei sieht die genaue Wohlstandsdefinition nicht vor, dass dieses Heilsversprec
 Die Nation ist Identifikationsmerkmal und ermöglicht Solidarität nach innen und Ausgrenzung nach außen.
 Als Norddeutscher hab ich mit Schwaben und Bayern äußerst wenig gemein, könnte mich mit so manchem Dänen und Schweden gut verstehen, soll aber trotzdem eben Deutscher sein.
 Protestanten und Katholiken pflegen ähnliche Marotten.
-Bewusst oder unbewusst entsprechen wir in unserem Handeln exakt den Memen, die von uns dauerhaft oder im Wechsel Besitz ergreifen.
+Das EU-Konstrukt ist wiederum nicht die Abschaffung der Nation, sondern die Schaffung einer neuen, größeren Nation.
+Die Religionsanalogie ist deswegen so treffend, weil wir in beiden Fällen – Religion und Staat – von Memplexen reden.
+Auch die Fiktion – Gott im Himmel, Vernunft in der Demokratie – existiert in beiden Fällen.
+Aus dem Atheisten wird der *Anarchist*: Der ewige Unruhestifter, Chaot und Leugner aller guten Werte.
+Stirner (und Hoppe) legt Wert darauf, dass der Staat, dieser «Inbegriff der Vernunft» im Zweifelsfall die wahrhaftige Schreckensherrschaft erst ermöglicht:
 
-- [ ] Nachfolgender Absatz ist noch nicht flüssig
+*Der Monarch in der Person des «königlichen Herren» war ein armseliger Monarch gewesen gegen diesen neuen Monarchen, die «souveräne Nation». Diese Monarchie war tausendfach schärfer, strenger und konsequenter. Gegen den neuen Monarchen gab es gar kein Recht, kein Privilegium mehr; wie beschränkt nimmt sich dagegen der «absolute König» des ancien régime aus! Die Revolution bewirkte die Umwandlung der beschränkten Monarchie in die absolute Monarchie. Von nun an ist jedes Recht, welches nicht von diesem Monarchen verliehen wird, eine «Anmaßung», jedes Vorrecht aber, welches Er erteilt, ein «Recht». Die Zeit verlangte nach dem absoluten Königtum, der absoluten Monarchie, darum fiel jenes sogenannte absolute Königtum, welches so wenig absolut zu werden verstanden hatte, daß es durch tausend kleine Herren beschränkt blieb.*
 
-Die Herrschaft ist der eigentlich bestimmende Memplex – so weit verbreitet, dass die politische Weltkarte jeden bewohnten Flecken der Erde mehr oder weniger eindeutig mit einer Farbe füllt.
-Die Verallgemeinerung des «Ich bin Deutscher»-Mem hat die Menschheit flächendeckend erfasst.
-Wo sind die organisierten Atheisten, die sich als Herrschaftsfreie *Anarchisten* nennen dürften?
-Als ich den Staat als Drachen einführte, erwähnte ich:
-Nur sofern jemand im Dienste des Staates handelt, sehe ich in ihm den Drachen.
-In unserer Freizeit sind selbst die pflichtbewussten Deutschen ganz ausgezeichnete Anarchisten.
-Auch sind Meme fast unendlich liberal – ich spüre in mir keinen Widerstand, wenn ich meine Zugehörigkeit zu Deutschland verneine.
-Erst wenn ich die staatsfreie Zone innerhalb Deutschlands verkünde, wird mir schlagartig klar, dass der Memplex *Deutschland* auch das Mem beinhaltet, gegen Spalter Gewalt anzuwenden.
-Wer sich die Staaten-Memplexe weiter ausmalen will, darf sich das Dritte Reich als Tyrannosaurus Rex vorstellen.
-Der T-Rex hat gewissermaßen eine Erbkrankheit – eine Mutation! – die das Tier direkt nach der Geburt in einen Tötungswahn versetzte.
-Erschöpft wurde es dann von nicht weniger furchtbaren Raubtieren, deren Tötungswahn im Vergleich milder ausfiel, außer Gefecht gesetzt und aufgefressen.
-Die bolschewistische Mutation des «Mütterchen Russlands» resultierte in ein völlig neues Tier, dass eines Tages überraschend an inneren Blutungen krepierte.
-Die Schweiz stelle ich mir vor als einen listen Fuchs.
-Füchse sind Raubtiere, aber irgendwie niedlich, mit Puschelschwanz und elegantem Fell.
-Wäre eine Schweiz mit Tollwut denkbar?
+Dieser letzte Satz beinhaltet einer düstere Prophezeiung.
+Demokratische Nationen verstehen sich schon zunehmend nicht mehr als unabhängige Atome.
+Vielmehr wächst auf dem Nährboden der Demokratie-Ideologie etwas neues, noch größeres.
+Der konventionelle Staat steht dabei noch im Vordergrund.
+In diesem verbindet sich Moral mit Waffengewalt, was in keinem anderen Memplex der Fall ist (die UN-Armee ist unbewaffnet).
+Ideologien – ob religiöse Sekte oder linksextremer Aktivismus – nehmen noch in erster Linie Einfluss auf den Lauf der Dinge, indem sie die Staatsmacht in ihre Zwecke einspannen.
+Doch die Welt verändert sich schnell.
+Noch wedelt der Hund mit dem Schwanz und «reale Macht» finde ich am ehesten dort, wo Polizisten Gesetze durchsetzen und Soldaten in Reih und Glied marschieren.
+Merkels politische Entscheidungsfindung basiert aber heute schon komplett auf Narrativen, die die Medienlandschaft hervorbringt.
+Für mich als Außenstehenden wirken die Gestalter dieser Medien, die Journalisten, wie eine streng organisierte linke Öko-Sekte.
+Neutraler formuliert ist es wohl memetischer Druck, der schlicht eine Synchronisierung von Fernsehen und Zeitungen fast weltweit zur Folge hat – natürlich mit einer unvorhersehbaren Eigendynamik.
+Entlang dieser Entwicklung wird der Staat mehr und mehr zu einem Gefäß für ideologische Aufladung.
+Eventuell stand die Menschheit schon einmal an diesem Punkt.
+Als die Bolschewisten die Macht ergriffen, war es an ihnen Staat und Gesellschaft neuzudefinieren – mit den bekannten Folgen.
+In der Sowjetunion wedelte der Schwanz mit dem Hund:
+Ideologie überschrieb an allen Fronten Realität – in aller Regel gewaltsam.
+Neben den bekannten ökonomischen Problemen litten darunter die Beziehungen der Menschen untereinander.
+Da war nicht nur die Angst vor der Denunziation und dem Abtransport ins Lager sondern auch die Überzeugung, dass der Nachbar, die Tante, die Schwester usw. sich wirklich des Betrugs an der Revolution und der Arbeiterklasse schuldig gemacht haben.
 
-* Meme im Vergleich zu Ideen
-* Druckerpresse --> Internet
-  * Verbreitung von Ideen ist dynamischer geworden
-* Mem ist: Handlung + Zweck
-  * Herrschaft: funktioniert prima als Mem
-  * Dazu kommt "Theologie": Propaganda/ideologischer Überbau
-  * Informationsflut: Meme im weiteren Sinne (inkl. Katzenfotos)
-* die Informationstsunami
-  * logische Entwicklung vor dem Hintergrund der Meme: die wollen kopiert werden
-  * Schrift, Druckerpresse, Internet --> alles drängt auf massenweise Verbreitung von Ideen
-  * die korrekte neutrale Sicht darauf ist eine Art Synchronisierung --> die ganze Welt redet über die gleichen Themen
-    * obwohl dazu Polarisierung kommt
-    * Polarisierung ist **keine** Ideenvielfalt
-    * Polarisierung ist ein Aspekt evolvierender Meme
-  * die eigentlichen Meme wachsen auf dem Nährboeden der synchronisierten Gehirne
-* Der liberale "Ideenwettbewerb" ist nicht maßgeblich für Herrschaft
-  * In Stammtischen wird sich fleißig ereifert
-  * Die AfD sorgt für Aufruhr
-  * Alternative Medien bekommen Bedeutung
-  * Verschwörungen auf Seite der Regierungen haben ein großes Publikum
-* Stirner in "
-
-Das Konzept der Meme im Hinterkopf
-* gesicht von staaten wird bestimmt durch moderne kommunikationswege
-* schnelllebigkeit
-* "Demokratie": jeder redet mit
-* fake news
-* tägliches Einstimmen auf populäre Meinungen
-* Im Staat ist Macht einzelner begrenzt heißt nicht: Staatsmacht begrenzt
-* der ideologische Komplex transzendiert alles
-  * evolution der ideologie wild und unvorhersehbar
-  * rückblickend: demokratie
-    * nationalismus
-    * sozialismus
-    * environmentalismus
-* Merkel verhindern => den Drachen an die Leine nehmen
-* memetische Determinierung
-* Genetische Programmierung
-* Mem = selbstsüchtige Idee
-* Herrschaft der Inbegriff selbstsüchtiger Dynamik
-* orientierung in Hierarchien
-  * bückeln/treten
-* JP: Meme sind ihm soweit fremd, memetische Determinierung kommt ihm nicht in den Sinn
-* Erziehung und Meme
-  * Kopie durch Trauma
-  * gutheißen der Schläge
-
-* epischer Konflikt zwischen
-  * Optimum individueller Präferenzen/methodischer Individualismus
-  * «Kollektivismus»
-* politische Freiheit im Sinne Stirners: "Politik ist Herzenssache"
-  * der Demonstrant ist der wahre Demokrat
-  * politische Freiheit in China: der Chinesische Staat unterdrückt den Drang seiner Bürger, vollendete moderne Bürger zu werden
-  * der «mündige Bürger» im Sinne des Staates ist Vertreter der Sache des Staates
-  * der Chinese ist dagegen noch ein unterdrückter des Alten Systems – was man wiederum nicht allzu wörtlich nehmen sollte
+Ich möchte die aktuelle Verquickung aus althergebrachter Staatsgewalt und volatiler Ideologie schlicht «Demokratie» nennen.
+Was wir beobachten ist eine konsequente Fortführung der alten liberalen Idee: der Gestaltung von Macht – eben auch brutaler, tötlicher Macht – anhand von progressiven Idealen.
+Der Individualismus – ein weiterer Memplex – ist die logische Gegenposition dazu.
+Das zeitlose Prinzip dahinter: Ich begreife mich selber als König – erhaben über Gesetz, Moral und Ideale – und trete entsprechend auf.
+Soweit es in meiner Macht steht, zwinge ich mein Gegenüber, meine Herrschaft anzuerkennen.
+Darin und nur darin kommt meine Macht an Grenzen: in der Macht meines Gegenübers, das selber unabhängiger Souverän nach seinen eigenen Regeln ist.
+Ein solcher Individualist darf sich auf aufregende Zeiten gefasst machen.
+Wahrheit ist jetzt schon oft genug gleichbedeutend mit Lüge – ganz gemäß dem Parteislogan aus Orwells 1984: *Ignoranz ist Stärke*.
+Meme sind identitätsstiftend, bedingen aber ultimativ die Spaltung.
+Zusammenleben wird durchseucht von Ideologie.
+Die Welt wächst dabei zusammen: kaum ein Fleck Erde wird effektiv als Rückzugsort taugen.
+Die Gemeinschaft der Individualisten ist dabei nicht ohne ihre eigenen Widersprüche und an dieser Front lohnt es sich zuallerst anzupacken.
