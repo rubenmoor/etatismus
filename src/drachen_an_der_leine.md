@@ -528,14 +528,14 @@ Evolutionär betrachtet ist ebendies hinreichender Grund für die Existenz des M
 
 Die Wissenschaftlichkeit des Mem-Begriffs wird gerne in Frage gestellt.
 Ich möchte betonen, dass es vielmehr die Ablehnung des Mem-Konzepts ist, die einen Verzicht auf Wissenschaftlichkeit bedeutet.
-Die wissenschaftliche Diszplin der Linguistik beschäftigt sich mit der Evolution von Sprache und bedient sich der gleichen Werkzeuge wie der Evolutionsbiologe.
+Die wissenschaftliche Diszplin der Linguistik beschäftigt sich mit der Evolution von Sprache und bedient sich der gleichen Werkzeuge wie die Evolutionsbiologie.
 Das ist kein Zufall: Wörter sind Meme.
 Ist die Entwicklung von Sprache – die Verwendung von Wörtern und die Veränderungen dabei – kein kreativer Prozess maßgeblich gesteuert durch intelligente Individuen?
 Doch!
 Und in der Fähigkeit Meme zu verbreiten erschöpft sich unsere Intelligenz möglicherweise auch schon.
-    Daniel Dennett beschreibt in [Darwin's dangerous idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea) die physikalischen Grundlagen der biologischen Evolution.
-Der Evolutionsprozess ist nach aktuellem Kenntnisstand notwendig und hinreichend, um die Entstehung von Komplexität auf dem Planeten Erde zu erklären.
-Der *homo sapiesn* ist Bestandteil dieser evolvierenden Komplexität.
+Daniel Dennett beschreibt in [Darwin's dangerous idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea) die physikalischen Grundlagen der biologischen Evolution.
+Der Evolutionsprozess ist nach aktuellem Kenntnisstand notwendig und hinreichend, um die Entstehung von Komplexität – inklusive lebendiger Organismen – auf dem Planeten Erde zu erklären.
+Der *homo sapiens* ist Bestandteil dieser evolvierenden Komplexität.
 Bezüglich der Mem-Frage stellt er fest:
 Jede Dynamik, die darüber hinaus zu beobachten ist, kann (in Ermangelung von Alternativen: muss) als *evolutionäre Dynamik* verstanden werden.
 
@@ -641,8 +641,11 @@ Zusammen mit dem kurz und bündigem «Du sollst nicht stehlen» lässt sich ein 
 Zusammenfassend sind die *Zehn Gebote* ein gutes Beispiel für die Schwierigkeiten im Zusammenhang mit der fehlschlüssigen Suche nach den «guten Memen».
 Was hier und jetzt alles leichthin eine «gute Sache» genannt wird, ist in aller Regel völlig unreflektierte Identifikation mit erfolgreichen Memen.
 Stirner wusste 1844 schon, wohin diese Reise führen wird:
+
 «Das Bürgertum ist nichts anderes als der Gedanke, daß der Staat alles in allem, der wahre Mensch sei, und daß des Einzelnen Menschenwert darin bestehe, ein Staatsbürger zu sein.
 Ein guter Bürger zu sein, darin sucht er seine höchste Ehre, darüber hinaus kennt er nichts Höheres als höchstens das antiquierte – ein guter Christ.»
+
+Aus *Stirner:* **Der Politische Liberalismus**. [Volltext auf panarchy.org](https://www.panarchy.org/stirner/liberalismus.html).
 
 Will ich diese unreflektierte Identifikation vermeiden, hilft eine gesunde Skepsis gegen alles Populäre – auch und vor allem wenn es sich in ein moralisches Gewand kleidet.
 Den naturalistischen Fehlschluss vermeide ich, indem ich meiner Einschätzung folgend *gut* und *schlecht* nenne, was ich eben als *gut* oder *schlecht* befinde, ohne auf einen etwaigen natürlichen Ursprung – die erfolgreiche Reproduktionsstrategie – zu verweisen.
@@ -680,6 +683,8 @@ Der Staat soll eine Gemeinschaft von freien und gleichen Menschen sein, und jede
 Staat! Staat! so lautete der allgemeine Ruf, und fortan suchte man die «rechte Staatsverfassung», die beste Konstitution, also den Staat in seiner besten Fassung.
 Der Gedanke des Staats zog in alle Herzen ein und weckte Begeisterung; ihm zu dienen, diesem weltlichen Gotte, das ward der neue Gottesdienst und Kultus.
 Die eigentlich politische Epoche war angebrochen.*
+
+Aus *Stirner:* **Der Politische Liberalismus**. [Volltext auf panarchy.org](https://www.panarchy.org/stirner/liberalismus.html).
 
 Man könnte nüchtern-analytisch feststellen:
 Die Verfassung soll den Staat als Vernunftskonstrukt formal definieren und dokumentiert Erwartungen an das neue Gesamtkonstrukt.
@@ -780,7 +785,10 @@ Dieser letzte Satz beinhaltet einer düstere Prophezeiung.
 Demokratische Nationen verstehen sich schon zunehmend nicht mehr als unabhängige Atome.
 Vielmehr wächst auf dem Nährboden der Demokratie-Ideologie etwas neues, noch größeres.
 Der konventionelle Staat steht dabei noch im Vordergrund.
-In diesem verbindet sich Moral mit Waffengewalt, was in keinem anderen Memplex der Fall ist (die UN-Armee ist unbewaffnet).
+In diesem verbindet sich Moral mit Waffengewalt, was in keinem anderen Memplex der Fall ist.
+Man vergleiche dazu Kriminelle, die Mafia oder auch bewaffnete Widerstandskämpfer: Ihnen ist der Kampf um ihre Legitimität gemein.
+Der Staat ist gleichzeitig am schärfsten bewaffnet und verfügt über einen Überfluss an Legitimität, der es ihm erlaubt Legitimität über seine Grenzen hinaus noch zu verteilen.
+Die UN-Armee wiederum ist unbewaffnet.
 Ideologien – ob religiöse Sekte oder linksextremer Aktivismus – nehmen noch in erster Linie Einfluss auf den Lauf der Dinge, indem sie die Staatsmacht in ihre Zwecke einspannen.
 Doch die Welt verändert sich schnell.
 Noch wedelt der Hund mit dem Schwanz und «reale Macht» finde ich am ehesten dort, wo Polizisten Gesetze durchsetzen und Soldaten in Reih und Glied marschieren.
