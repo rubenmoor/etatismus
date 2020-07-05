@@ -41,12 +41,12 @@ So oder so war es aussichtslos und nach einer Dreiviertelstunde holte Richard zu
 
 *«Ich höre hier immer nur Staat, Staat, Staat. Wir müssen mal über das **Kapital** reden!»*
 
-Es gab Gepolter, eine kurze Klarstellung der Begrifflichkeiten, darunter auch die Bedeutung von «Anarcho-Kapitalimus» wie in «anarcho-kapitalistischer Stammtisch» und unser Gast empfahl sich.
+Es gab Gepolter, eine kurze Klarstellung der Begrifflichkeiten, darunter auch die Bedeutung von «Anarcho-Kapitalismus» wie in «anarcho-kapitalistischer Stammtisch» und unser Gast empfahl sich.
 Den Staat an sich zu problematisieren, ist unüblich und in aller Regel eine Provokation.
 Es wäre einfach, wenn es um den deutschen Staat ginge oder, besser noch, die USA.
 Aber es geht um Etatismus, Herrschaft, unterbewusste Staatsgläubigkeit, die **demokratische Prämisse**, die die Phrase *Wir leben ja schließlich in einer Demokratie* in den Stand eines Arguments erheben soll.
-Die Fundamentaloppsition gegen den Staat an sich definiert den Libertarismus.
-Doch auch unter Libertären ist Etatismus allein kein dauerhaft ergiebiges Diskussionthema für alle.
+Die Fundamentalopposition gegen den Staat an sich definiert den Libertarismus.
+Doch auch unter Libertären ist Etatismus allein kein dauerhaft ergiebiges Diskussionsthema für alle.
 Da mischt sich dann alles mögliche mit rein: *Darum AfD!*, offene Grenzen, geschlossene Grenzen, Feminisierung, *Trump!*, *eben nicht AfD*, die Medien, Klima, Grönemeyer, Corona, hin und wieder gar *der Jude* und die Rothschilds.
 
 <div>
@@ -63,11 +63,11 @@ Mein Gehirn **will** aber konsumieren, weiterleiten, sich empören, eine Meinung
 Ein Bekenntnis zum Libertarismus beinhaltet auch nicht zwingend, ein Buch gelesen zu haben, was libertäre Philosophie in ihrer Popularität begrenzt.
 Zum Glück ist dieses Bild so nicht vollständig und Anleitungen zu einem, sagen wir, **praktischem Libertarismus** gibt es beispielsweise von
 
-* **Christoph Heuermann**: Wander aus und gebrauche Staaten fortan zu deinem Zwecke! – und
+* **Christoph Heuermann**: Wandere aus und gebrauche Staaten fortan zu deinem Zwecke! – und
 * **Oliver Heuler**, für den Libertarismus Teil einer persönlichen Entwicklung ist, mit dem Ziel, sich vom Sollte-Denken zu befreien.
 
-Ich gehöre zu den Menschen, die Bücher gelesen haben, und bin der Meinung, libertäre Philosphie wird unterschätzt – was mich nicht davon abgehalten hat, **auch** auszuwandern und mich – inspiriert durch Oliver – in Gelassenheit zu üben.
-Mit dem Etatismus ist das wie mit dem Sollte-Denken: Ganz zu Anfang habe ich meinen Staatsglauben als solchen identifziert.
+Ich gehöre zu den Menschen, die Bücher gelesen haben, und bin der Meinung, libertäre Philosophie wird unterschätzt – was mich nicht davon abgehalten hat, **auch** auszuwandern und mich – inspiriert durch Oliver – in Gelassenheit zu üben.
+Mit dem Etatismus ist das wie mit dem Sollte-Denken: Ganz zu Anfang habe ich meinen Staatsglauben als solchen identifiziert.
 Jetzt kann ich alle meine heimlichen Überzeugungen explizit machen und hinterfragen.
 Die Fragen, die dabei auftauchen, gehen weit über *Wer baut dann die Straßen?* hinaus, wobei das nicht einmal ein schlechter Start ist.
 Eine dieser Fragen, die internetgerecht unter *Muh' roads* zusammengefasst werden, lautet:
@@ -133,7 +133,7 @@ Ist das so absurd?
 Es ist nicht so lange her und entsprechende Wertvorstellungen waren weit verbreitet.
 Der Kapitalismus als Motor des Fortschritts wird von den Menschen selten direkt gewollt.
 Menschen wollen genug zu essen, Jeans, schnelles Internet usw.
-Zusammen mit dem Bedürfnis nach nationaler Identität wird da schnell wieder das aktuelle Deutschland draus, eine *soziale Marktwirtschaft*.
+Zusammen mit dem Bedürfnis nach nationaler Identität wird da schnell wieder das aktuelle Deutschland daraus, eine *soziale Marktwirtschaft*.
 An dieser Stelle ist vielleicht ein libertäres Zugeständnis meinerseits hilfreich:
 Eine reale Nachfrage nach Deutschland als Produkt ist zur Zeit schwer zu argumentieren.
 Der Staat gibt vor, kollektive Interessen zu realisieren – das Gemeinwohl! – ist dabei aber gelinde gesagt ineffektiv.
@@ -216,7 +216,7 @@ Warum das wichtig sei, lässt sich hier nachlesen: [Rothbard: Do You Hate the St
 Ich teile Friedmans Position und sehe keinen Wert darin, ein Tier zu hassen.
 Interessanterweise ist recht einleuchtend, dass Hass auf ein Tier unangemessen ist – selbst wenn es mich attackiert hat.
 Ich verteidige mich vielleicht, aber sobald von dem Tier keine akute Gefahr mehr ausgeht, beruhigen sich meine Gefühle schnell.
-Sogesehen gehen wir mit Raubtieren sogar besser um, als mit Menschen, die wir ob ihrer bösen Absichten zurecht zu hassen meinen.
+So gesehen gehen wir mit Raubtieren sogar besser um, als mit Menschen, die wir ob ihrer bösen Absichten zurecht zu hassen meinen.
 Wenn sich eines Tages eine größere Gruppe zusammenrottet, um gemeinsam mit besserer Erfolgsaussicht den Drachen zu bezwingen, würde ich zu Hause bleiben.
 Für das, was ich vorhabe, soll mir der Drachen eins sein.
 Den Wald, in dem er wohnt, meide ich.
@@ -227,12 +227,12 @@ Genug der Metapher.
 Ich bin ausgewandert und genieße schier unermessliche Freiheit.
 Deutschland macht einem das Auswandern sehr leicht – nur wer nachweislich unternehmerischen Erfolg in Deutschland zu verbuchen hat, muss aufs Auswandern Extrasteuern zahlen.
 Natürlich gibt es aber praktische Hürden fürs Auswandern: Kulturelle Bindung, Freunde, Besitz usw.
-Ich sympathisiere auch mit Menschen, die es als ungerecht empfindern, auswandern zu müssen, um ihren noch so bescheidenen Traum von Freiheit zu verwirklichen.
+Ich sympathisiere auch mit Menschen, die es als ungerecht empfinden, auswandern zu müssen, um ihren noch so bescheidenen Traum von Freiheit zu verwirklichen.
 Was soll ich sagen? Du bist in Gefangenschaft geboren worden.
 Die Heimaterde ist verseucht.
 Deutschland lässt keine Aussteiger innerhalb der Landesgrenzen zu.
 Ich kann in den Wald ziehen – oder besser: auf meinem Grundstück meine Tomaten anbauen und in Kombination mit einem Hühnerstall grundsätzlich gut leben.
-Ich zahle keine Miete und keine Einkommensteuer, muss aber schon aufpassen, wenn ich mir beim Ernten helfen lasse: geldwerte Vorteile sind einkommensteuerpflichtig!
+Ich zahle keine Miete und keine Einkommensteuer, muss aber schon aufpassen, wenn ich mir beim Ernten helfen lasse: Geldwerte Vorteile sind einkommensteuerpflichtig!
 Als «Aussteiger» bin ich mir vielleicht selbst genug, habe mich von Geld sogar losgesagt.
 Dann macht mir in Deutschland immer noch die Krankenversicherungspflicht einen Strich durch die Rechnung.
 Jeden Monat laufen Forderungen auf.
@@ -277,7 +277,7 @@ Praktisch ist aber absehbar, dass das Auswandern – wenngleich unter erschwerte
 Wer die Welt einmal aus der Sicht eines mobilen Unternehmers gesehen hat, sieht in jedem weiteren Staat neue Möglichkeiten, neue Optionen und nicht mehr die Zwänge.
 Selbst innerhalb der EU ist es möglich, Staaten gegeneinander auszuspielen.
 
-Allzuoft sehen wir in dem Drachen noch eine Art menschliche Intelligenz und versuchen, ihm zuzureden oder wir glauben größenwahnsinnig, er hätte es auf uns persönlich abgesehen.
+Allzu oft sehen wir in dem Drachen noch eine Art menschliche Intelligenz und versuchen, ihm zuzureden oder wir glauben größenwahnsinnig, er hätte es auf uns persönlich abgesehen.
 Die Realität: Die Art und Weise wie im Staat Regeln und Gesetze gemacht werden, resultiert systematisch in Strukturen, die von Einzelnen unterwandert werden können.
 Deshalb gehört gar nicht so viel dazu, den Verfolgern einen Schritt voraus zu sein.
 Eine prominente Ausnahme wäre da Kim Dotcom.
@@ -285,7 +285,7 @@ Anders als Julian Assange und Edward Snowden hat sich Kim Dotcom – ein deutsch
 Am 19. Januar 2012 wurde er auf seinem Grundstück in Neuseeland vom FBI überfallen und sein komplettes Vermögen wurde beschlagnahmt.
 Es droht bis heute Auslieferung in die USA und bis zu 20 Jahre Haft wegen Verletzung des Urheberrechts auf seiner Plattform *megaupload*.
 Ross Ulbricht ist in dem Zusammenhang auch ein bemerkenswerter Fall.
-Es ist weniger überraschend, dass Ulbricht als Betreiber von *Silk Road* ins Visir des FBI geraten ist – denn Silk Road ermöglichte unter Anderem den anonymen Handel mit Drogen.
+Es ist weniger überraschend, dass Ulbricht als Betreiber von *Silk Road* ins Visier des FBI geraten ist – denn Silk Road ermöglichte unter Anderem den anonymen Handel mit Drogen.
 Beeindruckend ist das harsche Urteil, dass den jungen, libertären Programmierer für den Rest seines Lebens ins Gefängnis verbannt.
 Man darf davon ausgehen, dass in beiden Fällen ein Exempel statuiert werden sollte.
 Und dahinter steckt eine leicht zu durchschauende Strategie:
@@ -293,7 +293,7 @@ Eine flächendeckende Verfolgung der vielen kleineren und größeren Urheberrech
 Die Beispiele Julian Assange und Edward Snowden zeigen zudem, dass die Flucht in das richtige Land zumindest eine gewisse Sicherheit bieten kann.
 
 Der mobile Unternehmer weiß um all diese Risiken.
-Typischerweise ist er mit seinen Geschäften allenfalls einmal in einem rechtlichen Graubereich unterwegs und gerät nicht im Ansatz in das Visir der Justiz.
+Typischerweise ist er mit seinen Geschäften allenfalls einmal in einem rechtlichen Graubereich unterwegs und gerät nicht im Ansatz in das Visier der Justiz.
 *Vor allem der US-amerikanischen Justiz gilt es, systematisch und weiträumig aus dem Weg zu gehen. Kein anderes Land hat vergleichbaren internationalen Durchgriff.*
 Man sei daran erinnert, wie glimpflich selbst das Dritte Reich für diejenigen Juden verlaufen ist, die rechtzeitig ausgewandert sind.
 Dem mobilen Unternehmer – mit international diversifiziertem Wohnsitz – machen die Drohgebärden mächtiger Staaten auch in absehbarer Zukunft keine Angst.
@@ -314,7 +314,7 @@ Mir soll das recht sein, aber streng genommen teile ich noch nicht einmal Peters
 
 Richard übersieht den Staat, weil er das Kapital als eigentliche Ursache von Leid und Elend erkannt hat.
 Aus seiner Sicht sind bestechliche Politiker ein Problem.
-Lobbyismus untergräbt Demokratie und hölt die Herrschaft des Volkes aus usw. usf.
+Lobbyismus untergräbt Demokratie und höhlt die Herrschaft des Volkes aus usw. usf.
 Wenn ich Richard davon überzeugen könnte, dass der Staat mit SEK und Steuerfahndung ein gefährlicher Drache ist, würde er kontern:
 Das Kapital führt den Drachen an einer Leine hinter sich her und missbraucht die Staatsmacht für seine selbstsüchtigen Zwecke.
 Aus einer komplett anderen Richtung landet der ein oder andere Libertäre bei einer analogen Sichtweise.
@@ -333,7 +333,7 @@ Dass sie oft genug amateurhaft abliefern und unprofessionell auftreten, könnte 
 Wie viel Macht ein Politiker hat und was das genau bedeutet, verdient einen differenzierten Blick.
 
 Ein Minister, der disziplinarisch ein ganzes Ministerium führt, ist praktisch gezwungen, die Arbeit seines Vorgängers zu übernehmen.
-Mit einem Regierungswechsel können nur die Top-Positionen der Ministerien ausgetauscht werden: Die Hierarche darunter bleibt.
+Mit einem Regierungswechsel können nur die Top-Positionen der Ministerien ausgetauscht werden: Die Hierarchie darunter bleibt.
 *Das schafft Kontinuität!* – und verhindert, dass ein Minister jemals umsetzen kann, was er versprochen hat.
 Seine Pläne müssen mit bestehender Bürokratie zum Einen, zum Anderen aber mit bestehenden Ansprüchen vereinbar sein.
 Da steht die alte Belegschaft Schlange, auf deren Kooperation der Minister angewiesen ist, neben einer Reihe von «Freunden», die ihn auf dem Weg zum Amt tatkräftig unterstützt haben und nun zurecht Zahltag erwarten.
@@ -369,7 +369,7 @@ Als solche sind sie möglicherweise selber Opfer von romantischen Vorstellungen 
 Ein Kind, das Lastwagenfahrer werden will, muss sich die Position hinterm Lenkrad unglaublich erhaben vorstellen, denn von Verkehrsregeln und eingeschlafenen Arschbacken weiß es nichts.
 Und tatsächlich: ein Lkw-Fahrer dürfte viele Aspekte seiner Arbeit genießen.
 Dazu gehört für mich nachvollziehbar ein Stolz über die Größe und Kraft seines Gefährts.
-Genauso nachvollziehbar ist das Amt eines Ministerpräsidenten mit weniger Glamor verbunden – sieht sich dieser allenfalls als Führer eines Bundeslandes – als das Amt des Kanzlers.
+Genauso nachvollziehbar ist das Amt eines Ministerpräsidenten mit weniger Glamour verbunden – sieht sich dieser allenfalls als Führer eines Bundeslandes – als das Amt des Kanzlers.
 Egal ob 7,5-Tonner oder Gigaliner: Das Kind auf dem Schoß des Lkw-Fahrers dürfte enttäuscht sein, festzustellen, dass ihm auf der Straße nichts erlaubt ist.
 Weder wildes Lenken, noch scharfes Bremsen, nicht einmal schnelles Beschleunigen ist ihm vergönnt.
 Wer wirklich dauerhaft und mit Freude Lkw-Fahrer ist, dürfte eine Befriedigung in der Wahrnehmung seiner Verantwortung finden.
@@ -384,7 +384,7 @@ Das muss nicht unbedingt objektiv und für Außenstehende nachvollziehbar begrü
 Zweitens kommt selbst jemand, der nicht dran glaubt, in den Genuss sehr materieller Vorteile.
 Die rund 700 Bundestagsabgeordneten verdienen jeder 115.000 EUR Jahresbrutto, effektiv das Doppelte wenn man steuerfreie Zuwendungen berücksichtigt.
 Merkel gehört zu den Politikern, die ihr Einkommen praktisch ausschließlich aus politischer Arbeit bestreiten, und landet bei 350.000 EUR Jahresbruttogehalt.
-Hätte sie es nicht zur Kanzerlin geschafft, erginge es ihr möglicherweise wie Andrea Nahles, die zwei Jahre die SPD angeführt hat, 2019 dann aber hinschmiss.
+Hätte sie es nicht zur Kanzlerin geschafft, erginge es ihr möglicherweise wie Andrea Nahles, die zwei Jahre die SPD angeführt hat, 2019 dann aber hinschmiss.
 Nun gibt es Hinweise auf Arbeit für Nahles in der Bundesanstalt für Post und Telekommunikation, für rund 120.000 EUR Jahresbrutto.
 *Was macht eigentlich die Bundesanstalt für Post und Telekommunikation?
 Ob das so ähnlich ist wie mit der Deutschen Bundesbank?*
@@ -428,13 +428,13 @@ Ihr Unterliegen gegen Trump in 2016 wurde dann in unterschiedlichen Büchern auf
 Dem skandalsüchtigen Libertären ist das zu langweilig.
 Der weiß längst: Clinton ist Teil einer brutalen Polit-Mafia und spielt komplett nach ihren eigenen Regeln.
 Wenn aber am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
-Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zarm zu fügen.
+Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zahm zu fügen.
 
 Was motiviert also den Politiker oder CEO, wenn er es an die Weltspitze geschafft hat?
 Ich meine: Er hat den Schreibtisch nach wie vor voller Arbeit und packt in aller Regel weiter an.
 Das *Geschafft Haben* nimmt er gar nicht wahr – wenn es ihm darum ginge, hätte er schon viel früher aufgehört, bei der ersten Million zum Beispiel.
 Elon Musk ist dafür ein gutes Beispiel.
-Dieser hat es meines Wissens durch sein Auftreten als Technik-Nerd, das auf bizarre Weise authentisch ist, noch nicht zu einer Hauptrolle in einer Verschwörungstheorie geschaft.
+Dieser hat es meines Wissens durch sein Auftreten als Technik-Nerd, das auf bizarre Weise authentisch ist, noch nicht zu einer Hauptrolle in einer Verschwörungstheorie geschafft.
 Das ~~reptiloide~~ roboterhafte Auftreten von Hillary Clinton und ganz ähnlich: von Mark Zuckerberg ist dagegen perfekt für Spekulationen über die dunklen Machenschaften der heimlichen Übermächtigen.
 Dass ich paranoid bin, heißt natürlich aber nicht, dass ich nicht verfolgt werde, und weiter unten werden wir sehen, dass genug dran ist, an einer weltumfassenden Verschwörung auf Kosten des Individuums.
 Nur spielen da einzelne Personen nicht die entscheidende Rolle.
@@ -447,7 +447,7 @@ Die Macht des Staates ist notwendigerweise ein Abstractum und transzendiert die 
 Wir sollen dem Deutschen Staate und seinen Institutionen dankbar dafür sein, dass ein Hitler für alle Zukunft vereitelt werden wird.
 Nur wie kann diese prominent formulierte Absicht wirksam realisiert werden?
 Einschlägiger ist die Beobachtung, dass der Staat – damals die «Deutsche Republik» – einem Hitler die *Machtübernahme* anbietet.
-Aus den demokratischen Institutionen wurden so gleichgeschaltete Nazi-Insititutionen.
+Aus den demokratischen Institutionen wurden so gleichgeschaltete Nazi-Institutionen.
 Pflichtbewusstsein und Rechtsstaat waren Werkzeuge in den Händen der Nazis.
 «Nationalismus» klingt heute böse – wer aber die Sezession Bayerns verlacht, hat deutschen Nationalismus verinnerlicht.
 Eine Spaltung Deutschlands über die Wahl Hitlers – das wäre was gewesen!
@@ -493,8 +493,8 @@ Das soll kein Witz sein:
 Wer die Veröffentlichungen mit nüchternem Blick überfliegt und angesichts der propagandistischen Formulierungen dennoch den Würgereiz im Griff hat, findet hier Repressalien gegen Unternehmer, Waffenbesitzer, Steuerzahler, freidenkende Individuen, Vermieter, ... – dazu Eingriffe in Vertragsfreiheit, sexuelle Selbstbestimmung, das Familienleben, Arbeitsverhältnisse, finanzielle Vorsorge, Gesundheit, ... – und wie selbstverständlich alle paar Wochen neue, detaillierte Auflagen für Geschäfstreibende, die sicherstellen, dass der lange Arm des Staates in jede noch so kleine Branche hineinreicht – mit Dokumentations- und Meldepflichten, Lizenzbestimmungen, Abgaben, Sicherheitsvorschriften usw. usf.
 
 Der bunte Mix an Repressalien wird bei genauerem Hinweisen schnell repetitiv.
-Was eint die beteiligten Personen täglich, um in hoher Taktzahl neue Gesetze hervorzubringen?
-Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemmata in Verbindung mit Herrschaft vergegenwärtigen.
+Was eint die beteiligten Personen täglich, um in hoher Schlagzahl neue Gesetze hervorzubringen?
+Sie könnten ja schließlich auch den Gesellschaftsvertrag überdenken, Deutschland neu ordnen, dem Individuum mehr Raum geben oder sich die ethischen Dilemmas in Verbindung mit Herrschaft vergegenwärtigen.
 Die tägliche Arbeit eines Politikers beinhaltet, dass er seine Fühler ausstreckt und vorausahnt, aus welcher Richtung der Wind weht.
 Einflussfaktoren sind dabei: die politische Linie der Partei, die Stimmung an der Basis, die Ansagen der Parteispitze.
 Wer Karriere machen will, spricht besser dem aussichtsreichsten Führungsanwärter die Unterstützung aus.
@@ -528,7 +528,7 @@ Evolutionär betrachtet ist ebendies hinreichender Grund für die Existenz des M
 
 Die Wissenschaftlichkeit des Mem-Begriffs wird gerne in Frage gestellt.
 Ich möchte betonen, dass es vielmehr die Ablehnung des Mem-Konzepts ist, die einen Verzicht auf Wissenschaftlichkeit bedeutet.
-Die wissenschaftliche Diszplin der Linguistik beschäftigt sich mit der Evolution von Sprache und bedient sich der gleichen Werkzeuge wie die Evolutionsbiologie.
+Die wissenschaftliche Disziplin der Linguistik beschäftigt sich mit der Evolution von Sprache und bedient sich der gleichen Werkzeuge wie die Evolutionsbiologie.
 Das ist kein Zufall: Wörter sind Meme.
 Ist die Entwicklung von Sprache – die Verwendung von Wörtern und die Veränderungen dabei – kein kreativer Prozess maßgeblich gesteuert durch intelligente Individuen?
 Doch!
@@ -560,7 +560,7 @@ Ihr Daseinszweck ist nicht wirklich klar.
 Klar ist, dass Musik erfolgreiche Meme macht.
 Lieder sind der Inbegriff des Ich-will-kopiert-werdens.
 Musik dürfte etwas über unser Gehirn aussagen, denn dieses wird durch eingängige Melodien manipuliert:
-Eine akkustische Wahrnehmung ohne den Informationsgehalt von Sprache, die subtile und weniger subtile Emotionen hervorruft, ist völlig ausreichend für ein gutes Mem.
+Eine akustische Wahrnehmung ohne den Informationsgehalt von Sprache, die subtile und weniger subtile Emotionen hervorruft, ist völlig ausreichend für ein gutes Mem.
 Wir sagen dann «Das Lied ist richtig geil!» und rationalisieren den ganzen Prozess mit den Worten: «Musik ist doch etwas großartiges!»
 
 Kettenbriefe und Religionen mit Missionsbefehl mögen Beispiele dafür sein, wie plump sich Ideen letztlich erfolgreich verbreiten können.
@@ -627,13 +627,13 @@ Interessanterweise verbindet man damit weder einen christlichen Fundamentalisten
 Der Atheist identifiziert in dem Ausdruck die unausgesprochene Prämisse, dass *Christ Sein* charakterliche Integrität oder vergleichbares impliziert.
 Es sind nicht die Moslems, Juden oder Atheisten, die zu dem Schluss gekommen sind, dass Christen gute Menschen sind – den Titel verleihen sich Christen ausschließlich intern.
 Damit ist das implizite, positive Werturteil eigentlich seiner Aussagekraft beraubt.
-Dass sich ein Christ durch integres Handeln auch unter Nicht-Christen einen guten Ruf erarbeiten kann, ist eine andere Geschichte.
+Dass sich ein Christ durch integeres Handeln auch unter Nicht-Christen einen guten Ruf erarbeiten kann, ist eine andere Geschichte.
 Dass *objektiv* am guten Christen etwas dran sei, wegen der Zehn Gebote, die die Grundpfeiler unser Zivilisation seien usw., hält einer kritischen Betrachtung nicht stand.
 Einmal damit angefangen, dass es je nach Zählweise eigentlich elf oder zwölf Gebote sind – leider spricht die Bibel selbst von «zehn Worten» – vier Gebote handeln schlicht von der unbedingten Verehrung eines eifersüchtigen Gottes.
-Die «Heiligung des Sabbaths» ist harmlos – wenngleich lästig – und kann ähnlich wie der Respekt vor den Eltern und die Verbote, falsch Zeugnis zu geben und die Ehe zu brechen, zumindest positiv interpretiert werden.
+Die «Heiligung des Sabbats» ist harmlos – wenngleich lästig – und kann ähnlich wie der Respekt vor den Eltern und die Verbote, falsch Zeugnis zu geben und die Ehe zu brechen, zumindest positiv interpretiert werden.
 Der Mehrwert dieser vier im Wortlaut der Bibel erschließt sich mir jedoch nicht.
 Guter Christ entsprechend der zehn Gebote ist jemand, der Frau und Kinder schlägt – solange er seiner Frau treu bleibt und Sonntags ja nicht arbeitet, sondern brav seine Mutter anruft.
-«Du sollst nicht töten» ist eigentlich glassklar – da war dann aber anstelle der feierlichen Verlesung der zehn Gebote diese Geschichte mit dem goldenen Kalb und Mose sprach:
+«Du sollst nicht töten» ist eigentlich glasklar – da war dann aber anstelle der feierlichen Verlesung der zehn Gebote diese Geschichte mit dem goldenen Kalb und Moose sprach:
 «Ein jeder gürte sein Schwert um die Lenden und gehe durch das Lager hin und her von einem Tor zum andern und erschlage seinen Bruder, Freund und Nächsten.»
 Die Geschichte lehrt uns: Die moralische Flexibilität zeichnet vor allem Anderen den «guten Christen» aus!
 Die beiden «Du sollst nicht begehren»-Gebote ordnen Frauen neben Sklaven und Rindern als Besitz ein, was schlicht den Werten der Zeit entsprach.
@@ -655,7 +655,7 @@ Der Mensch – nicht die Natur – ist Schöpfer von «gut» und «schlecht».
 In dem erfolgreichen Buch [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) schreibt Yuval Harari von «funktionalen Fiktionen».
 Zu diesen zählt Harari völlig korrekt:
 
-* Hammuarbis Gesetzescodex
+* Hammurabis Gesetzescodex
 * Die Verfassung der USA, inklusive des darin enthaltenen «all men are created equal»
 * Geld (allgemein: den Geldmechanismus, der unter anderem kulturüberschreitenden indirekten Handel erlaubt)
 * Menschenrechte
@@ -664,9 +664,9 @@ Zu diesen zählt Harari völlig korrekt:
 
 Man könnte der Liste hinzufügen: Wertegemeinschaften, Moral, Liberalismus.
 Bei Hararis funktionalen Fiktionen handelt es sich um nichts geringeres als um Memplexe und der Verweis darauf, dass diese eine Funktion erfüllen, ist durchaus angemessen.
-Meme sind nicht intelligent – ebensowenig wie Gene.
+Meme sind nicht intelligent – ebenso wenig wie Gene.
 Im Ergebnis sind aber Organismen und Memplexe zu beobachten, denen man eine Funktion erstellt.
-Warum hat ein Vogel flügel? «Um fliegen zu können» ist eine einfache und klare Antwort.
+Warum hat ein Vogel Flügel? «Um fliegen zu können» ist eine einfache und klare Antwort.
 «Weil in einer Folge von Mutationen Flügel entstanden sind» ist gleichermaßen korrekt und nichtssagend.
 Die gedankliche Übung, sich reduktionistisch die natürliche Selektion als Ursprung komplexer Organe vor Augen zu führen, kann aber sinnvoll sein.
 Warum geben sich moderne Staaten eine Verfassung?
@@ -716,7 +716,7 @@ Dass er diese in ein wissenschaftliches Gewand gekleidet hat, ist möglicherweis
 
 Die Einsicht, dass sich hinter meinen Überzeugungen und Werten ein Wettbewerb selbstsüchtiger, ultimativ zielloser Meme verbirgt, erlaubt grundsätzlich die erforderliche Distanz zum Forschungsgegenstand einzuhalten.
 Dass auch konkret meine Überzeugungen gemeint sind, muss mich nicht weiter beschäftigen.
-Ebensowenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
+Ebenso wenig beschäftigt mich die Tatsache, dass mein Hungergefühl – und mein Sextrieb – genetisch determiniert ist und letztlich nur dem Fortbestand meiner Gene dient.
 Bin das wirklich ich oder bin ich bloßer Sklave meiner Natur?
 Beim Essen – und beim Sex – mache ich mir solche Gedanken eher selten.
 Dass sich wiederum jemand mit seinen Genen identifizieren könnte, möchte ich niemandem verübeln, kann ich aber auch nicht weiter ernst nehmen.
@@ -730,7 +730,7 @@ Die *Amish People* sind ein Beispiel für einen systematischen Rückzug in eine 
 Man mag das als Beweis dafür interpretieren, dass es doch möglich ist: Nicht nur Individuen, sondern auch größere Gruppen können sich den Memen entziehen – sofern sie wollen.
 Damit sollte die Angst vor den Memen als solche eigentlich erledigt sein.
 Die *Amish People* machen allerdings deutlich, welchen Preis ich für den Rückzug zahlen muss.
-Auch entlegende Bauernhöfe werden zunehmend durch Mobilfunknetze erreicht und dort – im Internet – drängen die Meme an der Tür nur so darum, hereingelassen zu werden.
+Auch entlegene Bauernhöfe werden zunehmend durch Mobilfunknetze erreicht und dort – im Internet – drängen die Meme an der Tür nur so darum, hereingelassen zu werden.
 Tatsächlich sind die Amish eine erfolgreiche Ausnahme unter vielen gescheiterten Projekten des kollektiven Rückzugs.
 Man könnte es auch so formulieren:
 Den Amish ist es gelungen, religiöse Meme, genauer: ihr *amish meme* an die Stelle der modernen Welt zu setzen.
@@ -752,14 +752,14 @@ Dann gibt es von Land zu Land unterschiedliche Bildungs-, Gesundheits- und Recht
 Letztlich ist eben die Herrschaft landesspezifisch ausgeprägt.
 Nicht selten blickt ein Land konkret auf Ereignisse in der Geschichte zurück, durch die der Herrschaftsanspruch innerhalb der Landesgrenzen etabliert und verteidigt wurde.
 Die Krönung ist dann ein entsprechender Nationalfeiertag, der die Untertanen lehrt, sich selber dabei als die glücklichen Gewinner zu sehen.
-Dass auch der private materielle Wohlstand entlang von Landesgrenzen strukturiert ist, kann – muss aber nicht – kosequenz staatlicher Grenzen sein.
+Dass auch der private materielle Wohlstand entlang von Landesgrenzen strukturiert ist, kann – muss aber nicht – Konsequenz staatlicher Grenzen sein.
 Oft genug gibt es eben doch auch die realen Unterschiede zwischen Menschen, Gesellschaften und Kulturen – mit zusätzlich unterschiedlichen natürlichen Rahmenbedingungen.
 Wer allerdings mal längere Zeit im Ausland verbringt, merkt schnell, wie neben dem biologischen und kulturellem Erbe auch sehr kurzlebige Aspekte von Nationalität existieren.
-So ein Auslandsaufenthalt erweitert schnell die Perspektive – umgekehrt ist die Perspektive des daheimgebliebenden fast zwingend eingeschränkt.
+So ein Auslandsaufenthalt erweitert schnell die Perspektive – umgekehrt ist die Perspektive des Daheimgebliebenen fast zwingend eingeschränkt.
 So teilen meine deutschen Freunde unter sich die Überzeugung, das deutsche Bildungs- und Gesundheitssystem sei unverzichtbar.
 Wie ich dass denn mache mit der Krankenversicherung?
 *Antwort: Ich habe nichts gegen Versicherungen, bezahle aber zur Zeit einfach den Arzt, wenn ich seine Dienste in Anspruch nehme.*
-Und: Wo die Kinder denn mal zur Schule gehen sollen? *Antwort: Nirgends und nie. Übrigens ein guter Grund, Deutschland zu verlassen: die Schulfplicht.*
+Und: Wo die Kinder denn mal zur Schule gehen sollen? *Antwort: Nirgends und nie. Übrigens ein guter Grund, Deutschland zu verlassen: die Schulpflicht.*
 
 Hoppe beschreibt Staaten als territoriale Gewaltmonopolisten.
 Damit gelingt es ihm, in wenigen Worten jegliche Idealisierung beiseite zu wischen.
@@ -804,7 +804,7 @@ Neben den bekannten ökonomischen Problemen litten darunter die Beziehungen der 
 Da war nicht nur die Angst vor der Denunziation und dem Abtransport ins Lager sondern auch die Überzeugung, dass der Nachbar, die Tante, die Schwester usw. sich wirklich des Betrugs an der Revolution und der Arbeiterklasse schuldig gemacht haben.
 
 Ich möchte die aktuelle Verquickung aus althergebrachter Staatsgewalt und volatiler Ideologie schlicht «Demokratie» nennen.
-Was wir beobachten ist eine konsequente Fortführung der alten liberalen Idee: der Gestaltung von Macht – eben auch brutaler, tötlicher Macht – anhand von progressiven Idealen.
+Was wir beobachten ist eine konsequente Fortführung der alten liberalen Idee: der Gestaltung von Macht – eben auch brutaler, tödlicher Macht – anhand von progressiven Idealen.
 Der Individualismus – ein weiterer Memplex – ist die logische Gegenposition dazu.
 Das zeitlose Prinzip dahinter: Ich begreife mich selber als König – erhaben über Gesetz, Moral und Ideale – und trete entsprechend auf.
 Soweit es in meiner Macht steht, zwinge ich mein Gegenüber, meine Herrschaft anzuerkennen.
@@ -814,4 +814,4 @@ Wahrheit ist jetzt schon oft genug gleichbedeutend mit Lüge – ganz gemäß de
 Meme sind identitätsstiftend, bedingen aber ultimativ die Spaltung.
 Zusammenleben wird durchseucht von Ideologie.
 Die Welt wächst dabei zusammen: kaum ein Fleck Erde wird effektiv als Rückzugsort taugen.
-Die Gemeinschaft der Individualisten ist dabei nicht ohne ihre eigenen Widersprüche und an dieser Front lohnt es sich zuallerst anzupacken.
+Die Gemeinschaft der Individualisten ist dabei nicht ohne ihre eigenen Widersprüche und an dieser Front lohnt es sich zuallererst anzupacken.
