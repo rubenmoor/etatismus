@@ -67,7 +67,7 @@ Da geht es um die Effektivität privatwirtschaftlich organisierter Verteidigung 
 Letztere verschlingt am Beispiel der USA den Löwenanteil des Rüstungsbudgets und fällt für eine friedliche *Privatrechtsgesellschaft* komplett weg.
 In der Praxis stellen die wenigsten Libertarismus-Kritiker allzu viele Fragen, die über *Muh' roads* hinausgehen, und kommen nie in den Genuss von Robert Murphys Einsichten. Mein persönlicher Favorit ist sein [Vortrag auf YouTube: Würde es in der freien Gesellschaft Gefängnisse geben?](https://www.youtube.com/watch?v=SzYJYSm-MfI)
 
-{{#template comment_thread.tpl threadid:libertäre-bücher}}
+{{#template comment_thread.tpl threadid:libertaere-buecher}}
 
 Mich überzeugt Robert Murphy grundsätzlich und ich habe seine Texte und Vorträge verschlungen.
 Allerdings gibt es eine Einschränkung.
@@ -100,7 +100,7 @@ Im Staat wird gegen Fortschritt, der den Staat eventuell überflüssig macht, ak
 Das wiederum – diese fortgesetzte Ineffizienz inklusive größerer und kleinerer gewaltsamer Exzesse – charakterisiert genau den Staat.
 Ein Teufelskreis.
 
-{{#template comment_thread.tpl threadid:präferenzen}}
+{{#template comment_thread.tpl threadid:praeferenzen}}
 
 Ein Gedankenexperiment:
 Ich stelle mir vor, die Kleinstädte Schleswig-Holsteins hätten sich in eine freie Gesellschaft verwandelt.
@@ -375,7 +375,7 @@ Die Beteiligten EU-Politiker sind dabei nicht schlauer als die reinen Zuschauer.
 Sie wissen auch nicht, wohin die Reise geht.
 Der berühmte *kleinste gemeinsame Nenner* ist alles andere als ein Konsens und befriedigt in der Regel nicht ein konkretes Interesse.
 
-{{#template comment_thread.tpl threadid:europäischeintegration}}
+{{#template comment_thread.tpl threadid:europaeischeintegration}}
 
 Die genaue Rolle, die beispielsweise ein Kanzler in dem Staat einnimmt, ist für einen Außenstehenden sehr schwer einzusehen.
 Von Helmut Kohl heißt es, er habe die Hälfte jedes Arbeitstages damit zugebracht, am Telefon seine politischen Beziehungen zu pflegen.
@@ -453,7 +453,7 @@ Ich steuere die Geschicke der Welt und bleibe im Hintergrund?
 Es ist ganz im Gegenteil zu beobachten, wie praktisch alle mehr oder weniger größenwahnsinnigen Mächtigen der Weltgeschichte sehr hart daran arbeiten, sich öffentlichkeitswirksam ein persönliches Denkmal zu setzen.
 Dabei gelingt es nur wenigen, ihre Person selbst in den Stand des Heiligen zu erheben, der eine eigene Statue verdient, und so muss der normale Anwärter auf Unsterblichkeit irgendein populäres Anliegen vorschieben, um es nicht nur in den Klub der Billionäre sondern in die Geschichtsbücher zu schaffen.
 
-{{#template comment_thread.tpl threadid:politikerüberschätzen}}
+{{#template comment_thread.tpl threadid:politikerueberschaetzen}}
 
 **Das Unterschätzen** ist schlichte Unkenntnis der Herausforderungen eines Spitzenpolitikers oder Unternehmers.
 Wer die Ehre hat, einen erfolgreichen Unternehmer kennenzulernen, gelangt womöglich zu der Feststellung, dass dieser anders tickt als die Hausfrauen und Angestellten um einen herum.
@@ -473,7 +473,7 @@ Der weiß längst: Clinton ist Teil einer brutalen Polit-Mafia und spielt komple
 Wenn aber am [Clinton Body Count](https://en.wikipedia.org/wiki/Clinton_Body_Count) etwas dran sein sollte, wäre das gewaltige Ironie:
 Hillary Clinton hätte demnach den unbändigen Machthunger eines Gewaltherrschers, der über Leichen geht, um sich dann in der Wahlnacht der Stimmenauszählung zahm zu fügen.
 
-{{#template comment_thread.tpl threadid:politikerunterschätzen}}
+{{#template comment_thread.tpl threadid:politikerunterschaetzen}}
 
 Was motiviert also den Politiker oder CEO, wenn er es an die Weltspitze geschafft hat?
 Ich meine: Er hat den Schreibtisch nach wie vor voller Arbeit und packt in aller Regel weiter an.
@@ -524,7 +524,7 @@ Natürlich impliziert eine Hausdurchsuchung das gewaltsame Eindringen in eine Pr
 *Rechtsstaatlichkeit* bedeutet dabei, dass mir ein unterschriebener Wisch gezeigt wird, bevor meine Wohnung auf links gedreht wird.
 So hat letztlich alles seine rechtmäßige Ordnung.
 
-{{#template comment_thread.tpl threadid:öffentlichesrecht}}
+{{#template comment_thread.tpl threadid:oeffentlichesrecht}}
 
 Auf der Suche nach dem Bösewicht im Staat sind Polizisten aber langweilig, weil zu weit unten in der ausführenden Hierarchie.
 Es sei hier lediglich angemerkt, dass die Macht, die ein Polizist, Staatsanwalt oder Richter über Menschen ausübt, an sich schon beachtlich ist.
