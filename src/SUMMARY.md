@@ -11,4 +11,6 @@
     - [Konkurrierende Weltanschauungen: Auf der Suche nach der Wahrheit](./kollektivismus.md)
 - [Stirner](./stirner.md)
     - [Mir geht nichts über mich](./dereinzigeeinfuehrung.md)
-- [Dennett](./readingdennettevolutionofminds.md)
+- [Dennett: From Bacteria to Bach and back](./dennettevolutionofminds.md)
+    - [Part I: Turning our world upside down](./readingdennettevolutionofminds-part1.md)
+    - [Part II: From evolution to intelligent design](./readingdennettevolutionofminds-part2.md)
