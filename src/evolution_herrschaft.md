@@ -86,4 +86,24 @@ Die Täuschung offenbart sich in ihrem einseitigem Nutzen für einen Herrschende
 
 ### 8. Moderne Herrschaft geschieht entlang von Regeln, die der Herrscher vorgibt (Rechtspositivismus)
 
-### 9.
+### 9. Vertreter diverser demokratischer Sekten stehen als «wahre Demokraten» in den Staatlöchern, um die legitime Herrschaft aufzubauen
+
+### 10. Menschen tendieren dazu, schlechte Ideen gut zu verkaufen
+
+Der Hintergrund ist Memetik.
+Der Ursprung der Meme liegt in «nützlichen Ideen» vor dem Hintergrund biologischen Selektionsdrucks.
+Die memetische Dynamik beinhaltet dann zunehmend Meme, die ihr Kopiert Werden maximieren unabhängig einer Nützlichkeit.
+Der Einfluss der Meme auf das Gehirn macht Menschen zu *Meme Machines* in deben diesem Sinne:
+Kopieren um jeden Preis!
+Menschen sind Vertreter, die von Tür zu Tür gehen, um Meme zu verbreiten.
+Unsere Intelligenz dient dabei den Memen:
+Wir entwerfen Marketing-Strategien, um *unsere Ideen* zu verbreiten.
+Das äußert sich unter Anderem in
+
+* emotionale Investition in Argumente (Überzeugungen)
+* Durchseuchung jeder vorgeblich sachlichen Auseinandersetzung mit sogenannten Fehlschlüssen
+  * Ad-Hoc Argumente ("Hauptsache Kontra")
+  * Ad-Hominem-Argumente
+  * Emotionalisieren und Moralisieren
+
+Ein «Mensch, der zu seinen Überzeugungen steht» wird sogar positiv bewertet.
