@@ -171,13 +171,137 @@ Wörter domestizieren sich.
 
 > The digitization of phonemes has a profound implication: words play a role in cultural evolution that is similar to the role of DNA in genetic evolution, but, unlike the physically identical ladder rungs in the double helix made of Adenine, Cytosine, Guanine, and Thymine, words are not physically identical replicators; they are “identical” only at the user-illusion level of the manifest image. Words, one might say, are a kind of virtual DNA, a largely digitized medium that exists only in the manifest image.
 
-> The digitization of phonemes has a profound implication: words play a role in cultural evolution that is similar to the role of DNA in genetic evolution, but, unlike the physically identical ladder rungs in the double helix made of Adenine, Cytosine, Guanine, and Thymine, words are not physically identical replicators; they are “identical” only at the user-illusion level of the manifest image. Words, one might say, are a kind of virtual DNA, a largely digitized medium that exists only in the manifest image.
-
 Wörter sind Vehikel für memetisches Erbgut.
 Das «Material», aus dem Meme ihre Vehikel bauen, sind dabei menschliche kognitive Fähigkeiten.
 Das heißt, die Suche nach sehr physischen Repräsentationen ist nicht hilfreich.
 Die Umwelt der Meme versteht man, je besser man die Fähigkeiten des Gehirns beim Differenzieren und Artikulieren von Lauten usw. versteht.
 
-## 10 The Meme's-Eye Point of View
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-phonemes}}
 
-### Words and other memes
+## 10 the meme's-eye point of view
+
+### words and other memes
+
+wörter sind meme, besser: wörter sind vehikel.
+damit kann man bezüglich memen ein engeres begriffsverständnis beibehalten:
+meme sind verhaltensrezepte mit einem zweck.
+
+Wörter sind gute Beispiele für kulturelle Erzeugnisse, die nicht intelligent entworfen worden und stattdessen evolvieren.
+Gleichzeitig wird im Evolvieren von Wörtern der maßgebliche Einfluss menschlicher Intelligenz deutlich, bei dem auch bewusstes Entwerfen von Begriffen und Begriffskritik eine Rolle spielt.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-wordsarevehicles}}
+
+### What's good about memes?
+
+> Among scientists researching cultural evolution, there has been something of an embargo against using Dawkins’s (1976) term “meme” to refer to the ways of doing and making things that spread through cultures, but every theorist I can think of countenances such items under one term or another: ideas, practices, methods, beliefs, traditions, rituals, terms, and so on. These are all informational things that spread among human beings more or less the way germs or viruses do.
+
+«Informational things» ist eine denkbar ungünstige Betonung.
+Etwas, was Information ist, sagt fast nichts aus: Was ist keine Information?
+Sollten Meme also dauerhaft immateriell sein? Nur Information?
+Das ist eine Sackgasse.
+Meme sind insofern immateriell, weil sie in der Welt der Handlungen leben.
+Handlungen sind aber zumindest direkt an Verwendung von Ressourcen gekoppelt und haben sehr deutliche materielle Aspekte.
+Gene sind auch nicht mehr oder weniger "informational things".
+Wichtig ist bei Memen und bei Genen, dass die materielle Repräsentation nicht ausschlaggebend ist und sich verändern kann.
+Das macht Gene und Meme etwas schwer greifbar.
+Als notwendiger Bestandteil in einem Replikationsprozess sind Gene und Meme aber gleichermaßen als das *Erbgut*, das was in hoher Genauigkeit scheinbar zielorientiert kopiert wird, zu identifizieren.
+Das Erbgut ist in der Evolution eine Quasi-Invariante oder semistabil meinetwegen.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-informationalthings}}
+
+> Competence without comprehension. The designedness of some cultural items is attributable to no author or syndicate of authors, no architects, no intelligent designers at all; the undeniable cleverness or aptness of the arrangement of the parts is due entirely to natural selection: the differential replication of informational symbionts whose hosts can be as clueless about their cleverness as butterflies are of the eye-spots on their wings. (Human beings often do appreciate the virtues of the ideas they eagerly spread, but this is, as we shall see, a mostly recent and entirely optional feature of much of cultural evolution. Human comprehension—and approval—is neither necessary nor sufficient for the fixation of a meme in a culture.)
+
+Dennetts Vorarbeit zahlt sich jetzt aus.
+Bei Kultur taucht die Unterstellung zwingend auf, gemäß der kulturelle Errungeschaften verstehende Menschen voraussetzen.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-competencecomprehensionmemes}}
+
+> Traditional theories of cultural change in the humanities and social sciences have often struggled without these ideas. Old-fashioned Durkheimian functionalism, for instance, uncovered many highly plausible functions and purposes of social arrangements—taboos, practices, traditions, social distinctions, and so forth—but was unable to explain how these effective arrangements came into existence.
+
+Gesellschaft wird häufig als ein lebendiges Wesen verstanden, indem Konzepte, Ideen, Pläne, Werte, Institutionen usw. eine Funktion haben.
+Auch Dennett fällt dieser Denkweise zum Opfer: In «Consciousness Explained» im letzten Kapitel sieht Dennett sich als Philosoph Einfluss auf die Gesellschaft nehmen und unterstellt dieser dabei eine Art Vernunft.
+
+Möglicherweise unterschätzt Dennett also auch hier, wie tief eine implizit funktionalistische Denkweise sitzt, vor allem in Verbindung mit demokratischem Idealismus, der explizit Autorenschaft für gewisse Institutionen zu beanspruchen scheinen scheint.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-traditionaltheories}}
+
+> But although ideas and beliefs (however we want to characterize them as mental or psychological states or episodes) obviously play a big role in human culture, not all cultural transmission and evolution depends on anything like conscious uptake.
+
+Die Rolle von Akten bewussten Handelns für kulturelle Entwicklung wird überschätzt.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-idea-conscious}}
+
+> The notorious confirmation bias is our tendency to highlight the positive evidence for our current beliefs and theories while ignoring the negative evidence. This and other well-studied patterns of errors in human reasoning suggest that our skills were honed for taking sides, persuading others in debate, not necessarily getting things right.
+
+Wir würden uns gerne als Rationalisten verstehen, sind darin aber nicht sonderlich gut.
+Das wiederum ist wahrscheinlich kein Mangel, sondern die genetisch-memetische Prädisposition:
+Menschen sind *meme machines* und während Anpassungsfähigkeit an Natur Grund für Rationalismus gibt, ist Anpassungsfähigkeit in einem sozio-kulturellen Kontext eher durch die Fähigkeit zu *rationalisieren* gegeben:
+Praktisch eine beliebige Überzeugung kann durch Individuen leidenschaftliche vertreten werden.
+Wir identifizieren uns mit unseren Handlungen und Überzeugungen – als könnten wir sie nicht austauschen.
+Zuguterletzt legen wir Theorien zurecht, die oberflächlich das Bild des Rationalisten vervollständigen.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-confirmationbias}}
+
+## 11 What's wrong with memes? Objections and Replies
+
+### Memes don't exist
+
+> Yet another option insists that colors do indeed exist; they just aren’t what the folk think they are. I have followed that path throughout my career, insisting that not only are colors real but also consciousness, free will, and dollars. Dollars are an interesting case. Probably one of the most powerful subliminal supports for the belief in the reality of dollars comes from the undoubted existence of dollar bills and coins, legal tender you can see and weigh and manipulate and carry around. Bitcoin, in contrast, seems much more illusory to most folks, but if they reflect on it, they will discover that the palpable, foldable dollar bills that are physical objects are ontological crutches of sorts, to be thrown away once you’ve learned how to walk, leaving in place only the mutual expectations and habits that can in principle support bitcoin as well as dollars. Well into the twentieth century there were heated political debates on the necessity of maintaining such crutches—the gold standard and silver certificates, and the like—but tomorrow’s children may grow up with only credit cards to hold and manipulate and be none the worse off for it. Dollars are real; they just aren’t what you may think they are.
+
+Dennett erklärt, dass Meme real sind (From Bacteria to Bach and back).
+Ich respektiere seinen Vergleich zwischen Dollar und Bitcoin, möchte aber anmerken, dass Gold definitiv keine Krücke ist, die man ohne Konsequenzen wegwirft und Bitcoin zumindest versucht, gewisse Eigenschaften von Gold zu reproduzieren.
+Da Dennett zum Zeitpunkt des Verfassens 76 Jahre alt war, verzeihe ich ihm diese Ungenauigkeit und verfolge weiter gespannt, was er zu Memen zu sagen hat.
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-dollarbtc}}
+
+> What is particularly important in this exploration of memes is that some of these higher levels really do depend on comprehension, not just copying competence, even though they are based on, and rely on, systems of copying competence that do not require comprehension. In fact, from this vantage point we can see that the high-fidelity copying of DNA, our chief model for replication, stands out as an extreme case of mindlessness in replication.
+
+Man bekommt das Gefühl, Dennett hat Blackmore nicht gelesen.
+Die hat diesen Aspekt klar herausgearbeitet.
+
+- [ ] Blackmore zitieren
+
+Wörter sind keine Meme sondern Vehikel.
+Die eigentlichen Meme sind Handlungsrezepte und äußern sich *sowohl* im zielorientierten *als auch* im ritualisierten Handeln von Individuen.
+Dass Meme existieren, ergibt sich aus der Existenz eines evolutionären Prozesses in menschlicher Kultur, der sichtbar ist und sogesehen nicht bewiesen, sondern genau beobachtet werden muss.
+Auch Meme haben eine hohe Kopiergenauigkeit, allerdings eben bezüglich der *relevanten Aspekte*.
+Menschen, die ein Handlungsrezept kopieren, tun das vor dem Hintergrund eines Zwecks.
+Selbiger kann als eine Art Prüfziffer verstanden werden.
+Wenn ich eine Stunde in der Küche verbringe und Eier aufschlage und den Ofen anmache, dabei am Ende aber kein leckerer Kuchen herauskommt, habe ich das Backen-Mem nicht erfolgreich kopiert.
+Den Aspekt «comprehension», das Verstehen, lässt sich leicht überbetonen.
+Menschen müssen nur soweit verstehen, bis sie in der Lage sind den Zweck des Mems zu produzieren.
+Der Zweck ist dabei aber zu unterscheiden von der Funktion des Mems in einem Memplex – andernfalls würde ich Meme wörtlich nehmen: ein Kategorienfehler.
+Der Vater, der seinen Sohn erzieherisch prügelt, hat als Zweck Gehorsam im Sinn.
+Sowohl die Ursache als auch die Funktion des erzieherischen Schlagens erschließt sich aber aus unbewusster und nicht zugänglicher Psychologie.
+
+(Facebook:)
+
+Dennett macht es unnötig kompliziert. Ich erahne eine grobe Ungenauigkeit: Meme hingen vom menschlichen Begriffsvermögen ab (Blackmore in "The Meme Machine" war klarer, was diesen Aspekt angeht). Ein Beispiel:
+
+«Wer seine Rute schont, hasst seinen Sohn; aber wer ihn lieb hat, züchtigt ihn beizeiten.» Sprüche 13, 24; ELB
+
+Dieser Satz ist ca. 2500 Jahre alt und hatte bis vor kurzem kulturübergreifend praktisch universelle Gültigkeit. Das Mem ist das erzieherische Schlagen: Der Vater boxt nicht irgendeinem wehrlosen Kind aus dem Nichts auf die Nase, sondern er folgt einer impliziten Handlungsanweisung:
+
+"Um Gehorsam zu erreichen, füge ich meinem Kind Schmerzen zu und befolge dabei recht strikt ein im Kern willkürliches Ritual. An der demütigen Haltung im Anschluss an die Schläge mach ich fest, dass der Zweck des Schlagens erfüllt wurde."
+
+Darauf beschränkt sich das Begriffsvermögen des Vaters mehr oder weniger. Wenn der Vater wirklich begreifen würde, was die Schläge anrichten, wäre er evtl. eher gehemmt, zuzuschlagen.
+
+Der Erfolg des Mems basiert auf einem psychologischen Mechanismus, der natürlich unterbewusst abläuft. Alle Theorie vom bösen Kind, dem man "die Flausen austreiben muss" sind ad-hoc entstanden. Der Grund für das Schlagen ist das erfolgreiche kanalisieren von Aggression. Wurde ich als Kind erzieherisch geschlagen, wiederhole ich das Trauma als Täter mit gewisser Wahrscheinlichkeit an meinen Kindern - abhängig von weiteren Bedingungen natürlich. Der Satz in der Bibel ist ein Vehikel: Das Mem breitet sich effizienter aus, wenn es ad-hoc-Rationalisierungen im kulturellen Kanon etablieren kann.
+
+Menschen sind eben *meme machines* (Blackmore), mehr als rationale Individuen. Die Meme wissen, die Rationalität zu nutzen – fürs Rationalisieren.
+
+Evolutionär gesprochen gibt es neben Ursache und Konsequenzen jetzt noch die *Funktion* des erzieherischen Schlagens. Diese beruht letztlich auf Spekulation und wird in dem Film "Das weiße Band" veranschaulicht. Eine Gesellschaft mit erzieherischem Schlagen ist fruchtbarer Boden für Ideologien, die auf Autoritätsglauben setzen (dazu gehört natürlich nicht nur das Dritte Reich, sondern allgemein staatliche Strukturen).
+
+----
+
+Weil erzieherisches Schlagen heute kritisch gesehen wird, ist diese Analyse nicht weiter schwierig. Das Dennett-Zitat geht dabei in eine falsche Richtung: Meme, die vom menschlichen Begriffsvermögen abhängen - das lässt eine angenehme Hintertür offen: Meme können im Großen und Ganzen eine gute Sache sein. (Kategorienfehler!)
+
+Was wird Dennett zu folgendem Mem sagen: "Im Namen des Rechtsstaates auf einen Menschen schießen"? Weil das praktisch gar nicht so einfach ist, gehört dazu Übung und auch Ritualisierung.
+
+"Begreifen" muss der Soldat oder Polizist nur, dass er entsprechend eines staatlichen Auftrags handelt und keine negativen Konsequenzen davontragen wird. Die Ursache für das Abdrücken ist komplizierter. Moderne Staaten pflegen - mehr oder weniger erfolgreich - eine Parallelgesellschaft aus Uniformierten, die grundsätzlich tötungsbereit sind.
+
+Die Funktion? Die Selbsterhaltung eines territorialen Gewaltmonopolisten (Grüße an Hoppe), der sich ad hoc (oder ex post?) zum Synonym für Ordnung und Frieden gemacht hat. Die jüngere deutsche Geschichte ist speziell darin, die kriegerische Parallelgesellschaft bestmöglich zu entmachten – ganz ohne scheint es nicht zu gehen – aber wer weiß, wann sich dieser Trend evtl. wieder umkehrt?
+
+"Mindless replication" ist für Gene und für Meme das wichtigere Stichwort als "comprehension".
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-higherlevels}}
