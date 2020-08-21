@@ -305,3 +305,11 @@ Die Funktion? Die Selbsterhaltung eines territorialen Gewaltmonopolisten (Grüß
 "Mindless replication" ist für Gene und für Meme das wichtigere Stichwort als "comprehension".
 
 {{#template comment_thread.tpl threadid:dennett-bacteriatobach-higherlevels}}
+
+## 12 The Origins of Language
+
+### The chicken-egg problem
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-chickenegg}}
+
+### Winding paths to human language
