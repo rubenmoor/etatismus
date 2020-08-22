@@ -313,3 +313,10 @@ Die Funktion? Die Selbsterhaltung eines territorialen Gewaltmonopolisten (Grüß
 {{#template comment_thread.tpl threadid:dennett-bacteriatobach-chickenegg}}
 
 ### Winding paths to human language
+
+{{#template comment_thread.tpl threadid:dennett-bacteriatobach-pathhumanlanguage}}
+
+## 13 The Evolution of Cultural Evolution
+
+### Darwinian beginnings
+
